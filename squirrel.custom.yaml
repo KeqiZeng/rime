@@ -6,7 +6,7 @@ patch:
     candidate_list_layout: linear # stacked | linear
     text_orientation: horizontal
     inline_preedit: true
-    color_scheme: nightelf
+    color_scheme: panda
   preset_color_schemes:
     nightelf:
       name: NightElf
@@ -25,4 +25,23 @@ patch:
       hilited_comment_text_color: '0x88D3A8'
       candidate_text_color: '0xC9C9C9'
       label_color: '0xC9C9C9'
-      comment_text_color: ''
+      comment_text_color: '0xC9C9C9'
+
+    panda:
+      name: Panda
+      author: ketch
+      corner_radius: 5
+      font_face: PingFangSC
+      font_point: 20
+      label_font_point: 20
+      back_color: '0xF1F1F1'
+      text_color: '0x2E2E2E'
+      hilited_text_color: '0xEAEAEA'
+      hilited_back_color: '0x2E2E2E'
+      hilited_candidate_text_color: '0xF1F1F1'
+      hilited_candidate_back_color: '0x2E2E2E'
+      hilited_candidate_label_color: '0xF1F1F1'
+      hilited_comment_text_color: '0xF1F1F1'
+      candidate_text_color: '0x2E2E2E'
+      label_color: '0x2E2E2E'
+      comment_text_color: '0x2E2E2E'
