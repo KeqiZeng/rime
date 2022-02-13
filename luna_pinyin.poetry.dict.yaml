@@ -1,10 +1,13 @@
 # Rime dictionary
 # encoding: utf-8
+#
+# based on THUOCL_poem
 
 ---
-name: THUOCL_poem
-version: "1"
+name: luna_pinyin.poetry
+version: "1.0"
 sort: by_weight
+use_preset_vocabulary: true
 ...
 
 更上一层楼	geng shang yi ceng lou	4472

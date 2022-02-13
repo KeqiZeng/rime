@@ -12,6 +12,7 @@ patch:
       states: ["。，", "．，"]
   engine:
     processors:
+      # - ascii_composer
       - recognizer
       - key_binder
       - speller
@@ -20,6 +21,7 @@ patch:
       - navigator
       - express_editor
     segmentors:
+      # - ascii_segmentor
       - matcher
       - abc_segmentor
       - punct_segmentor

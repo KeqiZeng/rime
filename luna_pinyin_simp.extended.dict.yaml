@@ -10,7 +10,6 @@ use_preset_vocabulary: true
 import_tables:
   - luna_pinyin_simp
   - THUOCL_IT
-  - THUOCL_medical
   - sogou_automobile
   - sogou_ai
   - sogou_electronics
@@ -23,6 +22,7 @@ import_tables:
   - sogou_entertainment
   - sogou_place
   - luna_pinyin.name
+  - luna_pinyin.medical
   - luna_pinyin.poetry
   - custom_supplement
   - luna_pinyin.cn_en

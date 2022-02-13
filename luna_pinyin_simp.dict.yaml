@@ -11,6 +11,7 @@
 name: pinyin_simp
 version: "0.2"
 sort: by_weight
+use_preset_vocabulary: true
 ...
 
 # zh_simp 精简 -> 8105
