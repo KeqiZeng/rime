@@ -28,6 +28,7 @@ patch:
       - punct_translator
       - script_translator
       # - table_translator@custom_phrase
+      - reverse_lookup_translator
       - table_translator@chaizi      # 启用拆字词典
       - lua_translator@date_translator
       - lua_translator@time_translator
@@ -64,6 +65,18 @@ patch:
     enable_completion: true
     enable_sentence: false
     initial_quality: 1
+
+  # 反查
+  reverse_lookup:
+    dictionary: stroke
+    enable_completion: true
+    prefix: "`"
+    suffix: "'"
+    tips: 〔筆畫〕
+    preedit_format:
+      - xlit/hspnz/一丨丿丶乙/
+    comment_format:
+      - xform/([nl])v/$1ü/
 
   # 引用symbols.yaml
   punctuator:
