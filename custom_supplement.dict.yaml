@@ -7,37 +7,39 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 
-⓪	ling	2000
-①	yi	2000
-②	er	2000
-③	san	2000
-④	si	2000
-⑤	wu	2000
-⑥	liu 2000
-⑦	qi	2000
-⑧	ba	2000
-⑨	jiu	2000
-⑩	shi	2000
-+	jia	2000
--	jian	2000
-×	cheng	2000
-÷	chu	2000
-、	dian	2000
-·	dian	2000
-|	shu	2000
-艹	cao	2000
-卧槽	wo cao	2000
-鬼灭之刃	gui mie zhi ren	2000
-石神千空	shi shen qian kong	2000
-流浪地球	liu lang di qiu	2000
-觉醒年代	jue xing nian dai	2000
-国际邀请赛	guo ji yao qing sai	2000
-绝绝子	jue jue zi	2000
-一键三联	yi jian san lian	2000
-勐腊	meng la	2000
-勐仑	meng lun	2000
-勐醒	meng xing	2000
-新冠	xin guan	2000
-新冠肺炎	xin guan fei yan	2000
-小鹤双拼	xiao he shuang pin	2000
-up主	up zhu
+⓪	ling	1000
+①	yi	1000
+②	er	1000
+③	san	1000
+④	si	1000
+⑤	wu	1000
+⑥	liu 1000
+⑦	qi	1000
+⑧	ba	1000
+⑨	jiu	1000
+⑩	shi	1000
++	jia	1000
+-	jian	1000
+×	cheng	1000
+÷	chu	1000
+、	dian	1000
+·	dian	1000
+|	shu	1000
+艹	cao	1000
+卧槽	wo cao	1000
+鬼灭之刃	gui mie zhi ren	1000
+石神千空	shi shen qian kong	1000
+流浪地球	liu lang di qiu	1000
+觉醒年代	jue xing nian dai	1000
+国际邀请赛	guo ji yao qing sai	1000
+绝绝子	jue jue zi	1000
+一键三联	yi jian san lian	1000
+勐腊	meng la	1000
+勐仑	meng lun	1000
+勐醒	meng xing	1000
+新冠	xin guan	1000
+新冠肺炎	xin guan fei yan	1000
+小鹤双拼	xiao he shuang pin	1000
+1p主	up zhu
+表情包	biao qing bao	1000
+自造词	zi zao ci	1000
