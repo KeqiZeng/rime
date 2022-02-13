@@ -1,0 +1,41 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: custom_supplement
+version: "1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+⓪	ling	2000
+①	yi	2000
+②	er	2000
+③	san	2000
+④	si	2000
+⑤	wu	2000
+⑥	liu 2000
+⑦	qi	2000
+⑧	ba	2000
+⑨	jiu	2000
+⑩	shi	2000
++	jia	2000
+-	jian	2000
+×	cheng	2000
+÷	chu	2000
+、	dian	2000
+·	dian	2000
+|	shu	2000
+鬼灭之刃	gui mie zhi ren	2000
+石神千空	shi shen qian kong	2000
+流浪地球	liu lang di qiu	2000
+觉醒年代	jue xing nian dai	2000
+国际邀请赛	guo ji yao qing sai	2000
+绝绝子	jue jue zi	2000
+一键三联	yi jian san lian	2000
+勐腊	meng la	2000
+勐仑	meng lun	2000
+勐醒	meng xing	2000
+新冠	xin guan	2000
+新冠肺炎	xin guan fei yan	2000
+小鹤双拼	xiao he shuang pin	2000
+up主	up zhu

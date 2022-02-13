@@ -1,0 +1,237 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# 不加入u开头的编码，提供纯净的拆字输入法体验
+
+---
+name: luna_pinyin.cn_en
+version: "2022.2.11"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+Arch	arch
+AdGuard	adguard
+AirTag	airtag
+AMOLED	amoled
+AMD	amd
+Android	android
+Apple	apple
+Apple ID	apple id
+App Store	app store
+pple Music	apple music
+Apple News	apple news
+Apple Pay	apple pay
+Apple Pencil	apple pencil
+Apple Remote	apple Remote
+Apple Store	apple store
+Apple TV	apple tv
+Apple Watch	apple watch
+AppleCare	apple care
+AppleCare+	apple care
+AppleScript	apple script
+API	api
+APS	aps
+ATM	atm
+AutoCAD	auto cad
+Bug	bug
+BetterTouchTool	btt
+Bluetooth	blue tooth
+Bold	bold
+Call	call
+Canon	canon
+CPU	cpu
+C++	cpp
+CarPlay	car play
+CCTV	cctv
+Chrome	chrome
+CheatSheet	cheat sheet
+CodeRunner	code runner
+CorelDRAW	corel draw
+DNS	dns
+DevOps	devops
+DJI	da jiang
+DJI	dji
+DNA	dna
+DOTA	dota
+Dropbox	drop box
+Dyson	dyson
+Emoji	emoji
+Emacs	emacs
+ePub	epub
+eSIM	esim
+Excel	excel
+Face ID	face id
+Facebook	face book
+FaceTime	face time
+FAQ	faq
+FIFA	fifa
+Final Cut Pro	final cut pro
+Firefox	fire fox
+Fujifilm	fujifilm
+Google	gu ge
+Google	google
+Google Chrome	google chrome
+Google Docs	google docs
+Google Drive	google drive
+Google Keep	google keep
+Google Maps	google maps
+Google Music	google music
+Google Play	google Play
+Google Slides	google slides
+Golang	go
+GHz	ghz
+GRE	gre
+GLONASS	glonass
+Gmail	gmail
+Git	git
+GitHub	github
+GUI	gui
+HDMI	hdmi
+HDR	hdr
+HEVC	hevc
+Homebrew	home brew
+Honda	honda
+HomeKit	home kit
+HomePod	home pod
+HHKB	hhkb
+HiRise	hirise
+HTML	html
+HTTP	http
+HTTPS	https
+iCloud	icloud
+IDE	ide
+iMessage	imessage
+iMovie	imovie
+iMac	imac
+iMac Pro	imac pro
+Instagram	insta gram
+iOS	ios
+iPad	ipad
+iPad Air	ipad air
+iPad mini	ipad mini
+iPad Pro	ipad pro
+iPadOS	ipad os
+iPhone	iphone
+iPod	ipod
+IP 地址	ip di zhi
+IPTV	ip tv
+IPv4	ipv
+IPv6	ipv
+Issue	issue
+iTerm	iterm
+iTunes	itunes
+Italic	italic
+Intel	intel
+iWatch	iwatch
+JavaScript	java script
+JPEG	jpeg
+LED	led
+K 歌	kei ge
+Karabiner	kara biner
+Kindle	kindle
+Launchpad	launch pad
+LaTeX	latex
+LibreOffice	libre office
+Lightning	light ning
+Linux	linux
+Lua	lua
+Markdown	markdown
+MAC 地址	mac di zhi
+Mac mini	mac mini
+Mac Pro	mac pro
+Mac	mac
+MacBook Air	macbook air
+MacBook Pro	macbook pro
+MacOS	macos
+Mbps	mbps
+Micro-SIM	micro sim
+Microsoft	micro soft
+Microsoft	ms
+Microsoft Office	microsoft office
+Nano	nano
+NAS	nas
+NBA	nba
+NFC	nfc
+Nikon	ni kang
+Nikon	ni kon
+NTFS	ntfs
+Nvim	nvim
+Nvidia	nvidia
+Objective-C	objc
+OneNote	onenote
+OneDrive	onedrive
+OLED	oled
+OTA	ota
+OS X	osx
+PayPal	paypal
+Parallels Desktop	parallels desktop
+Parallels Desktop	pd
+PDF	pdf
+PNG	png
+Pokémon	pokemon
+Pokémon GO	pokemon
+Pokémon GO	pokemon go
+PPT	ppt
+PRC	prc
+Pro	pro
+Proxy	proxy
+ProMotion	promotion
+PyCharm	pycharm
+Python	python
+RAM	ram
+Rime	rime
+RMB	rmb
+ROM	rom
+RSS	rss
+Safari	safari
+SDK	sdk
+SIM 卡	sim ka
+Siri	siri
+Smart Keyboard	smart keyboard
+Spotify	spotify
+Spotlight	spot light
+sRGB	srgb
+SSD	ssd
+SSH	ssh
+SSID	ssid
+SONY	sony
+Sublime	sublime
+Swift	swift
+Switch	switch
+T恤	ti xu
+T恤衫	ti xu shan
+Tag	tag
+Tags	tags
+TCP/IP	tcp ip
+TED	ted
+Telegram	telegram
+Touch ID	touch id
+Turbo	turbo
+Vim	vim
+Volkswagen	volkswagen
+Volkswagen	vw
+VLC	vlc
+VMware	vmware
+VoLTE	volte
+VPN	vpn
+V2EX	vtex
+VSCode	vscode
+watchOS	watch os
+WeChat	wechat
+WhatsApp	whats app
+Wi-Fi	wai fai
+Wi-Fi	wifi
+Wiki	wiki
+Wikipedia	wiki
+Windows	windows
+WLAN	wlan
+World of Warcraft	wow
+World Wide Web	www
+Word	word
+WPS	wps
+Xbox	xbox
+Xcode	xcode
+X-Ray	xray
+YouTube	you tube

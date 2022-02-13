@@ -1,0 +1,84 @@
+# Rime luna_pinyin_simp custom
+# encoding: utf-8
+
+patch:
+  switches:
+    # - name: ascii_mode
+    #   reset: 0
+    #   states: ["中文", "西文"]
+    - name: full_shape
+      states: ["半角", "全角"]
+    - name: ascii_punct
+      states: ["。，", "．，"]
+  engine:
+    processors:
+      - recognizer
+      - key_binder
+      - speller
+      - selector
+      - punctuator
+      - navigator
+      - express_editor
+    segmentors:
+      - matcher
+      - abc_segmentor
+      - punct_segmentor
+      - fallback_segmentor
+    translators:
+      - punct_translator
+      - script_translator
+      # - table_translator@custom_phrase
+      - table_translator@chaizi      # 启用拆字词典
+      - lua_translator@date_translator
+      - lua_translator@time_translator
+    filters:
+      - simplifier
+      - uniquifier
+
+  punctuator:
+    import_preset: symbols
+
+  recognizer/patterns/punct: "^/([0-9]0?|[A-Za-z]+)$"
+
+
+  # 启用拆字词典
+  chaizi:
+    dictionary: ""
+    user_dict: luna_pinyin.chaizi
+    db_class: stabledb
+    enable_completion: true
+    enable_sentence: false
+    initial_quality: 1
+
+  speller:
+    algebra:  # 模糊音
+    - erase/^xx$/
+    # - derive/([aei])n$/$1ng/            # an => ang, en => eng, in => ing
+    # - derive/([aei])ng$/$1n/            # ang => an, eng => en, ing => in
+    # - derive/^([ghk])uan$/$1uang/       # guan => guang, ...
+    # - derive/^([ghk])uang$/$1uan/       # guang => guan, ...
+    # # 模糊音定義先於簡拼定義，方可令簡拼支持以上模糊音
+    - abbrev/^([a-z]).+$/$1/           # 簡拼（首字母）
+    - abbrev/^([zcs]h).+$/$1/          # 簡拼（zh, ch, sh）
+    # 自動糾正一些常見的按鍵錯誤
+    - derive/([aeiou])ng$/$1gn/        # dagn => dang
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
+    - derive/ong$/on/                  # zhonguo => zhong guo
+    - derive/ao$/oa/                   # hoa => hao
+    - derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian
+
+  translator/dictionary: luna_pinyin_simp.extended
+  grammar:
+    language: zh-hans-t-essay-bgw
+
+  key_binder:
+    bindings:
+      - {accept: "Control+p", send: Up, when: composing}
+      - {accept: "Control+n", send: Down, when: composing}
+      - {accept: "Control+b", send: Left, when: composing}
+      - {accept: "Control+f", send: Right, when: composing}
+      - {accept: "Control+h", send: BackSpace, when: composing}
+      - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+      - {accept: Tab, send: "Shift+Right", when: composing}
+      - {accept: minus, send: Page_Up, when: has_menu}
+      - {accept: equal, send: Page_Down, when: has_menu}
