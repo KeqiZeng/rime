@@ -34,16 +34,16 @@ AppleScript	apple script
 API	api
 APS	aps
 ATM	atm
-AutoCAD	auto cad
+AutoCAD	autocad
 Bug	bug
 BetterTouchTool	btt
-Bluetooth	blue tooth
+Bluetooth	bluetooth
 Bold	bold
 Call	call
 Canon	canon
 CPU	cpu
 C++	cpp
-CarPlay	car play
+CarPlay	carplay
 CCTV	cctv
 Chrome	chrome
 CheatSheet	cheat sheet
@@ -55,8 +55,9 @@ DJI	da jiang
 DJI	dji
 DNA	dna
 DOTA	dota
-Dropbox	drop box
+Dropbox	dropbox
 Dyson	dyson
+Edge	edge
 Emoji	emoji
 Emacs	emacs
 ePub	epub
@@ -142,12 +143,13 @@ MAC 地址	mac di zhi
 Mac mini	mac mini
 Mac Pro	mac pro
 Mac	mac
+MacBook	macbook
 MacBook Air	macbook air
 MacBook Pro	macbook pro
 MacOS	macos
 Mbps	mbps
-Micro-SIM	micro sim
-Microsoft	micro soft
+SIM卡	sim ka
+Microsoft	microsoft
 Microsoft	ms
 Microsoft Office	microsoft office
 Nano	nano
@@ -155,8 +157,9 @@ NAS	nas
 NBA	nba
 NFC	nfc
 Nikon	ni kang
-Nikon	ni kon
+Nikon	nikon
 NTFS	ntfs
+Neovim	neovim
 Nvim	nvim
 Nvidia	nvidia
 Objective-C	objc
@@ -193,6 +196,7 @@ Smart Keyboard	smart keyboard
 Spotify	spotify
 Spotlight	spot light
 sRGB	srgb
+Steam	steam
 SSD	ssd
 SSH	ssh
 SSID	ssid
@@ -209,6 +213,10 @@ TED	ted
 Telegram	telegram
 Touch ID	touch id
 Turbo	turbo
+U盘	you pan
+UDP	udp
+Unix	unix
+URL	url
 Vim	vim
 Volkswagen	volkswagen
 Volkswagen	vw

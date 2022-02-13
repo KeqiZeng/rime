@@ -86,7 +86,7 @@ patch:
   # 启用拆字词典
   chaizi:
     dictionary: ""
-    user_dict: double_pinyin.chaizi
+    user_dict: chaizi
     db_class: stabledb
     enable_completion: true
     enable_sentence: false
