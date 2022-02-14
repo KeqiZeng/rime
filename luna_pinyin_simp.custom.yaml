@@ -82,10 +82,11 @@ patch:
 
   # 引用symbols.yaml
   punctuator:
-    import_preset: symbols
+    import_preset: custom_symbols
   recognizer/patterns/punct: "^/([0-9]0?|[A-Za-z]+)$"
 
   translator/dictionary: luna_pinyin_simp.extended
+
   grammar:
     language: zh-hans-t-essay-bgw
 

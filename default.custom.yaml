@@ -15,5 +15,6 @@ patch:
     # - schema: luna_pinyin
     - schema: luna_pinyin_simp
     - schema: double_pinyin_flypy
+    - schema: easy_de
   ascii_composer/switch_key:
     Shift_L: noop

@@ -77,7 +77,7 @@ patch:
 
 
   # 启用symbols.yaml
-  punctuator/import_preset: symbols
+  punctuator/import_preset: custom_symbols
   recognizer/patterns/punct: "^/([0-9]0?|[A-Za-z]+)$"
 
 
@@ -107,6 +107,7 @@ patch:
       - xform/([nl])v/$1ü/
 
   translator/dictionary: luna_pinyin_simp.extended
+
   grammar:
     language: zh-hans-t-essay-bgw
 
