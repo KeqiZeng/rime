@@ -2,14 +2,13 @@
 # encoding: utf-8
 #
 
-
 schema:
   schema_id: easy_de
   name: Easy German
   version: "0.1"
   author:
     - ketch
-    - idea from BlindingDark <blindingdark@outlook.com> thx!
+    - name from BlindingDark <blindingdark@outlook.com> thx!
   description:
     Easy German Input Method
 
