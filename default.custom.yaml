@@ -7,9 +7,12 @@
 #     Other: shift+delete
 #
 patch:
-  "menu/page_size": 4
-  "switcher/hotkeys":
-    - "Control+grave"
+  menu:
+    page_size: 4
+    page_down_cycle: true
+
+  switcher/hotkeys:
+    - Control+grave
     - F4
   schema_list:
     # - schema: luna_pinyin

@@ -714,8 +714,6 @@ use_preset_vocabulary: true
 出云战记	chu yun zhan ji
 出租魔法使	chu zu mo fa shi
 穿长筒靴的猫	chuan chang tong xue de mao
-传媒大学动画毕业设计	chuan mei da xue dong hua bi ye she ji
-传媒大学动画联合作业	chuan mei da xue dong hua lian he zuo ye
 穿魔法靴的神猫	chuan mo fa xue de shen mao
 川崎前锋天体战士桑雷德	chuan qi qian feng tian ti zhan shi sang lei de
 传染	chuan ran
@@ -1443,7 +1441,6 @@ use_preset_vocabulary: true
 高槻忍的场合	gao gui ren de chang he
 高机动幻想	gao ji dong huan xiang
 高米迪	gao mi di
-高能鬼畜神剪辑	gao neng gui chu shen jian ji
 高能小破孩儿们	gao neng xiao po hai er men
 高女人和矮丈夫	gao nv ren he ai zhang fu
 高桥留美子短篇剧	gao qiao liu mei zi duan pian ju
@@ -1852,8 +1849,6 @@ use_preset_vocabulary: true
 红鼻子下	hong bi zi xia
 红豆伢	hong dou ya
 红发安妮	hong fa an ni
-红孩儿与大学院	hong hai er yu da xue yuan
-红孩儿之趴趴蛙寻石记	hong hai er zhi pa pa wa xun shi ji
 轰轰战队	hong hong zhan dui
 轰轰战队冒险者	hong hong zhan dui mao xian zhe
 红胡船长	hong hu chuan zhang
@@ -3407,10 +3402,8 @@ use_preset_vocabulary: true
 山伢仔	shan ya zai
 山羊回了家	shan yang hui le jia
 闪耀计划	shan yao ji hua
-闪之轨迹游戏剧情	shan zhi gui ji you xi ju qing
 山猪飞鼠撒克努	shan zhu fei shu sa ke nu
 上班族	shang ban zu
-上海大学优秀作品	shang hai da xue you xiu zuo pin
 上海动漫展	shang hai dong man zhan
 上海国际动漫游戏音乐节	shang hai guo ji dong man you xi yin yue jie
 赏金猎人	shang jin lie ren
@@ -5490,20 +5483,10 @@ use_preset_vocabulary: true
 游戏人生	you xi ren sheng
 游戏王	you xi wang
 游戏王剧场版	you xi wang ju chang ban
-幼学百家姓详解	you xue bai jia xing xiang jie
-幼学大学详解	you xue da xue xiang jie
-幼学弟子规详解	you xue di zi gui xiang jie
 游学酒店	you xue jiu dian
-幼学论语	you xue lun yu
-幼学孟子	you xue meng zi
-幼学千字文详解	you xue qian zi wen xiang jie
-幼学三字经详解	you xue san zi jing xiang jie
-幼学声律启蒙	you xue sheng lv qi meng
-幼学中庸详解	you xue zhong yong xiang jie
 友谊大赛	you yi da sai
 幽游白书	you you bai shu
 悠悠熊	you you xiong
-优优熊亲子早教	you you xiong qin zi zao jiao
 游园会	you yuan hui
 悠哉日常大王	you zai ri chang da wang
 游子吟	you zi yin
@@ -6096,7 +6079,6 @@ use_preset_vocabulary: true
 爱的旅程	ai de lv cheng
 爱的迷迭香	ai de mi die xiang
 爱的蜜方	ai de mi fang
-爱的蜜方未剪辑版	ai de mi fang wei jian ji ban
 爱的秘笈	ai de mi ji
 爱的魔法使	ai de mo fa shi
 爱的烹饪法	ai de peng ren fa
@@ -7716,12 +7698,6 @@ use_preset_vocabulary: true
 大凶兆	da xiong zhao
 大学门	da xue men
 大学那点事儿	da xue na dian shi er
-大学生屌丝侦探社	da xue sheng diao si zhen tan she
-大学生士兵的故事	da xue sheng shi bing de gu shi
-大学生同居的那些事儿	da xue sheng tong ju de na xie shi er
-大学生同居的事儿	da xue sheng tong ju de shi er
-大学生笑了没	da xue sheng xiao le mei
-大学生侦探社	da xue sheng zhen tan she
 大雪无痕	da xue wu hen
 大丫鬟	da ya huan
 大秧歌	da yang ge
@@ -10373,10 +10349,8 @@ use_preset_vocabulary: true
 京城绯闻	jing cheng fei wen
 京城教一	jing cheng jiao yi
 京城四少	jing cheng si shao
-京城四少之老大出马	jing cheng si shao zhi lao da chu ma
 经典爱情	jing dian ai qing
 经典纪录	jing dian ji lu
-经典剪辑	jing dian jian ji
 惊动	jing dong
 京都纪事	jing du ji shi
 京都神探	jing du shen tan
@@ -11300,10 +11274,6 @@ use_preset_vocabulary: true
 刘少奇故事	liu shao qi gu shi
 柳树屯	liu shu tun
 流星蝴蝶剑	liu xing hu die jian
-流星蝴蝶剑王艳版	liu xing hu die jian wang yan ban
-流星蝴蝶剑郑少秋	liu xing hu die jian zheng shao qiu
-流星花园美版	liu xing hua yuan mei ban
-流星雨之道明寺篇	liu xing yu zhi dao ming si pian
 留学公寓	liu xue gong yu
 柳叶刀	liu ye dao
 陸貞傳奇	liu zhen chuan qi
@@ -11574,8 +11544,6 @@ use_preset_vocabulary: true
 毛泽东	mao ze dong
 毛泽东三兄弟	mao ze dong san xiong di
 帽子	mao zi
-美版花样男子	mei ban hua yang nan zi
-美版流星花园	mei ban liu xing hua yuan
 眉飞色舞	mei fei se wu
 湄公河大案	mei gong he da an
 没关系爸爸的女儿	mei guan xi ba ba de nv er
@@ -12285,7 +12253,6 @@ use_preset_vocabulary: true
 女保镖	nv bao biao
 女不强大天不容	nv bu qiang da tian bu rong
 女才男貌	nv cai nan mao
-女大学生会计师事件簿	nv da xue sheng kuai ji shi shi jian bu
 女当家	nv dang jia
 女帝	nv di
 女帝日剧	nv di ri ju
@@ -13742,7 +13709,6 @@ use_preset_vocabulary: true
 剩男相亲记	sheng nan xiang qin ji
 剩女保镖	sheng nv bao biao
 胜女的代价	sheng nv de dai jia
-胜女的代价未剪辑版	sheng nv de dai jia wei jian ji ban
 盛女的黄金时代	sheng nv de huang jin shi dai
 剩女进化论	sheng nv jin hua lun
 胜券在握	sheng quan zai wo
@@ -17597,7 +17563,6 @@ use_preset_vocabulary: true
 照耀明天	zhao yao ming tian
 浙版西游记	zhe ban xi you ji
 这帮熊孩子	zhe bang xiong hai zi
-这不是大学	zhe bu shi da xue
 这该死的爱	zhe gai si de ai
 这个学校遇到爱	zhe ge xue xiao yu dao ai
 这里的黎明静悄悄	zhe li de li ming jing qiao qiao
@@ -17941,12 +17906,10 @@ use_preset_vocabulary: true
 终极一班	zhong ji yi ban
 终极一家	zhong ji yi jia
 终极游侠	zhong ji you xia
-终极游侠最后情书版	zhong ji you xia zui hou qing shu ban
 终极证据	zhong ji zheng ju
 忠奸人	zhong jian ren
 终结杉计划	zhong jie shan ji hua
 钟馗传说	zhong kui chuan shuo
-钟馗传说未剪辑版	zhong kui chuan shuo wei jian ji ban
 钟馗捉鬼	zhong kui zhuo gui
 众里西餐厅	zhong li xi can ting
 中年计划	zhong nian ji hua
@@ -28498,19 +28461,14 @@ use_preset_vocabulary: true
 大学毕业	da xue bi ye
 大学毕业前的婚礼	da xue bi ye qian de hun li
 大学不大	da xue bu da
-大学恶狼团	da xue e lang tuan
 大雪飞歌之一	da xue fei ge zhi yi
 大学疯	da xue feng
 大学就像一根葱	da xue jiu xiang yi gen cong
 大学里的天空	da xue li de tian kong
 大学里外	da xue li wai
-大学流氓	da xue liu mang
-大学六禽兽	da xue liu qin shou
 大学那年	da xue na nian
 大学你给了我什么	da xue ni gei le wo shen me
 大学青春印记	da xue qing chun yin ji
-大学生档案	da xue sheng dang an
-大学生异界游	da xue sheng yi jie you
 大学士	da xue shi
 大学时差	da xue shi cha
 大学时光	da xue shi guang
@@ -28518,7 +28476,6 @@ use_preset_vocabulary: true
 大雪下的幻梦	da xue xia de huan meng
 大学小样	da xue xiao yang
 大学校长	da xue xiao zhang
-大学这样上了我	da xue zhe yang shang le wo
 大学之大	da xue zhi da
 大学之巅	da xue zhi dian
 大衙内	da ya nei
@@ -31543,28 +31500,8 @@ use_preset_vocabulary: true
 屌丝道士修仙记	diao si dao shi xiu xian ji
 屌丝的传奇人生	diao si de chuan qi ren sheng
 屌丝的大学生活	diao si de da xue sheng huo
-吊丝的逆袭	diao si de ni xi
 屌丝的逆袭	diao si de ni xi
 屌丝的人生	diao si de ren sheng
-屌丝的幸福生活	diao si de xing fu sheng huo
-屌丝房东逆袭白富美	diao si fang dong ni xi bai fu mei
-屌丝炼丹士	diao si lian dan shi
-吊丝那些事	diao si na xie shi
-吊丝逆袭大宝典	diao si ni xi da bao dian
-屌丝逆袭记	diao si ni xi ji
-屌丝禽兽大神系统	diao si qin shou da shen xi tong
-屌丝驱鬼师	diao si qu gui shi
-屌丝是怎样逆袭的	diao si shi zen yang ni xi de
-屌丝兽神成长录	diao si shou shen cheng zhang lu
-屌丝探险笔记	diao si tan xian bi ji
-屌丝万岁	diao si wan sui
-屌丝玩网游	diao si wan wang you
-屌丝系统	diao si xi tong
-屌丝小作逆袭记	diao si xiao zuo ni xi ji
-屌丝修真记	diao si xiu zhen ji
-屌丝也玩梦	diao si ye wan meng
-屌丝也有春天	diao si ye you chun tian
-屌丝追美记	diao si zhui mei ji
 凋谢的青春	diao xie de qing chun
 凋谢的血玫瑰	diao xie de xue mei gui
 叼烟女官	diao yan nv guan
@@ -31576,43 +31513,6 @@ use_preset_vocabulary: true
 吊坠	diao zhui
 蝶变歌	die bian ge
 爹地	die di
-爹地别动纯妈咪	die di bie dong chun ma mi
-爹地别碰我妈咪	die di bie peng wo ma mi
-爹地别无耻	die di bie wu chi
-爹地别嚣张	die di bie xiao zhang
-爹地不上道	die di bu shang dao
-爹地不上道出嫁百万妈咪	die di bu shang dao chu jia bai wan ma mi
-爹地错爱萌宝贪欢	die di cuo ai meng bao tan huan
-爹地放开我妈咪	die di fang kai wo ma mi
-爹地敢不投降	die di gan bu tou xiang
-爹地给我妈咪	die di gei wo ma mi
-爹地化身狼	die di hua shen lang
-爹地举起手来	die di ju qi shou lai
-爹地快点逃	die di kuai dian tao
-爹地快快接受妈咪	die di kuai kuai jie shou ma mi
-爹地来了妈咪快跑	die di lai le ma mi kuai pao
-爹地老公好帅气	die di lao gong hao shuai qi
-爹地妈咪不回房	die di ma mi bu hui fang
-爹地妈咪出轨了	die di ma mi chu gui le
-爹地妈咪卖给你了	die di ma mi mai gei ni le
-爹地妈咪伪成年	die di ma mi wei cheng nian
-爹地妈咪又被欺负了	die di ma mi you bei qi fu le
-爹地妈咪又跑了	die di ma mi you pao le
-爹地你了	die di ni le
-爹地你弱爆了	die di ni ruo bao le
-爹地请跪搓衣板	die di qing gui cuo yi ban
-爹地是土匪	die di shi tu fei
-爹地太勇猛	die di tai yong meng
-爹地投降吧	die di tou xiang ba
-爹地我们一起追妈咪	die di wo men yi qi zhui ma mi
-爹地又来找抽了	die di you lai zhao chou le
-爹地再爱我一次	die di zai ai wo yi ci
-爹爹不亲后妈来爱	die die bu qin hou ma lai ai
-蝶蝶夫人	die die fu ren
-爹爹坏坏	die die huai huai
-爹爹你别拽	die die ni bie zhuai
-爹爹娘亲要开溜	die die niang qin yao kai liu
-爹爹是妖孽	die die shi yao nie
 蝶斗	die dou
 谍妃	die fei
 谍妃狠嚣张	die fei hen xiao zhang
@@ -36393,7 +36293,6 @@ use_preset_vocabulary: true
 爱是唯一	ai shi wei yi
 爱是我做过最好的事	ai shi wo zuo guo zui hao de shi
 爱是永恒的传奇	ai shi yong heng de chuan qi
-爱室友爱安静山东师范大学管西珍	ai shi you ai an jing shan dong shi fan da xue guan xi zhen
 碍事者	ai shi zhe
 爱是最重要的事	ai shi zui zhong yao de shi
 爱受伤	ai shou shang
@@ -38338,7 +38237,6 @@ use_preset_vocabulary: true
 崩裂友谊	beng lie you yi
 彼岸岛	bi an dao
 彼岸的孩子	bi an de hai zi
-彼岸花开曲阜师范大学孙伟奇	bi an hua kai qu fu shi fan da xue sun wei qi
 彼岸花开之此去经年	bi an hua kai zhi ci qu jing nian
 比安卡	bi an ka
 碧昂丝天后崛起	bi ang si tian hou jue qi
@@ -38767,7 +38665,6 @@ use_preset_vocabulary: true
 别碰我	bie peng wo
 别碰我的童年	bie peng wo de tong nian
 别让爱忙音	bie rang ai mang yin
-别让大学上了你	bie rang da xue shang le ni
 别让球赛结束	bie rang qiu sai jie shu
 别让我孤单	bie rang wo gu dan
 别让我溺死	bie rang wo ni si
@@ -42141,7 +42038,6 @@ use_preset_vocabulary: true
 大陆阿里山	da lu a li shan
 大鹿村骚动记	da lu cun sao dong ji
 大路强人	da lu qiang ren
-大路意大利版	da lu yi da li ban
 大路元帅	da lu yuan shuai
 大路之歌	da lu zhi ge
 大陆之所以漂移	da lu zhi suo yi piao yi
@@ -42419,14 +42315,9 @@ use_preset_vocabulary: true
 大雪谷	da xue gu
 大学合伙人	da xue he huo ren
 大学回忆录	da xue hui yi lu
-大学恋爱前规则	da xue lian ai qian gui ze
-大学女生	da xue nv sheng
-大学生小村官	da xue sheng xiao cun guan
 大学时代	da xue shi dai
 大学是什么	da xue shi shen me
 大学新生	da xue xin sheng
-大学预备生	da xue yu bei sheng
-大学与狗窝	da xue yu gou wo
 打雪仗	da xue zhang
 大学政治	da xue zheng zhi
 大学之旅	da xue zhi lv
@@ -42776,7 +42667,6 @@ use_preset_vocabulary: true
 当铺大乱斗	dang pu da luan dou
 荡然所无	dang ran suo wu
 当仁不让	dang ren bu rang
-当山东大学董晓雪	dang shan dong da xue dong xiao xue
 当少年遇到少年	dang shao nian yu dao shao nian
 当神棍遇到高僧	dang shen gun yu dao gao seng
 当事人	dang shi ren
@@ -42940,11 +42830,8 @@ use_preset_vocabulary: true
 导演	dao yan
 导演本色	dao yan ben shai
 导演笔记	dao yan bi ji
-导演剪辑版	dao yan jian ji ban
-导演剧场版	dao yan ju chang ban
 导演来了	dao yan lai le
 导演梦	dao yan meng
-导演潜规则漂亮女演员	dao yan qian gui ze piao liang nv yan yuan
 导演万岁	dao yan wan sui
 盗钥匙的方法	dao yao shi de fang fa
 到也门钓鲑鱼	dao ye men diao gui yu
@@ -43224,7 +43111,6 @@ use_preset_vocabulary: true
 第六病房	di liu bing fang
 第六挡车速	di liu dang che su
 第六感女神	di liu gan nv shen
-第六感曲阜师范大学张华峰	di liu gan qu fu shi fan da xue zhang hua feng
 第六感生死缘	di liu gan sheng si yuan
 第六个	di liu ge
 第六根神经	di liu gen shen jing
@@ -43775,8 +43661,6 @@ use_preset_vocabulary: true
 电影天地	dian ying tian di
 电影天堂	dian ying tian tang
 电影往事	dian ying wang shi
-电影我们烟台大学孔令诗作品	dian ying wo men yan tai da xue kong ling shi zuo pin
-电影香江之功夫世家	dian ying xiang jiang zhi gong fu shi jia
 电影鸭	dian ying ya
 电影眼睛	dian ying yan jing
 电影在那遥远的地方	dian ying zai na yao yuan de di fang
@@ -47952,7 +47836,6 @@ use_preset_vocabulary: true
 股票分析师	gu piao fen xi shi
 骨肉分离	gu rou fen li
 姑嫂之间	gu sao zhi jian
-孤山东师范大学美术学院杨钰琪	gu shan dong shi fan da xue mei shu xue yuan yang yu qi
 鼓上蚤传奇	gu shang zao chuan qi
 股神	gu shen
 孤身一人	gu shen yi ren
@@ -50432,11 +50315,9 @@ use_preset_vocabulary: true
 红影子	hong ying zi
 红雨	hong yu
 红与黑	hong yu hei
-红与黑意大利版	hong yu hei yi da li ban
 红月	hong yue
 红月亮照常升起	hong yue liang zhao chang sheng qi
 鸿运当头	hong yun dang tou
-鸿运当头美版	hong yun dang tou mei ban
 红云岗	hong yun gang
 鸿运高照	hong yun gao zhao
 轰炸机之歌	hong zha ji zhi ge
@@ -53235,7 +53116,6 @@ use_preset_vocabulary: true
 江湖奇兵	jiang hu qi bing
 江湖奇侠	jiang hu qi xia
 江湖情	jiang hu qing
-江湖情缘山东师范大学许保增	jiang hu qing yuan shan dong shi fan da xue xu bao zeng
 江湖群侠	jiang hu qun xia
 江湖三女侠	jiang hu san nv xia
 江湖双艳	jiang hu shuang yan
@@ -54159,21 +54039,14 @@ use_preset_vocabulary: true
 警察故事续集	jing cha gu shi xu ji
 警察结婚记	jing cha jie hun ji
 警察皆贱屄	jing cha jie jian bi
-警察进行曲之理想	jing cha jin xing qu zhi li xiang
 警察局	jing cha ju
-警察扒手两家亲	jing cha pa shou liang jia qin
-警察日記	jing cha ri ji
 警察日记	jing cha ri ji
 警察也有家	jing cha ye you jia
 警察遊戲	jing cha you hu
 警察游戏	jing cha you xi
 警察游行	jing cha you xing
 警察有约	jing cha you yue
-警察与卡车强盗	jing cha yu ka che qiang dao
-警察与女兵	jing cha yu nv bing
-警察与外星人	jing cha yu wai xing ren
 警察与小偷	jing cha yu xiao tou
-警察与小偷意大利版	jing cha yu xiao tou yi da li ban
 警察在纽约	jing cha zai niu yue
 警察追击	jing cha zhui ji
 警车	jing che
@@ -57365,26 +57238,15 @@ use_preset_vocabulary: true
 理想国	li xiang guo
 李香君	li xiang jun
 理想男人	li xiang nan ren
-理想怎么了天津师范大学录宿街头	li xiang zen me le tian jin shi fan da xue lu su jie tou
 理想丈夫	li xiang zhang fu
 理想主义者	li xiang zhu yi zhe
 李小龙	li xiao long
-李小龙策划混剪	li xiao long ce hua hun jian
 李小龙传	li xiao long zhuan
-李小龍傳奇	li xiao long chuan qi
-李小龙的阿砸一声	li xiao long de a za yi sheng
-李小龙的传奇	li xiao long de chuan qi
-李小龙的生与死	li xiao long de sheng yu si
-李小龙如何改变了世界	li xiao long ru he gai bian le shi jie
-李小龙我的兄弟	li xiao long wo de xiong di
-李小龙与我	li xiao long yu wo
 离信	li xin
 利休	li xiu
 沥血金鹰	li xue jin ying
 利益冲突	li yi chong tu
 利益风暴	li yi feng bao
-李易峰粉丝篇	li yi feng fen si pian
-李易峰女朋友篇	li yi feng nv peng you pian
 利益情人	li yi qing ren
 礼仪学校	li yi xue xiao
 利益之争	li yi zhi zheng
@@ -57794,11 +57656,7 @@ use_preset_vocabulary: true
 裂缝中的阳光	lie feng zhong de yang guang
 鬣狗警察	lie gou jing cha
 猎鬼行动	lie gui xing dong
-列国图志之澳大利亚	lie guo tu zhi zhi ao da li ya
-列国图志之巴西	lie guo tu zhi zhi ba xi
-列国图志之墨西哥	lie guo tu zhi zhi mo xi ge
-列国图志之意大利	lie guo tu zhi zhi yi da li
-列国图志之中国	lie guo tu zhi zhi zhong guo
+列国图志	lie guo tu zhi
 裂合边缘	lie he bian yuan
 裂痕	lie hen
 猎狐娇娃	lie hu jiao wa
@@ -57811,13 +57669,6 @@ use_preset_vocabulary: true
 烈火街頭	lie huo jie tou
 烈火金刚上	lie huo jin gang shang
 烈火金刚下	lie huo jin gang xia
-烈火男儿之超级英雄	lie huo nan er zhi chao ji ying xiong
-烈火男儿之队长的故事	lie huo nan er zhi dui zhang de gu shi
-烈火男儿之见习英雄	lie huo nan er zhi jian xi ying xiong
-烈火男儿之金斧头	lie huo nan er zhi jin fu tou
-烈火男儿之了不起的消防兵	lie huo nan er zhi liao bu qi de xiao fang bing
-烈火男儿之荣誉	lie huo nan er zhi rong yu
-烈火男儿之隐患	lie huo nan er zhi yin huan
 烈火情仇	lie huo qing chou
 烈火青春	lie huo qing chun
 烈火情迷	lie huo qing mi
@@ -57834,7 +57685,6 @@ use_preset_vocabulary: true
 烈火终结者	lie huo zhong jie zhe
 烈火中永生	lie huo zhong yong sheng
 烈火追踪	lie huo zhui zong
-猎金骑士之疯狂野蛮人	lie jin qi shi zhi feng kuang ye man ren
 劣酒博士	lie jiu bo shi
 裂空的访问者	lie kong de fang wen zhe
 裂口女	lie kou nv
@@ -57849,9 +57699,7 @@ use_preset_vocabulary: true
 猎魔者	lie mo zhe
 列尼	lie ni
 列宁格勒	lie ning ge le
-列宁格勒牛仔征美记	lie ning ge le niu zai zheng mei ji
 列宁在十月	lie ning zai shi yue
-列宁在一九一八	lie ning zai yi jiu yi ba
 烈女传	lie nv zhuan
 趔趄三人行	lie qie san ren xing
 猎犬	lie quan
@@ -57885,7 +57733,6 @@ use_preset_vocabulary: true
 猎杀咕噜	lie sha gu lu
 猎杀豪放女	lie sha hao fang nv
 猎杀红色十月	lie sha hong se shi yue
-猎杀红色十月号	lie sha hong se shi yue hao
 猎杀活死人	lie sha huo si ren
 猎杀潜航	lie sha qian hang
 猎杀肉身	lie sha rou shen
@@ -57997,11 +57844,9 @@ use_preset_vocabulary: true
 临危不惧	lin wei bu ju
 临危不惧下	lin wei bu ju xia
 临刑会见	lin xing hui jian
-临沂大学纪录琴声戏语李抗抗作品	lin yi da xue ji lu qin sheng xi yu li kang kang zuo pin
 林荫大道	lin yin da dao
 林与夕	lin yu xi
 邻镇战争	lin zhen zhan zheng
-林志玲教你浴室自检操	lin zhi ling jiao ni yu shi zi jian cao
 临终的委托	lin zhong de wei tuo
 临终的信托	lin zhong de xin tuo
 临终囧事	lin zhong jiong shi
@@ -58155,7 +58000,6 @@ use_preset_vocabulary: true
 另一个天空之血移魂	ling yi ge tian kong zhi xue yi hun
 另一个完美陌生人	ling yi ge wan mei mo sheng ren
 另一个约定	ling yi ge yue ding
-灵异拐角天津师范大学李昕婕	ling yi guai jiao tian jin shi fan da xue li xin jie
 灵异怪医	ling yi guai yi
 灵异鬼世界	ling yi gui shi jie
 灵异骇客	ling yi hai ke
@@ -59565,7 +59409,6 @@ use_preset_vocabulary: true
 漫画神拳	man hua shen quan
 漫画王	man hua wang
 漫画威龙	man hua wei long
-漫话仙游之三仙醉酒	man hua xian you zhi san xian zui jiu
 蛮荒的童话	man huang de tong hua
 蛮荒惊异	man huang jing yi
 满江红	man jiang hong
@@ -59688,7 +59531,6 @@ use_preset_vocabulary: true
 毛发	mao fa
 猫狗大战	mao gou da zhan
 毛骨悚然	mao gu song ran
-猫和老鼠之巨人大冒险	mao he lao shu zhi ju ren da mao xian
 毛脚女婿	mao jiao nv xu
 猫科大战	mao ke da zhan
 毛嗑儿	mao ke er
@@ -59696,13 +59538,6 @@ use_preset_vocabulary: true
 猫老大	mao lao da
 毛里求斯	mao li qiu si
 毛里求斯之旅	mao li qiu si zhi lv
-毛驴县令之棒子老虎鸡	mao lv xian ling zhi bang zi lao hu ji
-毛驴县令之大事小情	mao lv xian ling zhi da shi xiao qing
-毛驴县令之母鸡打鸣	mao lv xian ling zhi mu ji da ming
-毛驴县令之你我他	mao lv xian ling zhi ni wo ta
-毛驴县令之酸儿辣女	mao lv xian ling zhi suan er la nv
-毛驴县令之歪打正着	mao lv xian ling zhi wai da zheng zhao
-毛驴县令之移花接木	mao lv xian ling zhi yi hua jie mu
 毛毛的团圆	mao mao de tuan yuan
 毛毛他要找妈妈	mao mao ta yao zhao ma ma
 毛毛熊	mao mao xiong
@@ -59796,22 +59631,9 @@ use_preset_vocabulary: true
 猫与月亮的故事	mao yu yue liang de gu shi
 猫在巴黎	mao zai ba li
 毛泽东的故事	mao ze dong de gu shi
-毛泽东的亲家张文秋	mao ze dong de qing jia zhang wen qiu
-毛泽东和他的儿子	mao ze dong he ta de er zi
-毛泽东和他的卫士	mao ze dong he ta de wei shi
-毛泽东回韶山	mao ze dong hui shao shan
-毛泽东与齐白石	mao ze dong yu qi bai shi
-毛泽东与斯诺	mao ze dong yu si nuo
 毛泽东在一九二五	mao ze dong zai yi jiu er wu
 毛子佩闯宫	mao zi pei chuang gong
 煤板车上的守候	mei ban che shang de shou hou
-美版鬼来电	mei ban gui lai dian
-美版见鬼	mei ban jian gui
-美版老男孩	mei ban lao nan hai
-美版美女与书呆子	mei ban mei nv yu shu dai zi
-美版兽拳战队	mei ban shou quan zhan dui
-美版天生一对	mei ban tian sheng yi dui
-美版午夜凶铃	mei ban wu ye xiong ling
 美不胜收	mei bu sheng shou
 没穿内裤的领队	mei chuan nei ku de ling dui
 美错	mei cuo
@@ -60569,7 +60391,6 @@ use_preset_vocabulary: true
 梦想的味道	meng xiang de wei dao
 梦想缔造者	meng xiang di zao zhe
 梦想飞驰	meng xiang fei chi
-梦想公益片临沂大学	meng xiang gong yi pian lin yi da xue
 梦想家	meng xiang jia
 梦想进行时	meng xiang jin xing shi
 梦想酒店	meng xiang jiu dian
@@ -63154,9 +62975,6 @@ use_preset_vocabulary: true
 女刺客	nv ci ke
 女大不中留	nv da bu zhong liu
 女大当嫁	nv da dang jia
-女大学生	nv da xue sheng
-女大学生宿舍	nv da xue sheng su she
-女大学生之死	nv da xue sheng zhi si
 女导演	nv dao yan
 女导演连环杀人案	nv dao yan lian huan sha ren an
 女导游	nv dao you
@@ -64113,7 +63931,6 @@ use_preset_vocabulary: true
 瓶装水	ping zhuang shui
 瓶装水的故事	ping zhuang shui de gu shi
 瓶子	ping zi
-瓶子公益片临沂大学李谭龙	ping zi gong yi pian lin yi da xue li tan long
 破	po
 破案	po an
 破冰	po bing
@@ -64254,24 +64071,13 @@ use_preset_vocabulary: true
 普通法西斯	pu tong fa xi si
 普通教师	pu tong jiao shi
 普通妈妈	pu tong ma ma
-扑通扑通的人生	pu tong pu tong de ren sheng
-噗通噗通我的人生	pu tong pu tong wo de ren sheng
 扑通扑通我的人生	pu tong pu tong wo de ren sheng
-扑通扑通我的人生韩语版	pu tong pu tong wo de ren sheng han yu ban
-扑通扑通心在跳	pu tong pu tong xin zai tiao
-扑通扑通心在跳傲娇的伯虎	pu tong pu tong xin zai tiao ao jiao de bo hu
-扑通扑通心在跳进击的牛郎	pu tong pu tong xin zai tiao jin ji de niu lang
-扑通扑通心在跳狂拽的武松	pu tong pu tong xin zai tiao kuang zhuai de wu song
-扑通扑通心在跳之傲娇的伯虎	pu tong pu tong xin zai tiao zhi ao jiao de bo hu
-扑通扑通心在跳之进击的牛郎	pu tong pu tong xin zai tiao zhi jin ji de niu lang
-扑通扑通心在跳之狂拽的武松	pu tong pu tong xin zai tiao zhi kuang zhuai de wu song
 普通人	pu tong ren
 普通人的战争	pu tong ren de zhan zheng
 普通人的真相	pu tong ren de zhen xiang
 普通一兵	pu tong yi bing
 普通英雄	pu tong ying xiong
 普西迪基地	pu xi di ji di
-普阳大学投毒事件	pu yang da xue tou du shi jian
 奇爱博士	qi ai bo shi
 奇案追踪	qi an zhui zong
 七百万元大劫案	qi bai wan yuan da jie an
@@ -64686,7 +64492,6 @@ use_preset_vocabulary: true
 千洞岛抗倭记	qian dong dao kang wo ji
 迁动人心	qian dong ren xin
 前度	qian du
-前度山东师范大学历山学院赵衍逵	qian du shan dong shi fan da xue li shan xue yuan zhao yan kui
 千朵花开	qian duo hua kai
 前方后方	qian fang hou fang
 前方一百米调头	qian fang yi bai mi diao tou
@@ -65864,7 +65669,6 @@ use_preset_vocabulary: true
 驱除黑暗的魔咒	qu chu hei an de mo zhou
 取代	qu dai
 屈服	qu fu
-曲阜师范大学魏庆庆	qu fu shi fan da xue wei qing qing
 去火星的男人	qu huo xing de nan ren
 去见瀑布	qu jian pu bu
 去见小洋葱的母亲	qu jian xiao yang cong de mu qin
@@ -66653,7 +66457,6 @@ use_preset_vocabulary: true
 荣耀三九年	rong yao san jiu nian
 容疑者室井慎次	rong yi zhe shi jing shen ci
 荣誉飞行	rong yu fei xing
-荣誉曲阜师范大学郑儒娴王鹏飞	rong yu qu fu shi fan da xue zheng ru xian wang peng fei
 荣誉小姐	rong yu xiao jie
 荣誉与骄傲	rong yu yu jiao ao
 荣誉战场	rong yu zhan chang
@@ -66972,7 +66775,6 @@ use_preset_vocabulary: true
 三步杀人曲	san bu sha ren qu
 三步舞曲	san bu wu qu
 三岔口	san cha kou
-三岔口重庆大学刘洋	san cha kou chong qing da xue liu yang
 三岔路口	san cha lu kou
 三城记	san cheng ji
 三重标准	san chong biao zhun
@@ -70095,7 +69897,6 @@ use_preset_vocabulary: true
 尸台社区	shi tai she qu
 史坦顿岛	shi tan dun dao
 史坦利的快艇	shi tan li de kuai ting
-石塘咀大学宿舍	shi tang ju da xue su she
 施陶芬贝格	shi tao fen bei ge
 尸体	shi ti
 尸体防腐员	shi ti fang fu yuan
@@ -72500,7 +72301,6 @@ use_preset_vocabulary: true
 藤条	teng tiao
 疼痛难忍	teng tong nan ren
 疼痛是福	teng tong shi fu
-腾讯视频电影精彩混剪	teng xun shi pin dian ying jing cai hun jian
 腾越殇魂	teng yue shang hun
 题宝藏	ti bao zang
 替补职员	ti bu zhi yuan
@@ -72530,13 +72330,9 @@ use_preset_vocabulary: true
 替身杀手	ti shen sha shou
 替身小子	ti shen xiao zi
 替身演员	ti shen yan yuan
-替身意大利版	ti shen yi da li ban
 替生靈	ti sheng ling
 踢踏情缘	ti ta qing yuan
-提提卡失序记事	ti ti ka shi xu ji shi
 替天行道	ti tian xing dao
-替天行道三人行	ti tian xing dao san ren xing
-替天行道之杀兄	ti tian xing dao zhi sha xiong
 剃头匠	ti tou jiang
 剃头师傅	ti tou shi fu
 提图斯	ti tu si
@@ -72553,10 +72349,8 @@ use_preset_vocabulary: true
 替罪男孩	ti zui nan hai
 替罪羊	ti zui yang
 天安号计划	tian an hao ji hua
-天安门	tian an men
 天安门上太阳升	tian an men shang tai yang sheng
 天崩地裂	tian beng di lie
-天边	tian bian
 天边草原乌拉盖	tian bian cao yuan wu la gai
 天边的孩子	tian bian de hai zi
 天边的情歌	tian bian de qing ge
@@ -72593,9 +72387,7 @@ use_preset_vocabulary: true
 天残反击战	tian can fan ji zhan
 天蚕再变	tian can zai bian
 天草四郎时贞	tian cao si lang shi zhen
-天朝国家地理之公共空间	tian chao guo jia di li zhi gong gong kong jian
 天朝国库之谜	tian chao guo ku zhi mi
-天朝密探零零玖之小试牛刀	tian chao mi tan ling ling jiu zhi xiao shi niu dao
 天朝魔法学院	tian chao mo fa xue yuan
 天朝女团天雷滚滚	tian chao nv tuan tian lei gun gun
 天朝生死斗	tian chao sheng si dou
@@ -72665,7 +72457,6 @@ use_preset_vocabulary: true
 天黑	tian hei
 天黑请闭眼	tian hei qing bi yan
 天黑请睁眼	tian hei qing zheng yan
-田恨恨的世界末日梦	tian hen hen de shi jie mo ri meng
 天后	tian hou
 天后之战	tian hou zhi zhan
 天湖女侠	tian hu nv xia
@@ -72686,8 +72477,6 @@ use_preset_vocabulary: true
 天际浩劫	tian ji hao jie
 天际危机	tian ji wei ji
 天际线	tian ji xian
-天劍絕刀	tian jian jue dao
-天剑绝刀之独孤九剑	tian jian jue dao zhi du gu jiu jian
 天降横彩	tian jiang heng cai
 天降横财	tian jiang heng cai
 天降横财心惊惊	tian jiang heng cai xin jing jing
@@ -72732,7 +72521,6 @@ use_preset_vocabulary: true
 天雷地火	tian lei di huo
 天雷滚滚冲我来	tian lei gun gun chong wo lai
 天理难容	tian li nan rong
-天亮	tian liang
 天凉好个秋	tian liang hao ge qiu
 天亮以后不分手	tian liang yi hou bu fen shou
 天亮之前	tian liang zhi qian
@@ -72745,7 +72533,6 @@ use_preset_vocabulary: true
 天伦梦境	tian lun meng jing
 天伦之旅	tian lun zhi lv
 天罗地网	tian luo di wang
-天马	tian ma
 天马星空	tian ma xing kong
 天脉传奇	tian mai chuan qi
 甜美冲刺	tian mei chong ci
@@ -72807,7 +72594,6 @@ use_preset_vocabulary: true
 天目山传奇	tian mu shan chuan qi
 天那边	tian na bian
 田纳西	tian na xi
-甜女	tian nv
 天女猎妖团	tian nv lie yao tuan
 天女散花	tian nv san hua
 天棚	tian peng
@@ -72843,11 +72629,6 @@ use_preset_vocabulary: true
 天上的红花	tian shang de hong hua
 天上的菊美	tian shang de ju mei
 天上的恋人	tian shang de lian ren
-天上掉下个干露露	tian shang diao xia ge gan lu lu
-天上掉下个姐姐	tian shang diao xia ge jie jie
-天上掉下个老太太	tian shang diao xia ge lao tai tai
-天上掉下个卓别林	tian shang diao xia ge zhuo bie lin
-天上掉下卓别林	tian shang diao xia zhuo bie lin
 天上掉馅饼	tian shang diao xian bing
 天上人	tian shang ren
 天上人间	tian shang ren jian
@@ -72869,8 +72650,6 @@ use_preset_vocabulary: true
 天生杀人狂	tian sheng sha ren kuang
 天生我蠢必有用	tian sheng wo chun bi you yong
 天生我刺	tian sheng wo ci
-天生一对美版	tian sheng yi dui mei ban
-天生一对印度版	tian sheng yi dui yin du ban
 天生赢家	tian sheng ying jia
 天生有福	tian sheng you fu
 天生冤家	tian sheng yuan jia
@@ -73890,7 +73669,6 @@ use_preset_vocabulary: true
 湍流番外篇声音	tuan liu fan wai pian sheng yin
 团圆之后	tuan yuan zhi hou
 蜕变痕迹	tui bian hen ji
-蜕变临沂大学王常香	tui bian lin yi da xue wang chang xiang
 退出江湖	tui chu jiang hu
 推倒棒子	tui dao bang zi
 推动摇篮的手	tui dong yao lan de shou
@@ -74950,7 +74728,6 @@ use_preset_vocabulary: true
 危险飞行	wei xian fei xing
 危险工作	wei xian gong zuo
 危险古迹	wei xian gu ji
-危险关系意大利版	wei xian guan xi yi da li ban
 危险好男人	wei xian hao nan ren
 危险机密	wei xian ji mi
 危险巨星	wei xian ju xing
@@ -74963,15 +74740,12 @@ use_preset_vocabulary: true
 危险朋友	wei xian peng you
 危险婆婆	wei xian po po
 危险情人	wei xian qing ren
-危险情人港版	wei xian qing ren gang ban
 危险人格	wei xian ren ge
 危险任务	wei xian ren wu
-危险人物导演剪辑版	wei xian ren wu dao yan jian ji ban
 危险少女	wei xian shao nv
 危险生机	wei xian sheng ji
 危险时刻	wei xian shi ke
 危险思想的告白	wei xian si xiang de gao bai
-危险思想的自白	wei xian si xiang de zi bai
 危险天使	wei xian tian shi
 危险天王	wei xian tian wang
 危险小宝贝	wei xian xiao bao bei
@@ -75295,7 +75069,6 @@ use_preset_vocabulary: true
 我从未忘记你	wo cong wei wang ji ni
 渥大利亚	wo da li ya
 我打两份工	wo da liang fen gong
-我大学死党的日常	wo da xue si dang de ri chang
 我单身	wo dan shen
 我當歌手的日子	wo dang ge shou de ri zi
 我到底是什么人	wo dao di shi shen me ren
@@ -76733,7 +76506,6 @@ use_preset_vocabulary: true
 武林风云	wu lin feng yun
 雾林寒战	wu lin han zhan
 武林龙虎斗	wu lin long hu dou
-武林女大学生	wu lin nv da xue sheng
 武林群英传	wu lin qun ying zhuan
 武林圣斗士	wu lin sheng dou shi
 武林十八女杰	wu lin shi ba nv jie
@@ -79103,7 +78875,6 @@ use_preset_vocabulary: true
 小镇周六夜	xiao zhen zhou liu ye
 小镇猪事	xiao zhen zhu shi
 枭之城	xiao zhi cheng
-笑之大学	xiao zhi da xue
 小职员	xiao zhi yuan
 小周后	xiao zhou hou
 小猪宝贝	xiao zhu bao bei
@@ -82457,8 +82228,6 @@ use_preset_vocabulary: true
 异能	yi neng
 异能缉凶	yi neng ji xiong
 异能女友	yi neng nv you
-异能女友导演剪辑版	yi neng nv you dao yan jian ji ban
-异能杀手前传	yi neng sha shou qian zhuan
 一念	yi nian
 一年半	yi nian ban
 一年到头	yi nian dao tou
@@ -83703,9 +83472,6 @@ use_preset_vocabulary: true
 诱饵店	you er dian
 有儿万事足	you er wan shi zu
 诱饵新娘	you er xin niang
-幼儿园	you er yuan
-幼儿园大学	you er yuan da xue
-幼儿园警探	you er yuan jing tan
 幼犯	you fan
 有房出租	you fang chu zu
 有房好好住	you fang hao hao zhu
@@ -85042,7 +84808,6 @@ use_preset_vocabulary: true
 再见古惑仔	zai jian gu huo zai
 再见孩子们	zai jian hai zi men
 再见火锅	zai jian huo guo
-再剪辑	zai jian ji
 再见加莱古柏	zai jian jia lai gu bai
 再见金华站	zai jian jin hua zhan
 再见巨人	zai jian ju ren
@@ -85803,13 +85568,6 @@ use_preset_vocabulary: true
 这个周末我找到爱情	zhe ge zhou mo wo zhao dao ai qing
 折痕	zhe hen
 折剑传奇	zhe jian chuan qi
-浙江工业大学之冲出去	zhe jiang gong ye da xue zhi chong chu qu
-浙江工业大学之疯狂的键盘	zhe jiang gong ye da xue zhi feng kuang de jian pan
-浙江工业大学之花园	zhe jiang gong ye da xue zhi hua yuan
-浙江工业大学之辉	zhe jiang gong ye da xue zhi hui
-浙江工业大学之默	zhe jiang gong ye da xue zhi mo
-浙江工业大学之小鱼灯	zhe jiang gong ye da xue zhi xiao yu deng
-这叫做爱	zhe jiao zuo ai
 这就是爱	zhe jiu shi ai
 这就是卡吕普索	zhe jiu shi ka lv pu suo
 这就是生活	zhe jiu shi sheng huo
@@ -86041,11 +85799,8 @@ use_preset_vocabulary: true
 珍惜生命	zhen xi sheng ming
 真戏真做	zhen xi zhen zuo
 真相不明	zhen xiang bu ming
-真相大白意大利版	zhen xiang da bai yi da li ban
 真相禁区	zhen xiang jin qu
 真相是什么	zhen xiang shi shen me
-真相之极道追击	zhen xiang zhi ji dao zhui ji
-真相之极度追击	zhen xiang zhi ji du zhui ji
 真相至上	zhen xiang zhi shang
 真相之一终极之旅	zhen xiang zhi yi zhong ji zhi lv
 真相之终极之旅	zhen xiang zhi zhong ji zhi lv
@@ -86058,7 +85813,6 @@ use_preset_vocabulary: true
 真凶疑云	zhen xiong yi yun
 针眼	zhen yan
 真夜中的少女们	zhen ye zhong de shao nv men
-真夜中的喜多郎和弥次郎	zhen ye zhong de xi duo lang he mi ci lang
 阵营攻防战	zhen ying gong fang zhan
 真英雄	zhen ying xiong
 真由美	zhen you mei
@@ -86073,7 +85827,6 @@ use_preset_vocabulary: true
 真正的颜色	zhen zheng de yan se
 真正的正义之死亡降临	zhen zheng de zheng yi zhi si wang jiang lin
 真正末日	zhen zheng mo ri
-真正正义之死亡降临	zhen zheng zheng yi zhi si wang jiang lin
 珍珠港	zhen zhu gang
 珍珠记	zhen zhu ji
 珍珠泪	zhen zhu lei
@@ -86088,7 +85841,6 @@ use_preset_vocabulary: true
 整编特工	zheng bian te gong
 郑大世	zheng da shi
 正当防卫	zheng dang fang wei
-争当全国生态建设排头兵	zheng dang quan guo sheng tai jian she pai tou bing
 蒸发的摩根夫妇	zheng fa de mo gen fu fu
 蒸发旅日记	zheng fa lv ri ji
 蒸发密令	zheng fa mi ling
@@ -87262,7 +87014,6 @@ use_preset_vocabulary: true
 转变	zhuan bian
 转变的挑战	zhuan bian de tiao zhan
 砖厂	zhuan chang
-砖厂山东师范大学古若村	zhuan chang shan dong shi fan da xue gu ruo cun
 专钓大鳄	zhuan diao da e
 專釣大鱷	zhuan diao da e
 转动的桌子	zhuan dong de zhuo zi
@@ -87933,13 +87684,10 @@ use_preset_vocabulary: true
 最后阶段	zui hou jie duan
 最后巨人	zui hou ju ren
 最后看见的街	zui hou kan jian de jie
-最后两个大法师	zui hou liang ge da fa shi
 最后旅程	zui hou lv cheng
 最后魔鬼英雄	zui hou mo gui ying xiong
 最后目击者	zui hou mu ji zhe
-醉猴女	zui hou nv
 最后判决	zui hou pan jue
-醉后人生	zui hou ren sheng
 最后三分钟	zui hou san fen zhong
 最后生机	zui hou sheng ji
 最后胜利	zui hou sheng li
@@ -87978,7 +87726,6 @@ use_preset_vocabulary: true
 最后一个皇妃	zui hou yi ge huang fei
 最后一个教父	zui hou yi ge jiao fu
 最后一个军礼	zui hou yi ge jun li
-最后一个猫王	zui hou yi ge mao wang
 最后一个莫希干人	zui hou yi ge mo xi gan ren
 最后一个人	zui hou yi ge ren
 最后一击	zui hou yi ji
@@ -88042,11 +87789,8 @@ use_preset_vocabulary: true
 最狂野的群岛	zui kuang ye de qun dao
 罪魁伏法记	zui kui fu fa ji
 最老的学生	zui lao de xue sheng
-醉马骝	zui ma liu
 醉马时刻	zui ma shi ke
 醉猫师傅	zui mao shi fu
-最美	zui mei
-最美的东西	zui mei de dong xi
 最美的风景叫文明	zui mei de feng jing jiao wen ming
 最美的谎言	zui mei de huang yan
 最美的梦	zui mei de meng
@@ -88082,7 +87826,6 @@ use_preset_vocabulary: true
 最强喜事	zui qiang xi shi
 醉青春	zui qing chun
 醉拳无敌	zui quan wu di
-罪人	zui ren
 罪人和圣人	zui ren he sheng ren
 醉生梦死	zui sheng meng si
 醉生梦死之湾仔之虎	zui sheng meng si zhi wan zai zhi hu
@@ -88179,14 +87922,10 @@ use_preset_vocabulary: true
 昨日的记忆	zuo ri de ji yi
 昨日绵绵无绝期	zuo ri mian mian wu jue qi
 佐瑞姑娘	zuo rui gu niang
-左声道	zuo sheng dao
-做生意的男孩	zuo sheng yi de nan hai
 左手边的秘密	zuo shou bian de mi mi
 左手持枪	zuo shou chi qiang
-坐台	zuo tai
 昨天今天明天	zuo tian jin tian ming tian
 昨天是个谎言	zuo tian shi ge huang yan
-做头	zuo tou
 座头鲸	zuo tou jing
 座头市	zuo tou shi
 座头市战帖	zuo tou shi zhan tie
