@@ -22,6 +22,12 @@ use_preset_vocabulary: true
 -	jian	1000
 ×	cheng	1000
 ÷	chu	1000
+°	du	1000
+α	alpha	1000
+β	beta	1000
+γ	gamma	1000
+θ	theta	1000
+∠	jiao	1000
 、	dian	1000
 ·	dian	1000
 |	shu	1000
