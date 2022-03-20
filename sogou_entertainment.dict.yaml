@@ -21,26 +21,17 @@ use_preset_vocabulary: true
 ...
 
 阿笨猫	a ben mao
-阿波特战记五	a bo te zhan ji wu
 阿布要长大	a bu yao zhang da
-阿达宙宙灵	a da zhou zhou ling
 阿德拉战记	a de la zhan ji
 阿凡提新传	a fan ti xin zhuan
 阿福漫游记	a fu man you ji
 阿福寻规记	a fu xun gui ji
 阿贡	a gong
-阿公益动画传递	a gong yi dong hua chuan di
-阿贵动画	a gui dong hua
 阿基拉	a ji la
-阿吉森林守护人	a ji sen lin shou hu ren
-阿吉勇救皮里斯	a ji yong jiu pi li si
-阿囧歪传	a jiong wai zhuan
 阿卡妈妈手工	a ka ma ma shou gong
 阿拉德战记	a la de zhan ji
 阿拉丁神灯	a la ding shen deng
-阿拉法的奇妙世界	a la fa de qi miao shi jie
 阿拉蕾	a la lei
-阿拉蕾剧场版	a la lei ju chang ban
 阿莱蒂公主	a lai di gong zhu
 阿狸	a li
 阿木星	a mu xing
@@ -51,7 +42,6 @@ use_preset_vocabulary: true
 阿特的奇幻之旅	a te de qi huan zhi lv
 阿修罗	a xiu luo
 阿左阿右	a zuo a you
-爱宝贝晒一晒	ai bao bei shai yi shai
 爱的魔法	ai de mo fa
 艾迪奥特曼	ai di ao te man
 爱迪生和里奥	ai di sheng he li ao
@@ -59,7 +49,6 @@ use_preset_vocabulary: true
 埃及王子	ai ji wang zi
 艾可魔法少女	ai ke mo fa shao nv
 艾克斯奥特曼	ai ke si ao te man
-艾克斯奥特曼精华版	ai ke si ao te man jing hua ban
 爱啃俱乐部	ai ken ju le bu
 爱哭的阿佳	ai ku de a jia
 艾拉贝拉答对了	ai la bei la da dui le
@@ -92,7 +81,6 @@ use_preset_vocabulary: true
 爱星球之恋	ai xing qiu zhi lian
 爱与魔法	ai yu mo fa
 爱在三点钟	ai zai san dian zhong
-爱智绘本动画书	ai zhi hui ben dong hua shu
 艾滋的秘密	ai zi de mi mi
 安达卢西亚之夏	an da lu xi ya zhi xia
 暗黑破坏神	an hei po huai shen
@@ -173,7 +161,6 @@ use_preset_vocabulary: true
 百花巷	bai hua xiang
 百吉学堂	bai ji xue tang
 拜见女皇陛	bai jian nv huang bi
-百看不厌动画	bai kan bu yan dong hua
 百利熊	bai li xiong
 百利熊之美丽的大森林	bai li xiong zhi mei li de da sen lin
 白鹭和龟	bai lu he gui
@@ -383,38 +370,20 @@ use_preset_vocabulary: true
 波皮兹	bo pi zi
 博士	bo shi
 薄樱鬼	bo ying gui
-薄樱鬼碧血录	bo ying gui bi xue lu
-薄樱鬼碧血录江户番外篇	bo ying gui bi xue lu jiang hu fan wai pian
-薄樱鬼京都番外篇	bo ying gui jing du fan wai pian
-薄樱鬼黎明录	bo ying gui li ming lu
-薄樱鬼黎明录番外篇	bo ying gui li ming lu fan wai pian
-薄樱鬼特典	bo ying gui te dian
-薄樱鬼新选组奇谈	bo ying gui xin xuan zu qi tan
-薄樱鬼新选组奇谭	bo ying gui xin xuan zu qi tan
-薄樱鬼雪华录	bo ying gui xue hua lu
 波子汽水	bo zi qi shui
 布布恰恰	bu bu qia qia
 布布熊	bu bu xiong
 布袋和尚云游记	bu dai he shang yun you ji
-布袋和尚云游记之抗洪风云	bu dai he shang yun you ji zhi kang hong feng yun
-布袋和尚云游记至抗洪风云	bu dai he shang yun you ji zhi kang hong feng yun
 布袋小和尚	bu dai xiao he shang
-布丁小镇之成语剧场	bu ding xiao zhen zhi cheng yu ju chang
-布丁小镇之趣味知识屋	bu ding xiao zhen zhi qu wei zhi shi wu
 卜多力的一生	bu duo li de yi sheng
 布耳朵的故事	bu er duo de gu shi
 布非同学	bu fei tong xue
-不给糖就捣蛋万圣节爆笑盘点	bu gei tang jiu dao dan wan sheng jie bao xiao pan dian
 不公正抽签	bu gong zheng chou qian
 布谷鸟叫迟了	bu gu niao jiao chi le
-不看人生会有损失动画	bu kan ren sheng hui you sun shi dong hua
 不可能恋爱	bu ke neng lian ai
 不可思议的教室	bu ke si yi de jiao shi
 不可思议的课堂	bu ke si yi de ke tang
 不可思议的游戏	bu ke si yi de you xi
-不可思议的游戏后篇	bu ke si yi de you xi hou pian
-不可思议的游戏延续篇	bu ke si yi de you xi yan xu pian
-不可思议的游戏永光传	bu ke si yi de you xi yong guang zhuan
 不可思议猫森林	bu ke si yi mao sen lin
 不可思议魔法药店	bu ke si yi mo fa yao dian
 不可思议游戏	bu ke si yi you xi
@@ -423,7 +392,6 @@ use_preset_vocabulary: true
 不莱梅四重奏	bu lai mei si chong zou
 布兰迪和他的怪物	bu lan di he ta de guai wu
 布雷斯塔警长	bu lei si ta jing zhang
-布雷斯塔警长传奇	bu lei si ta jing zhang chuan qi
 咘隆家族	bu long jia zu
 布鲁和森林里的朋友们	bu lu he sen lin li de peng you men
 布鲁精灵	bu lu jing ling
@@ -464,34 +432,19 @@ use_preset_vocabulary: true
 彩虹小马友谊是魔法	cai hong xiao ma you yi shi mo fa
 彩虹之梦	cai hong zhi meng
 蔡六	cai liu
-彩梦芭蕾	cai meng ba lei
-彩色豆园	cai se dou yuan
-彩色童话故事	cai se tong hua gu shi
-彩色童话故事集	cai se tong hua gu shi ji
-彩色童话之白色韩国童话	cai se tong hua zhi bai se han guo tong hua
-彩色童话之橙色德国童话	cai se tong hua zhi cheng se de guo tong hua
-彩色童话之粉色阿拉伯童话	cai se tong hua zhi fen se a la bo tong hua
-彩色童话之红色俄罗斯童话	cai se tong hua zhi hong se e luo si tong hua
-彩色童话之绿色法国童话	cai se tong hua zhi lv se fa guo tong hua
-彩色童话之紫色英国童话	cai se tong hua zhi zi se ying guo tong hua
 财商宝典	cai shang bao dian
 彩云国物语	cai yun guo wu yu
 彩云南	cai yun nan
-蔡志忠经典动画系列	cai zhi zhong jing dian dong hua xi lie
-蔡志忠中国经典系列	cai zhi zhong zhong guo jing dian xi lie
 残片	can pian
 藏藏学佛记	cang cang xue fo ji
 沧海的王子玛娜菲	cang hai de wang zi ma na fei
 苍蓝钢铁的琶音	cang lan gang tie de pa yin
-苍蓝钢铁的琶音剧场版	cang lan gang tie de pa yin ju chang ban
 苍蓝钢铁的琵音	cang lan gang tie de pi yin
 藏羚王	cang ling wang
 苍穹之法芙娜	cang qiong zhi fa fu na
 苍穹之巨龙	cang qiong zhi ju long
-苍穹之战神剧场版	cang qiong zhi zhan shen ju chang ban
 苍色骑士	cang se qi shi
 仓鼠乐园	cang shu le yuan
-仓鼠乐园版江南	cang shu le yuan ban jiang nan
 苍天航路	cang tian hang lu
 苍天之拳	cang tian zhi quan
 苍翼默示录	cang yi mo shi lu
@@ -501,23 +454,13 @@ use_preset_vocabulary: true
 草莓	cao mei
 草莓百分百	cao mei bai fen bai
 草莓乐园	cao mei le yuan
-草莓乐园快乐生活	cao mei le yuan kuai le sheng huo
-草莓乐园幸福时光	cao mei le yuan xing fu shi guang
-草莓乐园之快乐生活	cao mei le yuan zhi kuai le sheng huo
-草莓乐园之幸福时光	cao mei le yuan zhi xing fu shi guang
 草莓棉花糖	cao mei mian hua tang
 草人	cao ren
-草原豆思之彩虹故乡	cao yuan dou si zhi cai hong gu xiang
-草原豆思之囧特工	cao yuan dou si zhi jiong te gong
-草原豆思之快乐家园	cao yuan dou si zhi kuai le jia yuan
-草原豆思之危机迫近	cao yuan dou si zhi wei ji po jin
-草原豆思之晰迫近	cao yuan dou si zhi xi po jin
 草原英雄小姐妹	cao yuan ying xiong xiao jie mei
 侧耳倾听	ce er qing ting
 测试节目	ce shi jie mu
 曾几何时天魔的黑兔	ceng ji he shi tian mo de hei tu
 茶啊二中	cha a er zhong
-茶啊二中泡面番	cha a er zhong pao mian fan
 茶剥中	cha bo zhong
 茶剥中番外男寝	cha bo zhong fan wai nan qin
 茶剥中男寝	cha bo zhong nan qin
@@ -556,7 +499,6 @@ use_preset_vocabulary: true
 超级艾比	chao ji ai bi
 超级毕业生	chao ji bi ye sheng
 超级变身	chao ji bian shen
-超级动画版江南熊叔鸟叔	chao ji dong hua ban jiang nan xiong shu niao shu
 超级动漫秀	chao ji dong man xiu
 超级方程式	chao ji fang cheng shi
 超级访问	chao ji fang wen
@@ -572,7 +514,6 @@ use_preset_vocabulary: true
 超级玛丽大冒险	chao ji ma li da mao xian
 超级偶像猫铃铛	chao ji ou xiang mao ling dang
 超级索尼子	chao ji suo ni zi
-超级索尼子音乐集	chao ji suo ni zi yin yue ji
 超级为什么	chao ji wei shen me
 超级英雄大战	chao ji ying xiong da zhan
 超级蜘蛛侠	chao ji zhi zhu xia
@@ -582,10 +523,6 @@ use_preset_vocabulary: true
 超酷正太万人迷	chao ku zheng tai wan ren mi
 超力战队	chao li zhan dui
 潮流顽主	chao liu wan zhu
-巣妈好孕学院产前准备	chao ma hao yun xue yuan chan qian zhun bei
-巣妈好孕学院母乳喂养	chao ma hao yun xue yuan mu ru wei yang
-巣妈好孕学院孕期保健	chao ma hao yun xue yuan yun qi bao jian
-超萌超可爱原创动漫	chao meng chao ke ai yuan chuang dong man
 超魔人	chao mo ren
 超魔神英雄传	chao mo shen ying xiong zhuan
 超能宝贝	chao neng bao bei
@@ -602,19 +539,12 @@ use_preset_vocabulary: true
 超女娃娃	chao nv wa wa
 超青春姐弟	chao qing chun jie di
 超燃神契合	chao ran shen qi he
-超热血十大战斗场面	chao re xue shi da zhan dou chang mian
 超人	chao ren
 超人正义联盟	chao ren zheng yi lian meng
 超神姬	chao shen ji
 超神学院	chao shen xue yuan
-超神学院第季巨峡号	chao shen xue yuan di ji ju xia hao
-超神学院之黑甲	chao shen xue yuan zhi hei jia
-超神学院之黑甲加长版	chao shen xue yuan zhi hei jia jia chang ban
 超神游戏	chao shen you xi
-超神游戏总集篇	chao shen you xi zong ji pian
 超时空冒险家	chao shi kong mao xian jia
-超时空骑团南十字军	chao shi kong qi tuan nan shi zi jun
-超时空骑团南十字星	chao shi kong qi tuan nan shi zi xing
 超时空世纪	chao shi kong shi ji
 超时空要塞	chao shi kong yao sai
 超时空要塞边界	chao shi kong yao sai bian jie
@@ -627,9 +557,7 @@ use_preset_vocabulary: true
 超速变形伽罗	chao su bian xing jia luo
 超限猎兵凯能	chao xian lie bing kai neng
 超星神	chao xing shen
-超银河传说外传	chao yin he chuan shuo wai zhuan
 超音战士	chao yin zhan shi
-超有病之勇者传说	chao you bing zhi yong zhe chuan shuo
 潮与虎	chao yu hu
 超元气三姐妹	chao yuan qi san jie mei
 超智能足球	chao zhi neng zu qiu
@@ -646,7 +574,6 @@ use_preset_vocabulary: true
 成惠的世界	cheng hui de shi jie
 成龙历险记	cheng long li xian ji
 橙路	cheng lu
-成年女性的动画时间	cheng nian nv xing de dong hua shi jian
 城市猎人	cheng shi lie ren
 城市野战排	cheng shi ye zhan pai
 成为状元的种可能	cheng wei zhuang yuan de zhong ke neng
@@ -681,7 +608,6 @@ use_preset_vocabulary: true
 冲击编	chong ji bian
 冲击豪雷枪	chong ji hao lei qiang
 宠物宝贝环游记	chong wu bao bei huan you ji
-宠物宝贝环游世界	chong wu bao bei huan you shi jie
 宠物老友记	chong wu lao you ji
 宠物物语	chong wu wu yu
 宠物小精灵	chong wu xiao jing ling
@@ -697,7 +623,6 @@ use_preset_vocabulary: true
 触恋	chu lian
 初恋怪兽	chu lian guai shou
 初恋限定	chu lian xian ding
-初恋限定限定少女	chu lian xian ding xian ding shao nv
 出门	chu men
 除魔维纳斯	chu mo wei na si
 出塞	chu sai
@@ -706,16 +631,12 @@ use_preset_vocabulary: true
 除夕的故事	chu xi de gu shi
 初夏	chu xia
 初音岛	chu yin dao
-初音岛艾西亚篇	chu yin dao ai xi ya pian
 初音未来	chu yin wei lai
-初音未来上海演唱会	chu yin wei lai shang hai yan chang hui
-初音未来演唱会	chu yin wei lai yan chang hui
 出云传奇	chu yun chuan qi
 出云战记	chu yun zhan ji
 出租魔法使	chu zu mo fa shi
 穿长筒靴的猫	chuan chang tong xue de mao
 穿魔法靴的神猫	chuan mo fa xue de shen mao
-川崎前锋天体战士桑雷德	chuan qi qian feng tian ti zhan shi sang lei de
 传染	chuan ran
 传说巨神	chuan shuo ju shen
 传说中的魔法禁书目录	chuan shuo zhong de mo fa jin shu mu lu
@@ -725,10 +646,6 @@ use_preset_vocabulary: true
 传统艺继承部	chuan tong yi ji cheng bu
 穿透幻影的太阳	chuan tou huan ying de tai yang
 穿越火线	chuan yue huo xian
-穿越火线动画版	chuan yue huo xian dong hua ban
-穿越时空的爱恋	chuan yue shi kong de ai lian
-穿越时空的少女	chuan yue shi kong de shao nv
-穿越宇宙的少女	chuan yue yu zhou de shao nv
 船长哈洛克	chuan zhang ha luo ke
 闯闯闯我是闯堂兔	chuang chuang chuang wo shi chuang tang tu
 创崛起	chuang jue qi
@@ -737,10 +654,8 @@ use_preset_vocabulary: true
 创圣背叛之翼	chuang sheng bei pan zhi yi
 创圣大天使	chuang sheng da tian shi
 创圣的大天使	chuang sheng de da tian shi
-创圣的大天使剧场版	chuang sheng de da tian shi ju chang ban
 创圣太阳之翼	chuang sheng tai yang zhi yi
 创圣之大天使	chuang sheng zhi da tian shi
-创圣之大天使背叛之翼	chuang sheng zhi da tian shi bei pan zhi yi
 创世的大天使	chuang shi de da tian shi
 闯堂兔	chuang tang tu
 创意表演	chuang yi biao yan
@@ -751,11 +666,7 @@ use_preset_vocabulary: true
 纯白交响曲	chun bai jiao xiang qu
 纯白相簿	chun bai xiang bu
 春春成长记	chun chun cheng zhang ji
-春春成长记之防止儿童意外篇	chun chun cheng zhang ji zhi fang zhi er tong yi wai pian
-春春成长记之青春期篇	chun chun cheng zhang ji zhi qing chun qi pian
 春光灿烂猪八戒	chun guang can lan zhu ba jie
-春光灿烂猪八戒动画版	chun guang can lan zhu ba jie dong hua ban
-春光灿烂猪八戒之英勇小猪	chun guang can lan zhu ba jie zhi ying yong xiao zhu
 春季新番扫雷	chun ji xin fan sao lei
 纯洁的玛利亚	chun jie de ma li ya
 纯洁的维纳斯	chun jie de wei na si
@@ -766,8 +677,6 @@ use_preset_vocabulary: true
 春梦记	chun meng ji
 蠢萌吉祥物集锦	chun meng ji xiang wu ji jin
 纯情房东俏房客	chun qing fang dong qiao fang ke
-纯情房东俏房客春季特别篇	chun qing fang dong qiao fang ke chun ji te bie pian
-纯情房东俏房客圣诞特别篇	chun qing fang dong qiao fang ke sheng dan te bie pian
 纯情罗曼史	chun qing luo man shi
 纯情罗曼史全季	chun qing luo man shi quan ji
 纯情水泳社	chun qing shui yong she
@@ -788,10 +697,6 @@ use_preset_vocabulary: true
 瓷娃娃	ci wa wa
 刺猬背西瓜	ci wei bei xi gua
 刺猬索尼克历险记	ci wei suo ni ke li xian ji
-刺猬索尼克圣诞历险记	ci wei suo ni ke sheng dan li xian ji
-刺猬索尼克外传	ci wei suo ni ke wai zhuan
-刺猬索尼克音速三兄弟	ci wei suo ni ke yin su san xiong di
-刺猬索尼克音速三兄妹	ci wei suo ni ke yin su san xiong mei
 磁星骑士	ci xing qi shi
 赐予护君女神的祝福	ci yu hu jun nv shen de zhu fu
 赐予护女神的祝福	ci yu hu nv shen de zhu fu
@@ -799,8 +704,6 @@ use_preset_vocabulary: true
 次元	ci yuan
 次元爱	ci yuan ai
 次元爱巨巨聚聚	ci yuan ai ju ju ju ju
-次元爱歪弟日报之想多了	ci yuan ai wai di ri bao zhi xiang duo le
-次元爱宅文化纪录片	ci yuan ai zhai wen hua ji lu pian
 次元爱展会现场	ci yuan ai zhan hui xian chang
 次元爱之巨巨聚聚	ci yuan ai zhi ju ju ju ju
 次元二治	ci yuan er zhi
@@ -910,8 +813,6 @@ use_preset_vocabulary: true
 弹珠汽水	dan zhu qi shui
 弹珠人	dan zhu ren
 当兵长遇上流行风	dang bing chang yu shang liu xing feng
-当不成勇者的我只好认真找工作了	dang bu cheng yong zhe de wo zhi hao ren zhen zhao gong zuo le
-当代雷锋郭明义的故事	dang dai lei feng guo ming yi de gu shi
 当黑子遇上韩流	dang hei zi yu shang han liu
 当猫撞见老鼠	dang mao zhuang jian lao shu
 当女孩遇到熊	dang nv hai yu dao xiong
@@ -923,12 +824,10 @@ use_preset_vocabulary: true
 刀刀狗有声绘本	dao dao gou you sheng hui ben
 道德经	dao de jing
 刀锋战士	dao feng zhan shi
-刀锋战士动画版	dao feng zhan shi dong hua ban
 倒高达	dao gao da
 道格的冒险	dao ge de mao xian
 刀剑神域	dao jian shen yu
 到另一个你的身边去	dao ling yi ge ni de shen bian qu
-到另一个你身边去	dao ling yi ge ni shen bian qu
 倒霉先生	dao mei xian sheng
 倒霉熊	dao mei xiong
 盗墓笔记	dao mu bi ji
@@ -939,7 +838,6 @@ use_preset_vocabulary: true
 盗贼王	dao zei wang
 道子和哈金	dao zi he ha jin
 道子与哈金	dao zi yu ha jin
-得宝无限玩耍趣味	de bao wu xian wan shua qu wei
 德菲求职记	de fei qiu zhi ji
 的鬼太郎	de gui tai lang
 德国漫展秀	de guo man zhan xiu
@@ -947,22 +845,14 @@ use_preset_vocabulary: true
 德克斯特的实验室	de ke si te de shi yan shi
 德里历险记	de li li xian ji
 的奇妙冒险	de qi miao mao xian
-的奇妙冒险不灭钻石	de qi miao mao xian bu mie zuan shi
-的奇妙冒险第季星尘斗士	de qi miao mao xian di ji xing chen dou shi
-的奇妙冒险星尘斗士埃及篇	de qi miao mao xian xing chen dou shi ai ji pian
 嘚瑟鼠	de se shu
 的天堂	de tian tang
-德行天下之至善之道	de xing tian xia zhi zhi shan zhi dao
-德行天下之中华德育故事	de xing tian xia zhi zhong hua de yu gu shi
 等明天	deng ming tian
 迪奥传说	di ao chuan shuo
 迪比狗	di bi gou
 地道战之英雄出少年	di dao zhan zhi ying xiong chu shao nian
 迪迪帮帮总动员	di di bang bang zong dong yuan
 迪迦奥特曼	di jia ao te man
-第届完美同人展	di jie wan mei tong ren zhan
-第九届中国国际动漫游戏博览会	di jiu jie zhong guo guo ji dong man you xi bo lan hui
-第九届中国杭州国际动漫节	di jiu jie zhong guo hang zhou guo ji dong man jie
 迪卡塔卫士	di ka ta wei shi
 迪卡塔卫士英音中字版	di ka ta wei shi ying yin zhong zi ban
 笛卡特警队机器帝国	di ka te jing dui ji qi di guo
@@ -971,8 +861,6 @@ use_preset_vocabulary: true
 笛卡特警队之机器帝国	di ka te jing dui zhi ji qi di guo
 笛卡特警队之生化危机	di ka te jing dui zhi sheng hua wei ji
 笛卡特警队之生化晰	di ka te jing dui zhi sheng hua xi
-第六届动漫游戏嘉年华	di liu jie dong man you xi jia nian hua
-第六届中国国际漫画节	di liu jie zhong guo guo ji man hua jie
 地面潜航艇	di mian qian hang ting
 第期	di qi
 地球大冒险	di qiu da mao xian
@@ -1087,7 +975,6 @@ use_preset_vocabulary: true
 冬之蝉	dong zhi chan
 动植物大战	dong zhi wu da zhan
 东之伊甸	dong zhi yi dian
-豆宝动画	dou bao dong hua
 逗比僵尸	dou bi jiang shi
 逗比妹子传	dou bi mei zi zhuan
 逗逼者联盟	dou bi zhe lian meng
@@ -1106,7 +993,6 @@ use_preset_vocabulary: true
 斗牌传说	dou pai chuan shuo
 斗气小冤家	dou qi xiao yuan jia
 斗球儿弹平	dou qiu er dan ping
-豆思牛公益动画	dou si niu gong yi dong hua
 豆特么黑	dou te me hei
 豆芽农场	dou ya nong chang
 豆芽小文	dou ya xiao wen
@@ -1148,9 +1034,6 @@ use_preset_vocabulary: true
 多纳学数学	duo na xue shu xue
 夺魄	duo po
 多情女人痴情男	duo qing nv ren chi qing nan
-多元开发启智童话	duo yuan kai fa qi zhi tong hua
-多元启智动画系列	duo yuan qi zhi dong hua xi lie
-多元智能亲子嘉年华	duo yuan zhi neng qin zi jia nian hua
 鹅堡乐园	e bao le yuan
 鹅堡小战队	e bao xiao zhan dui
 恶搞配音	e gao pei yin
@@ -1400,21 +1283,12 @@ use_preset_vocabulary: true
 绀碧之棺	gan bi zhi guan
 甘城辉煌乐园救世主	gan cheng hui huang le yuan jiu shi zhu
 敢达	gan da
-敢达创战者	gan da chuang zhan zhe
-敢达电影版	gan da dian ying ban
-敢达动画图鉴	gan da dong hua tu jian
-敢达独角兽	gan da du jiao shou
-敢达复国运动	gan da fu guo yun dong
-敢达三国传	gan da san guo zhuan
-敢达总集篇虚空的战场	gan da zong ji pian xu kong de zhan chang
 感恩有你伴我成长	gan en you ni ban wo cheng zhang
 感人的友情故事	gan ren de you qing gu shi
 干物妹小埋	gan wu mei xiao mai
 干支魂	gan zhi hun
 钢甲卡卡龙	gang jia ka ka long
 钢壳的雷吉奥斯	gang ke de lei ji ao si
-钢壳的雷吉奥斯外传	gang ke de lei ji ao si wai zhuan
-钢壳都市雷吉欧斯	gang ke du shi lei ji ou si
 钢琴恋曲	gang qin lian qu
 钢琴之森	gang qin zhi sen
 钢索危情	gang suo wei qing
@@ -1476,7 +1350,6 @@ use_preset_vocabulary: true
 歌牛之金牛钟	ge niu zhi jin niu zhong
 哥普拉	ge pu la
 革神语	ge shen yu
-割绳子动画片	ge sheng zi dong hua pian
 歌者与飞鱼	ge zhe yu fei yu
 给桃子的信	gei tao zi de xin
 给我牛奶	gei wo niu nai
@@ -1514,7 +1387,6 @@ use_preset_vocabulary: true
 宫子	gong zi
 工作狂	gong zuo kuang
 工作狂人	gong zuo kuang ren
-工作狂人动画版	gong zuo kuang ren dong hua ban
 狗狗军团	gou gou jun tuan
 狗狗日记	gou gou ri ji
 狗狗巡逻队	gou gou xun luo dui
@@ -1532,22 +1404,8 @@ use_preset_vocabulary: true
 古风	gu feng
 咕咕妈	gu gu ma
 古剑奇谭	gu jian qi tan
-古剑奇谭动画版	gu jian qi tan dong hua ban
-古剑奇谭二永夜初晗凝碧天	gu jian qi tan er yong ye chu han ning bi tian
-古剑奇谭集	gu jian qi tan ji
-古剑奇谭琴心剑魄今何在	gu jian qi tan qin xin jian po jin he zai
-古剑奇谭人气排行榜	gu jian qi tan ren qi pai hang bang
-咕力儿歌	gu li er ge
-咕力咕力	gu li gu li
-咕力咕力舞蹈学堂	gu li gu li wu dao xue tang
-咕力咕力舞蹈学堂动物篇	gu li gu li wu dao xue tang dong wu pian
-咕力咕力舞蹈学堂水果篇	gu li gu li wu dao xue tang shui guo pian
-咕力咕力丫米果	gu li gu li ya mi guo
-咕力律动	gu li lv dong
-咕力律动儿歌	gu li lv dong er ge
 古连泰沙	gu lian tai sha
 咕噜咕噜魔法阵	gu lu gu lu mo fa zhen
-咕噜咕噜魔法阵剧场版	gu lu gu lu mo fa zhen ju chang ban
 咕噜先生	gu lu xian sheng
 咕咪咕咪	gu mi gu mi
 鼓上蚤时迁	gu shang zao shi qian
@@ -1584,10 +1442,7 @@ use_preset_vocabulary: true
 怪兔乐奇	guai tu le qi
 怪物	guai wu
 怪物弹珠	guai wu dan zhu
-怪物动画版	guai wu dong hua ban
 怪物猎人日记	guai wu lie ren ri ji
-怪物猎人日记岌岌可危猫猫村	guai wu lie ren ri ji ji ji ke wei mao mao cun
-怪物猎人日记之岌岌可危的猫猫村	guai wu lie ren ri ji zhi ji ji ke wei de mao mao cun
 怪物女王	guai wu nv wang
 怪物山	guai wu shan
 怪物王女	guai wu wang nv
@@ -1596,8 +1451,6 @@ use_preset_vocabulary: true
 怪医黑杰克版	guai yi hei jie ke ban
 怪医美女	guai yi mei nv
 怪医秦博士	guai yi qin bo shi
-怪医秦博士两个黑市医生	guai yi qin bo shi liang ge hei shi yi sheng
-怪医秦博士生命的个奇迹	guai yi qin bo shi sheng ming de ge qi ji
 怪哉	guai zai
 关爱非洲	guan ai fei zhou
 关爱留守儿童	guan ai liu shou er tong
@@ -1605,21 +1458,17 @@ use_preset_vocabulary: true
 关东三宝记	guan dong san bao ji
 官渡之战	guan du zhi zhan
 棺姬嘉依卡	guan ji jia yi ka
-棺姬嘉依卡第季速看	guan ji jia yi ka di ji su kan
 管家后宫学园	guan jia hou gong xue yuan
 灌篮高手	guan lan gao shou
-灌篮高手剧场版	guan lan gao shou ju chang ban
 灌木丛中的金色孩子	guan mu cong zhong de jin se hai zi
 关上最后的门	guan shang zui hou de men
 罐头何钒	guan tou he fan
 罐头精灵	guan tou jing ling
 罐头张明檄	guan tou zhang ming xi
-关于完全听不懂老公在说什么的事	guan yu wan quan ting bu dong lao gong zai shuo shen me de shi
 光剑星传	guang jian xing zhuan
 光明剑	guang ming jian
 光明之泪	guang ming zhi lei
 光明之泪风	guang ming zhi lei feng
-光明之心幸福的面包	guang ming zhi xin xing fu de mian bao
 光速跑者号	guang su pao zhe hao
 光阴流转	guang yin liu zhuan
 光影与假象的十四行诗	guang ying yu jia xiang de shi si hang shi
@@ -1627,13 +1476,8 @@ use_preset_vocabulary: true
 光晕传奇	guang yun chuan qi
 光战队面具人	guang zhan dui mian ju ren
 光之美少女	guang zhi mei shao nv
-光之美少女在花都	guang zhi mei shao nv zai hua du
 广州动漫文化交流	guang zhou dong man wen hua jiao liu
-广州动漫文化交流展区视频	guang zhou dong man wen hua jiao liu zhan qu shi pin
 广州动漫展	guang zhou dong man zhan
-广州工贸技师学院优秀动画作品	guang zhou gong mao ji shi xue yuan you xiu dong hua zuo pin
-广州赛区宅天下第一舞道会	guang zhou sai qu zhai tian xia di yi wu dao hui
-广州萤火虫动漫嘉年华活动视频	guang zhou ying huo chong dong man jia nian hua huo dong shi pin
 桂宝之爆笑闯宇宙	gui bao zhi bao xiao chuang yu zhou
 鬼灯的冷彻	gui deng de leng che
 鬼公子炎魔	gui gong zi yan mo
@@ -1641,7 +1485,6 @@ use_preset_vocabulary: true
 鬼狐仙怪	gui hu xian guai
 鬼姬传说	gui ji chuan shuo
 鬼马小精灵	gui ma xiao jing ling
-鬼马小精灵之欢天喜地贺新年	gui ma xiao jing ling zhi huan tian xi di he xin nian
 鬼马校园	gui ma xiao yuan
 鬼神传	gui shen zhuan
 鬼神童子	gui shen tong zi
@@ -1654,9 +1497,6 @@ use_preset_vocabulary: true
 国宝的爱情	guo bao de ai qing
 果宝儿歌	guo bao er ge
 果宝特攻	guo bao te gong
-果宝特攻入园活动	guo bao te gong ru yuan huo dong
-果宝特攻之水果大逃亡	guo bao te gong zhi shui guo da tao wang
-国产怀旧动画主题曲	guo chan huai jiu dong hua zhu ti qu
 郭德纲长篇单口	guo de gang chang pian dan kou
 果冻宝贝	guo dong bao bei
 果冻三剑客	guo dong san jian ke
@@ -1667,8 +1507,6 @@ use_preset_vocabulary: true
 国记	guo ji
 国际音标	guo ji yin biao
 果酱男孩	guo jiang nan hai
-果酱男孩剧场版	guo jiang nan hai ju chang ban
-国漫动画经典	guo man dong hua jing dian
 国漫日漫大	guo man ri man da
 国旗的秘密	guo qi de mi mi
 过桥	guo qiao
@@ -1676,7 +1514,6 @@ use_preset_vocabulary: true
 果实	guo shi
 国王与小鸟	guo wang yu xiao niao
 国学启蒙	guo xue qi meng
-国学早教动画	guo xue zao jiao dong hua
 哈佛之夜	ha fo zhi ye
 哈哈宝贝	ha ha bao bei
 哈哈大冒险	ha ha da mao xian
@@ -1734,16 +1571,10 @@ use_preset_vocabulary: true
 邯郸学步	han dan xue bu
 憨豆先生	han dou xian sheng
 韩非子说	han fei zi shuo
-韩国动画片	han guo dong hua pian
 憨憨鹅与嘎嘎鸭	han han e yu ga ga ya
 汉斯和银鞋	han si he yin xie
 捍卫者	han wei zhe
-汉字动画	han zi dong hua
-汉字启蒙童谣	han zi qi meng tong yao
 航海王	hang hai wang
-航海王角色日志	hang hai wang jue se ri zhi
-航海王特别篇	hang hai wang te bie pian
-航海王特别篇萨博的故事	hang hai wang te bie pian sa bo de gu shi
 航天小飞机	hang tian xiao fei ji
 航天猩机	hang tian xing ji
 杭州动漫节	hang zhou dong man jie
@@ -1859,37 +1690,13 @@ use_preset_vocabulary: true
 红领巾侠	hong ling jin xia
 红领巾与王小明	hong ling jin yu wang xiao ming
 红楼梦	hong lou meng
-红楼梦动画版	hong lou meng dong hua ban
 虹猫蓝兔	hong mao lan tu
-虹猫蓝兔阿木星	hong mao lan tu a mu xing
-虹猫蓝兔奥悠国历险	hong mao lan tu ao you guo li xian
-虹猫蓝兔奥悠国历险记	hong mao lan tu ao you guo li xian ji
-虹猫蓝兔闯太空	hong mao lan tu chuang tai kong
-虹猫蓝兔光明剑	hong mao lan tu guang ming jian
-虹猫蓝兔海底历险记	hong mao lan tu hai di li xian ji
-虹猫蓝兔火凤凰	hong mao lan tu huo feng huang
-虹猫蓝兔开心一刻	hong mao lan tu kai xin yi ke
-虹猫蓝兔恐龙世界	hong mao lan tu kong long shi jie
-虹猫蓝兔乐翻天	hong mao lan tu le fan tian
-虹猫蓝兔猫眼看宇宙	hong mao lan tu mao yan kan yu zhou
-虹猫蓝兔梦之国历险记	hong mao lan tu meng zhi guo li xian ji
-虹猫蓝兔你问我答	hong mao lan tu ni wen wo da
-虹猫蓝兔七侠传	hong mao lan tu qi xia zhuan
-虹猫蓝兔水墨动画	hong mao lan tu shui mo dong hua
-虹猫蓝兔童话王国历险记	hong mao lan tu tong hua wang guo li xian ji
-虹猫蓝兔小幽默	hong mao lan tu xiao you mo
-虹猫蓝兔勇者归来	hong mao lan tu yong zhe gui lai
-虹猫蓝兔仗剑走天涯	hong mao lan tu zhang jian zou tian ya
-虹猫蓝兔之阿木星	hong mao lan tu zhi a mu xing
-虹猫蓝兔之乐翻天	hong mao lan tu zhi le fan tian
-虹猫蓝兔之水墨画	hong mao lan tu zhi shui mo hua
 虹猫仗剑走天涯	hong mao zhang jian zou tian ya
 红魔乡小剧场	hong mo xiang xiao ju chang
 轰啪啦	hong pa la
 红气球	hong qi qiu
 红色传奇	hong se chuan qi
 红色花园	hong se hua yuan
-虹色女孩钻石星路	hong se nv hai zuan shi xing lu
 虹色时光	hong se shi guang
 虹色萤火虫	hong se ying huo chong
 红色自行车	hong se zi xing che
@@ -1904,25 +1711,16 @@ use_preset_vocabulary: true
 后天的方向	hou tian de fang xiang
 猴兔超人	hou tu chao ren
 猴王传	hou wang zhuan
-猴王传上部	hou wang zhuan shang bu
-猴王传下部	hou wang zhuan xia bu
 猴王五	hou wang wu
 猴王五九	hou wang wu jiu
 后羿射日	hou yi she ri
 猴子钓鱼	hou zi diao yu
 猴子捞月	hou zi lao yue
-猴子有样学样	hou zi you yang xue yang
 猴子与仙人	hou zi yu xian ren
 虎霸王	hu ba wang
 蝴蝶泉	hu die quan
-蝴蝶仙子和精灵公主	hu die xian zi he jing ling gong zhu
-呼风唤雨之我的新娘	hu feng huan yu zhi wo de xin niang
 虎虎小天地	hu hu xiao tian di
-虎虎小天地乐园	hu hu xiao tian di le yuan
 狐假虎威	hu jia hu wei
-沪江宝宝儿歌	hu jiang bao bao er ge
-沪江宝宝网儿歌	hu jiang bao bao wang er ge
-沪江宝宝网儿歌大全	hu jiang bao bao wang er ge da quan
 狐狸打猎人	hu li da lie ren
 狐狸分饼	hu li fen bing
 狐狸酱的次元物语	hu li jiang de ci yuan wu yu
@@ -2022,10 +1820,6 @@ use_preset_vocabulary: true
 幻灵地狱	huan ling di yu
 幻灵镇魂曲	huan ling zhen hun qu
 幻魔大战	huan mo da zhan
-环球漫展巡游	huan qiu man zhan xun you
-环球数码动画学院优秀学员作品	huan qiu shu ma dong hua xue yuan you xiu xue yuan zuo pin
-环球数码精品集	huan qiu shu ma jing pin ji
-环球童话城之安徒生童话	huan qiu tong hua cheng zhi an tu sheng tong hua
 欢声笑语小天使	huan sheng xiao yu xiao tian shi
 幻想传说	huan xiang chuan shuo
 幻想嘉年华	huan xiang jia nian hua
@@ -2078,8 +1872,6 @@ use_preset_vocabulary: true
 灰色的果实	hui se de guo shi
 灰色的乐园	hui se de le yuan
 回声	hui sheng
-会说话的迷你家族	hui shuo hua de mi ni jia zu
-会说话的汤姆猫动画版	hui shuo hua de tang mu mao dong hua ban
 绘说天	hui shuo tian
 灰体	hui ti
 绘图故事	hui tu gu shi
@@ -2113,7 +1905,6 @@ use_preset_vocabulary: true
 魂狩	hun shou
 魂之力量	hun zhi li liang
 火把节	huo ba jie
-火柴人功夫动画	huo chai ren gong fu dong hua
 活动装置	huo dong zhuang zhi
 火鸡	huo ji
 火鸡哥	huo ji ge
@@ -2124,7 +1915,6 @@ use_preset_vocabulary: true
 火力少年王	huo li shao nian wang
 火魅子传	huo mei zi zhuan
 火鸟	huo niao
-火鸟动画版	huo niao dong hua ban
 火枪手小红帽	huo qiang shou xiao hong mao
 火球	huo qiu
 火球魅力之章	huo qiu mei li zhi zhang
@@ -2150,13 +1940,6 @@ use_preset_vocabulary: true
 火焰山	huo yan shan
 火焰战士	huo yan zhan shi
 火影忍者	huo ying ren zhe
-火影忍者动画视频集	huo ying ren zhe dong hua shi pin ji
-火影忍者疾风传	huo ying ren zhe ji feng zhuan
-火影忍者疾风传梦中人之战	huo ying ren zhe ji feng zhuan meng zhong ren zhi zhan
-火影忍者李洛克的青春全力忍传	huo ying ren zhe li luo ke de qing chun quan li ren zhuan
-火影忍者人气排行榜	huo ying ren zhe ren qi pai hang bang
-火影忍者最全歌曲榜	huo ying ren zhe zui quan ge qu bang
-火泽睽笑人传	huo ze kui xiao ren zhuan
 活着就是天堂	huo zhe jiu shi tian tang
 火之鸟	huo zhi niao
 羁绊	ji ban
@@ -2165,23 +1948,15 @@ use_preset_vocabulary: true
 迹部的礼物	ji bu de li wu
 极道君漫游记	ji dao jun man you ji
 极道鲜师	ji dao xian shi
-极道鲜师动画	ji dao xian shi dong hua
 记得我的爱	ji de wo de ai
 极地大冒险	ji di da mao xian
 急电小信使	ji dian xiao xin shi
 机动警察	ji dong jing cha
-机动警察初期	ji dong jing cha chu qi
-机动警察后期	ji dong jing cha hou qi
-机动警察棋逢对手	ji dong jing cha qi feng dui shou
-机动警察史上最大作战	ji dong jing cha shi shang zui da zuo zhan
 机动天使	ji dong tian shi
 机动武斗传高达	ji dong wu dou zhuan gao da
 机动新世纪高达	ji dong xin shi ji gao da
-机动新选组萌动之剑	ji dong xin xuan zu meng dong zhi jian
 机动新撰组	ji dong xin zhuan zu
-机动新撰组之萌动之剑	ji dong xin zhuan zu zhi meng dong zhi jian
 机动战舰	ji dong zhan jian
-机动战舰剧场版	ji dong zhan jian ju chang ban
 吉豆世运会	ji dou shi yun hui
 激斗战车	ji dou zhan che
 基督山伯爵	ji du shan bo jue
@@ -2190,11 +1965,8 @@ use_preset_vocabulary: true
 吉尔加美什	ji er jia mei shen
 吉尔伽美什	ji er jia mei shi
 疾风竞艇王	ji feng jing ting wang
-疾风无敌银堡垒	ji feng wu di yin bao lei
-疾风无敌银堡垒银光之旗下	ji feng wu di yin bao lei yin guang zhi qi xia
 疾风战士	ji feng zhan shi
 济公传奇	ji gong chuan qi
-济公传奇动画版	ji gong chuan qi dong hua ban
 济公斗蟋蟀	ji gong dou xi shuai
 机关车大爆走	ji guan che da bao zou
 极光战队	ji guang zhan dui
@@ -2207,20 +1979,13 @@ use_preset_vocabulary: true
 机甲界加里安	ji jia jie jia li an
 机甲露宝	ji jia lu bao
 机甲兽神	ji jia shou shen
-机甲兽神爆裂飞车	ji jia shou shen bao lie fei che
-机甲兽神之爆裂飞车	ji jia shou shen zhi bao lie fei che
 机甲武士剑	ji jia wu shi jian
 机甲旋风	ji jia xuan feng
 机甲旋风激战篇	ji jia xuan feng ji zhan pian
-机甲旋风之星际海盗	ji jia xuan feng zhi xing ji hai dao
 机甲战记	ji jia zhan ji
 集锦	ji jin
-几经翻拍的动漫神作	ji jing fan pai de dong man shen zuo
 极乐大作战	ji le da zuo zhan
 极乐天师	ji le tian shi
-极乐园女子高寮物语	ji le yuan nv zi gao liao wu yu
-极乐院女子高寮物语	ji le yuan nv zi gao liao wu yu
-吉林动画学院优秀作品	ji lin dong hua xue yuan you xiu zuo pin
 鹡鸰女神	ji ling nv shen
 记录的地平线	ji lu de di ping xian
 记录妈妈十月怀胎	ji lu ma ma shi yue huai tai
@@ -2275,7 +2040,6 @@ use_preset_vocabulary: true
 机械化的妖精们	ji xie hua de yao jing men
 机械化少女	ji xie hua shao nv
 机械女神	ji xie nv shen
-即兴动画研究所	ji xing dong hua yan jiu suo
 吉野千秋的场合	ji ye qian qiu de chang he
 记忆女神的女儿们	ji yi nv shen de nv er men
 记忆中的永恒女神	ji yi zhong de yong heng nv shen
@@ -2351,26 +2115,17 @@ use_preset_vocabulary: true
 健康全裸游泳社	jian kang quan luo you yong she
 健康游泳社	jian kang you yong she
 健康智多星	jian kang zhi duo xing
-健康智多星上部	jian kang zhi duo xing shang bu
-健康智多星下部	jian kang zhi duo xing xia bu
 剑灵	jian ling
-剑灵动画版	jian ling dong hua ban
-剑灵剧情动画	jian ling ju qing dong hua
 剑灵秘史	jian ling mi shi
-剑灵秘史之南素柔	jian ling mi shi zhi nan su rou
 贱萌三国	jian meng san guo
 建木传奇	jian mu chuan qi
 剑桥少儿英语	jian qiao shao er ying yu
 健全机斗士	jian quan ji dou shi
 箭人神棍	jian ren shen gun
 健身歌	jian shen ge
-剑网之江湖论贱系列剧	jian wang zhi jiang hu lun jian xi lie ju
-剑网之斩春剑	jian wang zhi zhan chun jian
-剑侠情缘之日月明尊	jian xia qing yuan zhi ri yue ming zun
 剑勇传说	jian yong chuan shuo
 键姫物语	jian zhen wu yu
 间之楔	jian zhi xie
-间之楔年版	jian zhi xie nian ban
 间奏曲	jian zou qu
 江湖	jiang hu
 江户盗贼团五叶	jiang hu dao zei tuan wu ye
@@ -2390,7 +2145,6 @@ use_preset_vocabulary: true
 将心化为力量	jiang xin hua wei li liang
 江雪	jiang xue
 江影沉浮	jiang ying chen fu
-姜子牙之尚湖传说	jiang zi ya zhi shang hu chuan shuo
 骄傲的将军	jiao ao de jiang jun
 娇娇的奇遇	jiao jiao de qi yu
 娇娇与晶晶	jiao jiao yu jing jing
@@ -2405,31 +2159,21 @@ use_preset_vocabulary: true
 街边的回忆	jie bian de hui yi
 结城友奈是勇者	jie cheng you nai shi yong zhe
 姐弟物语	jie di wu yu
-借东西的小人阿莉埃蒂	jie dong xi de xiao ren a li ai di
-届高考改革的全年规划	jie gao kao gai ge de quan nian gui hua
-杰和安静的鲍勃	jie he an jing de bao bo
 姐姐来了	jie jie lai le
 结界师	jie jie shi
 结晶塔的帝王	jie jing ta de di wang
 杰克奥特曼	jie ke ao te man
 杰克武士	jie ke wu shi
 杰克与梦幻岛海盗	jie ke yu meng huan dao hai dao
-杰拉姆动画版	jie la mu dong hua ban
 嗟来之食	jie lai zhi shi
 揭露人性的沉重动漫	jie lu ren xing de chen zhong dong man
 姐妹同乐日	jie mei tong le ri
-杰米熊之魔幻马戏团	jie mi xiong zhi mo huan ma xi tuan
-杰米熊之魔瓶大冒险	jie mi xiong zhi mo ping da mao xian
-杰米熊之神奇魔术	jie mi xiong zhi shen qi mo shu
-杰米熊之甜心集结号	jie mi xiong zhi tian xin ji jie hao
 芥末蛋糕	jie mo dan gao
 戒魔人	jie mo ren
 戒魔人大电影	jie mo ren da dian ying
 杰姆和全息图	jie mu he quan xi tu
 梦之玉奇谈	meng zhi yu qi tan
 梦中相遇	meng zhong xiang yu
-梦舟少年志之上古传奇	meng zhou shao nian zhi zhi shang gu chuan qi
-萌主菲比精灵空降魔都	meng zhu fei bi jing ling kong jiang mo du
 孟子说	meng zi shuo
 米菲	mi fei
 蜜蜂与蚯蚓	mi feng yu qiu yin
@@ -2456,14 +2200,10 @@ use_preset_vocabulary: true
 秘密	mi mi
 秘密蓓蕾	mi mi bei lei
 米米的幼儿园	mi mi de you er yuan
-秘密动画版	mi mi dong hua ban
-蜜蜜和丽莎的魔幻旅程	mi mi he li sha de mo huan lv cheng
 咪咪流浪记	mi mi liu lang ji
 蜜蜜水果糖	mi mi shui guo tang
-蜜蜜与莉莎的魔幻旅程	mi mi yu li sha de mo huan lv cheng
 咪咪找妈妈	mi mi zhao ma ma
 迷你浜虎	mi ni bang hu
-迷你翠星之加尔刚蒂亚	mi ni cui xing zhi jia er gang di ya
 迷你的大叔	mi ni de da shu
 迷你偶像	mi ni ou xiang
 米奇欢乐多	mi qi huan le duo
@@ -2476,13 +2216,10 @@ use_preset_vocabulary: true
 迷人的反派角色	mi ren de fan pai jue se
 迷失天堂	mi shi tian tang
 迷失之龙	mi shi zhi long
-迷死人的儿童模特	mi si ren de er tong mo te
 蜜桃女孩	mi tao nv hai
-蜜桃女孩动画	mi tao nv hai dong hua
 迷途	mi tu
 谜之彼女	mi zhi bi nv
 面包超人	mian bao chao ren
-面粉镇的节日	mian fen zhen de jie ri
 面具男	mian ju nan
 面具熊	mian ju xiong
 面具战士	mian ju zhan shi
@@ -2501,9 +2238,6 @@ use_preset_vocabulary: true
 喵星少年漂流记	miao xing shao nian piao liu ji
 妙音动漫系列	miao yin dong man xi lie
 喵植物科普	miao zhi wu ke pu
-民间传说之白蛇传	min jian chuan shuo zhi bai she zhuan
-民间传说之封神榜	min jian chuan shuo zhi feng shen bang
-民间传说之龙女	min jian chuan shuo zhi long nv
 民间鬼术	min jian gui shu
 闽南讲古	min nan jiang gu
 闽南童谣	min nan tong yao
@@ -2542,9 +2276,6 @@ use_preset_vocabulary: true
 魔币精灵	mo bi jing ling
 魔兵传奇	mo bing chuan qi
 魔弹王	mo dan wang
-魔弹战记龙剑道	mo dan zhan ji long jian dao
-魔弹之王与战姬	mo dan zhi wang yu zhan ji
-摩登恐龙总动员	mo deng kong long zong dong yuan
 摩登森林	mo deng sen lin
 摩登原始人	mo deng yuan shi ren
 魔笛	mo di
@@ -2618,11 +2349,8 @@ use_preset_vocabulary: true
 魔卡少女樱	mo ka shao nv ying
 魔力充电娘	mo li chong dian niang
 魔力家族	mo li jia zu
-魔力课堂之踢踢和奇奇	mo li ke tang zhi ti ti he qi qi
 魔力女管家	mo li nv guan jia
-魔力女管家特别篇我回来了	mo li nv guan jia te bie pian wo hui lai le
 莫麟传奇	mo lin chuan qi
-魔龙院光牙最后的战斗	mo long yuan guang ya zui hou de zhan dou
 魔女的考验	mo nv de kao yan
 魔女的使命	mo nv de shi ming
 魔女猎人	mo nv lie ren
@@ -2639,8 +2367,6 @@ use_preset_vocabulary: true
 魔神英雄坛	mo shen ying xiong tan
 魔神英雄传	mo shen ying xiong zhuan
 魔神之骨	mo shen zhi gu
-魔兽世界动画	mo shou shi jie dong hua
-魔兽世界战争之王	mo shou shi jie zhan zheng zhi wang
 魔术快斗	mo shu kuai dou
 魔术士奥芬	mo shu shi ao fen
 魔术士欧菲	mo shu shi ou fei
@@ -2713,7 +2439,6 @@ use_preset_vocabulary: true
 南国少年巴布华	nan guo shao nian ba bu hua
 南郭先生	nan guo xian sheng
 男孩女孩	nan hai nv hai
-男孩女孩动画版	nan hai nv hai dong hua ban
 南海奇皇	nan hai qi huang
 南家三姐妹	nan jia san jie mei
 南京完美同人展	nan jing wan mei tong ren zhan
@@ -2745,17 +2470,13 @@ use_preset_vocabulary: true
 你是主人我是仆人	ni shi zhu ren wo shi pu ren
 泥团的奇幻旅行	ni tuan de qi huan lv xing
 逆袭的夏亚	ni xi de xia ya
-你永远猜不到我穿什么	ni yong yuan cai bu dao wo chuan shen me
 你有病吗	ni you bing ma
-你这小家伙看起来好可口的嘛	ni zhe xiao jia huo kan qi lai hao ke kou de ma
 逆转裁判	ni zhuan cai pan
 逆转监督	ni zhuan jian du
 年度热门动漫人物	nian du re men dong man ren wu
 年二次元	nian er ci yuan
 黏黏糊糊角质君	nian nian hu hu jiao zhi jun
-年首届动漫春节联欢晚会	nian shou jie dong man chun jie lian huan wan hui
 年月新番	nian yue xin fan
-年最火动画大电影	nian zui huo dong hua da dian ying
 娘的夏日祭	niang de xia ri ji
 尿布一族	niao bu yi zu
 鸟笼国公主	niao long guo gong zhu
@@ -2863,9 +2584,6 @@ use_preset_vocabulary: true
 霹雳异数	pi li yi shu
 霹雳至尊	pi li zhi zun
 匹诺曹	pi nuo cao
-皮皮的故事	pi pi de gu shi
-皮皮动画	pi pi dong hua
-皮皮和皮小妹	pi pi he pi xiao mei
 霹霹乐翻天	pi pi le fan tian
 瓢虫贝贝	piao chong bei bei
 瓢虫雷迪	piao chong lei di
@@ -2979,7 +2697,6 @@ use_preset_vocabulary: true
 奇童梦乐总动员	qi tong meng le zong dong yuan
 奇娃学画	qi wa xue hua
 七武士	qi wu shi
-七武士动画	qi wu shi dong hua
 奇先生妙小姐	qi xian sheng miao xiao jie
 奇异的蒙古马	qi yi de meng gu ma
 奇异的破晓	qi yi de po xiao
@@ -3093,9 +2810,6 @@ use_preset_vocabulary: true
 请保持安静	qing bao chi an jing
 请别忧伤了二之宫君	qing bie you shang le er zhi gong jun
 青出于蓝	qing chu yu lan
-青出于蓝动画版	qing chu yu lan dong hua ban
-青出于蓝动画版缘	qing chu yu lan dong hua ban yuan
-青出于蓝缘	qing chu yu lan yuan
 青春	qing chun
 青春草莓蛋	qing chun cao mei dan
 青春的杨老师	qing chun de yang lao shi
@@ -3109,10 +2823,7 @@ use_preset_vocabulary: true
 青空	qing kong
 青空少女队	qing kong shao nv dui
 青空下的约定	qing kong xia de yue ding
-庆六一各界的祝福	qing liu yi ge jie de zhu fu
-庆六一贺信展示动画集锦	qing liu yi he xin zhan shi dong hua ji jin
 清明	qing ming
-青年动画制作者育成计划	qing nian dong hua zhi zuo zhe yu cheng ji hua
 青鸟哈维	qing niao ha wei
 青青企鹅乐园	qing qing qi e le yuan
 情人节来告白吧	qing ren jie lai gao bai ba
@@ -3223,7 +2934,6 @@ use_preset_vocabulary: true
 热血最强哥修	re xue zui qiang ge xiu
 热血最强哥修罗	re xue zui qiang ge xiu luo
 忍风战队破里剑者	ren feng zhan dui po li jian zhe
-人格教育动画	ren ge jiao yu dong hua
 人机续片	ren ji xu pian
 人机续篇	ren ji xu pian
 人间交叉点	ren jian jiao cha dian
@@ -3231,7 +2941,6 @@ use_preset_vocabulary: true
 人狼	ren lang
 人类衰退之后	ren lei shuai tui zhi hou
 人偶总动员	ren ou zong dong yuan
-人气动画	ren qi dong hua
 人气男性角色	ren qi nan xing jue se
 人参果	ren shen guo
 人参娃娃	ren shen wa wa
@@ -3263,12 +2972,6 @@ use_preset_vocabulary: true
 认真和我恋爱	ren zhen he wo lian ai
 认真和我谈恋爱	ren zhen he wo tan lian ai
 日本屌丝	ri ben diao si
-日本动画人博览会	ri ben dong hua ren bo lan hui
-日本国有铁道公安队	ri ben guo you tie dao gong an dui
-日本年末大赏	ri ben nian mo da shang
-日本声优都是怪物	ri ben sheng you dou shi guai wu
-日本锁国	ri ben suo guo
-日常系的异能战斗	ri chang xi de yi neng zhan dou
 日和之恋	ri he zhi lian
 日笠阳子的声优高校	ri li yang zi de sheng you gao xiao
 日式面包王	ri shi mian bao wang
@@ -3294,8 +2997,6 @@ use_preset_vocabulary: true
 三个火枪手	san ge huo qiang shou
 三个邻居	san ge lin ju
 三国演义	san guo yan yi
-三国演义动画	san guo yan yi dong hua
-三国演义动画版	san guo yan yi dong hua ban
 三国志	san guo zhi
 三国传	san guo zhuan
 散华礼弥	san hua li mi
@@ -3384,17 +3085,6 @@ use_preset_vocabulary: true
 闪灵二人组	shan ling er ren zu
 闪乱神乐	shan luan shen le
 山猫和吉咪	shan mao he ji mi
-山猫和吉米	shan mao he ji mi
-山猫和吉咪嘉年华	shan mao he ji mi jia nian hua
-山猫和吉咪之嘉年华	shan mao he ji mi zhi jia nian hua
-山猫和吉咪之魔幻拼图	shan mao he ji mi zhi mo huan pin tu
-山猫和吉咪之拼图密码	shan mao he ji mi zhi pin tu mi ma
-山猫和吉咪之一家亲	shan mao he ji mi zhi yi jia qin
-山猫吉米之嘉年华篇	shan mao ji mi zhi jia nian hua pian
-山猫吉米之快乐篇	shan mao ji mi zhi kuai le pian
-山猫吉米之全家乐篇	shan mao ji mi zhi quan jia le pian
-山猫吉咪之一家亲	shan mao ji mi zhi yi jia qin
-闪闪的红星动画版	shan shan de hong xing dong hua ban
 山水情	shan shui qing
 山田君与人魔女	shan tian jun yu ren mo nv
 扇舞丹青	shan wu dan qing
@@ -3457,7 +3147,6 @@ use_preset_vocabulary: true
 少年岳飞传奇	shao nian yue fei chuan qi
 少年战魂	shao nian zhan hun
 少年正义联盟	shao nian zheng yi lian meng
-少年中国少儿文化作品评选第二届	shao nian zhong guo shao er wen hua zuo pin ping xuan di er jie
 少女	shao nv
 少女爱上姐姐	shao nv ai shang jie jie
 少女爱上了姐姐	shao nv ai shang le jie jie
@@ -3490,9 +3179,6 @@ use_preset_vocabulary: true
 神的记事本	shen de ji shi ben
 神笛	shen di
 神雕侠侣	shen diao xia lv
-神雕侠侣动画版	shen diao xia lv dong hua ban
-神雕侠侣动画版第部古墓奇缘	shen diao xia lv dong hua ban di bu gu mu qi yuan
-神雕侠侣动画版第部十六年之约	shen diao xia lv dong hua ban di bu shi liu nian zhi yue
 神烦狗	shen fan gou
 神风怪盗贞德	shen feng guai dao zhen de
 深海特攻队	shen hai te gong dui
@@ -3501,7 +3187,6 @@ use_preset_vocabulary: true
 神还原动漫手绘	shen huan yuan dong man shou hui
 神魂合体	shen hun he ti
 神鸡包美丽	shen ji bao mei li
-神界漫画三国演义漫画型动画	shen jie man hua san guo yan yi man hua xing dong hua
 神精榜	shen jing bang
 神经豆	shen jing dou
 深蓝少年	shen lan shao nian
@@ -3570,7 +3255,6 @@ use_preset_vocabulary: true
 神勇小子	shen yong xiao zi
 深渊传说	shen yuan chuan shuo
 深圳动漫节	shen zhen dong man jie
-深圳技师学院优秀动画作品	shen zhen ji shi xue yuan you xiu dong hua zuo pin
 神之谜	shen zhi mi
 神之谜题	shen zhi mi ti
 神之声	shen zhi sheng
@@ -3597,11 +3281,9 @@ use_preset_vocabulary: true
 生化体	sheng hua ti
 生化危机	sheng hua wei ji
 生化晰	sheng hua xi
-生化晰动画	sheng hua xi dong hua
 生活好习惯	sheng huo hao xi guan
 生活在这里	sheng huo zai zhe li
 圣剑锻造师	sheng jian duan zao shi
-圣剑使的禁咒咏唱	sheng jian shi de jin zhou yong chang
 圣剑之刀锻冶	sheng jian zhi dao duan ye
 圣洁天使	sheng jie tian shi
 胜利女排	sheng li nv pai
@@ -3748,7 +3430,6 @@ use_preset_vocabulary: true
 收藏阳光	shou cang yang guang
 兽的演奏者艾琳	shou de yan zou zhe ai lin
 兽电战队强龙者	shou dian zhan dui qiang long zhe
-兽电战队强龙者特别篇	shou dian zhan dui qiang long zhe te bie pian
 手工街	shou gong jie
 守护蛋精灵	shou hu dan jing ling
 守护精灵	shou hu jing ling
@@ -3760,14 +3441,12 @@ use_preset_vocabulary: true
 守护月天	shou hu yue tian
 守护之心	shou hu zhi xin
 手机少女	shou ji shao nv
-首届动漫原创大赛作品展示	shou jie dong man yuan chuang da sai zuo pin zhan shi
 手里剑战队忍忍者	shou li jian zhan dui ren ren zhe
 狩猎季节	shou lie ji jie
 首鸣	shou ming
 兽拳战队激气连者	shou quan zhan dui ji qi lian zhe
 兽神演武	shou shen yan wu
 寿司忍者	shou si ren zhe
-守望先锋动画	shou wang xian feng dong hua
 兽王星	shou wang xing
 守卫蚂蚁村	shou wei ma yi cun
 手下留情	shou xia liu qing
@@ -3775,9 +3454,6 @@ use_preset_vocabulary: true
 兽旋战斗	shou xuan zhan dou
 兽战士	shou zhan shi
 兽之奏者	shou zhi zou zhe
-手塚治虫的佛陀	shou zhong zhi chong de fo tuo
-手塚治虫动画集	shou zhong zhi chong dong hua ji
-手冢治虫物语我的孙悟空	shou zhong zhi chong wu yu wo de sun wu kong
 守株待兔	shou zhu dai tu
 兽装机攻断空我	shou zhuang ji gong duan kong wo
 蔬菜宝宝	shu cai bao bao
@@ -3833,7 +3509,6 @@ use_preset_vocabulary: true
 双下山	shuang xia shan
 双星之阴阳师	shuang xing zhi yin yang shi
 双熊流浪记	shuang xiong liu lang ji
-双语儿歌经典动画	shuang yu er ge jing dian dong hua
 双月之城	shuang yue zhi cheng
 双月之城加长版	shuang yue zhi cheng jia chang ban
 双子星公主	shuang zi xing gong zhu
@@ -3845,27 +3520,12 @@ use_preset_vocabulary: true
 水果篮子	shui guo lan zi
 水浒英雄列传	shui hu ying xiong lie zhuan
 水浒传	shui hu zhuan
-水浒传动画版	shui hu zhuan dong hua ban
 水火	shui huo
 水晶国传说	shui jing guo chuan shuo
-水晶国传说初次旅行的冒险者们	shui jing guo chuan shuo chu ci lv xing de mao xian zhe men
-水晶国传说剧场版	shui jing guo chuan shuo ju chang ban
-水晶石教育学员优秀作品	shui jing shi jiao yu xue yuan you xiu zuo pin
 水晶之焰	shui jing zhi yan
 水鹿	shui lu
 水漫金山	shui man jin shan
 睡美人	shui mei ren
-睡美人北京电影学院齐冀	shui mei ren bei jing dian ying xue yuan qi ji
-水木安徒生童话	shui mu an tu sheng tong hua
-水木安徒生童话故事	shui mu an tu sheng tong hua gu shi
-水木宝宝看世界	shui mu bao bao kan shi jie
-水木剧场夜故事	shui mu ju chang ye gu shi
-水木娃十万个为什么	shui mu wa shi wan ge wei shen me
-水木娃娃十万个为什么	shui mu wa wa shi wan ge wei shen me
-水木娃娃探索宇宙之谜	shui mu wa wa tan suo yu zhou zhi mi
-水木娃娃童画乐园	shui mu wa wa tong hua le yuan
-水木娃娃童话乐园	shui mu wa wa tong hua le yuan
-水木学堂	shui mu xue tang
 水脑袋	shui nao dai
 谁怕谁	shui pa shui
 水瓶新世纪	shui ping xin shi ji
@@ -3894,11 +3554,6 @@ use_preset_vocabulary: true
 死神	si shen
 死神的歌谣	si shen de ge yao
 四圣兽	si sheng shou
-四圣兽光阴叙事诗天使谭	si sheng shou guang yin xu shi shi tian shi tan
-四圣兽几千个昼与夜篇	si sheng shou ji qian ge zhou yu ye pian
-四圣兽圣兽降临编	si sheng shou sheng shou jiang lin bian
-四圣兽圣兽降临篇	si sheng shou sheng shou jiang lin pian
-斯特拉女子学院高等科部	si te la nv zi xue yuan gao deng ke bu
 死体兵	si ti bing
 死亡代理人	si wang dai li ren
 死亡黑标	si wang hei biao
@@ -3907,21 +3562,14 @@ use_preset_vocabulary: true
 四叶游戏	si ye you xi
 死与新生	si yu xin sheng
 四月是你的谎言	si yue shi ni de huang yan
-四月一日灵异事件薄笼徒梦	si yue yi ri ling yi shi jian bo long tu meng
-四月一日灵异事件簿	si yue yi ri ling yi shi jian bu
 四只小野鸭	si zhi xiao ye ya
-宋词动画	song ci dong hua
 宋代足球小将	song dai zu qiu xiao jiang
 淞沪风云	song hu feng yun
-松鼠嗑壳课	song shu ke ke ke
-松鼠磕壳课	song shu ke ke ke
-松鼠理发师	song shu li fa shi
 松鼠小贱	song shu xiao jian
 松鼠与妖树	song shu yu yao shu
 送元二使安西	song yuan er shi an xi
 搜救犬阿虎	sou jiu quan a hu
 搜神记	sou shen ji
-搜神记动画版	sou shen ji dong hua ban
 宿建德江	su jian de jiang
 素描薄	su miao bo
 素描簿	su miao bu
@@ -3985,17 +3633,12 @@ use_preset_vocabulary: true
 泰坦天降	tai tan tian jiang
 太阳城的故事	tai yang cheng de gu shi
 太阳默示录	tai yang mo shi lu
-太阳王子霍尔斯的大冒险	tai yang wang zi huo er si de da mao xian
 太阳勇者	tai yang yong zhe
 太阳战队	tai yang zhan dui
 太阳之船	tai yang zhi chuan
 太阳之法	tai yang zhi fa
 太阳之子	tai yang zhi zi
 太乙仙魔录	tai yi xian mo lu
-太乙仙魔录之灵飞纪	tai yi xian mo lu zhi ling fei ji
-太乙仙魔录之灵飞纪番外篇	tai yi xian mo lu zhi ling fei ji fan wai pian
-太乙仙魔录之星闻江湖事	tai yi xian mo lu zhi xing wen jiang hu shi
-坦克世界动画版	tan ke shi jie dong hua ban
 探索吧部活	tan suo ba bu huo
 坦坦小动员	tan tan xiao dong yuan
 坦坦携员	tan tan xie yuan
@@ -4010,36 +3653,25 @@ use_preset_vocabulary: true
 糖果屋历险记	tang guo wu li xian ji
 螳螂捕蝉	tang lang bu chan
 唐老鸭从军记	tang lao ya cong jun ji
-唐老鸭从军记剧场版	tang lao ya cong jun ji ju chang ban
-唐老鸭惊魂记	tang lao ya jing hun ji
-唐老鸭惊魂记剧场版	tang lao ya jing hun ji ju chang ban
-唐老鸭俱乐部	tang lao ya ju le bu
-唐老鸭庆生记	tang lao ya qing sheng ji
-唐老鸭新传	tang lao ya xin zhuan
 汤姆索亚历险记	tang mu suo ya li xian ji
 唐僧硬邦邦	tang seng ying bang bang
-唐诗动画	tang shi dong hua
 唐诗儿歌	tang shi er ge
 唐诗故事	tang shi gu shi
 唐诗古韵	tang shi gu yun
 唐诗类	tang shi lei
 唐诗三百首	tang shi san bai shou
-唐诗三百首动画版	tang shi san bai shou dong hua ban
 糖水三国	tang shui san guo
 糖知道	tang zhi dao
-淘动画片	tao dong hua pian
 桃花源记	tao hua yuan ji
 桃华月惮	tao hua yue dan
 桃剑	tao jian
 逃离地球	tao li di qiu
-淘米动画	tao mi dong hua
 淘米小花仙	tao mi xiao hua xian
 淘气包马小跳	tao qi bao ma xiao tiao
 淘气的金丝猴	tao qi de jin si hou
 淘气机灵狗	tao qi ji ling gou
 淘气毛毛王	tao qi mao mao wang
 淘气星猫	tao qi xing mao
-淘气续兵版	tao qi xu bing ban
 套套世家	tao tao shi jia
 淘淘钟	tao tao zhong
 逃亡兔	tao wang tu
@@ -4282,13 +3914,10 @@ use_preset_vocabulary: true
 拓麻歌子	tuo ma ge zi
 托马斯成长记	tuo ma si cheng zhang ji
 托马斯和朋友们	tuo ma si he peng you men
-脱兔动漫作品	tuo tu dong man zuo pin
 拖延症的幻想	tuo yan zheng de huan xiang
 袜子家族	wa zi jia zu
 外卖侠	wai mai xia
 外婆家的向日葵	wai po jia de xiang ri kui
-歪歪兔和她的朋友们	wai wai tu he ta de peng you men
-歪歪兔行为习惯系列动画片	wai wai tu xing wei xi guan xi lie dong hua pian
 外星传奇	wai xing chuan qi
 外星大草原	wai xing da cao yuan
 外星动物园	wai xing dong wu yuan
@@ -4325,8 +3954,6 @@ use_preset_vocabulary: true
 顽皮的科学	wan pi de ke xue
 顽皮的小星猫	wan pi de xiao xing mao
 顽皮福多	wan pi fu duo
-万圣节动画大乱炖	wan sheng jie dong hua da luan dun
-万圣节儿歌	wan sheng jie er ge
 万万没想到	wan wan mei xiang dao
 万有引力	wan you yin li
 万语千言	wan yu qian yan
@@ -4539,9 +4166,7 @@ use_preset_vocabulary: true
 西母霸龙家族	xi mu ba long jia zu
 洗脑循环动漫神曲	xi nao xun huan dong man shen qu
 嘻皮拉君	xi pi la jun
-戏曲动画集锦	xi qu dong hua ji jin
 希瑞	xi rui
-希瑞希曼圣诞特别篇	xi rui xi man sheng dan te bie pian
 希望家园	xi wang jia yuan
 希望你在此	xi wang ni zai ci
 希望宅坻	xi wang zhai di
@@ -4551,7 +4176,6 @@ use_preset_vocabulary: true
 茜茜公主	xi xi gong zhu
 系小空气	xi xiao kong qi
 嘻笑一家亲	xi xiao yi jia qin
-西行总动员之楼兰传奇	xi xing zong dong yuan zhi lou lan chuan qi
 吸血鬼福尔摩斯	xi xue gui fu er mo si
 吸血鬼猎人	xi xue gui lie ren
 吸血鬼仆人	xi xue gui pu ren
@@ -4572,7 +4196,6 @@ use_preset_vocabulary: true
 西游	xi you
 西游记	xi you ji
 西游记的故事	xi you ji de gu shi
-西游记动画版	xi you ji dong hua ban
 下课后	xia ke hou
 侠岚	xia lan
 夏恋战机	xia lian zhan ji
@@ -4880,7 +4503,6 @@ use_preset_vocabulary: true
 小紫神	xiao zi shen
 小棕熊探险记	xiao zong xiong tan xian ji
 小嘴蝇蝇	xiao zui ying ying
-邪恶力量动画版	xie e li liang dong hua ban
 写给父亲	xie gei fu qin
 写给桃子的信	xie gei tao zi de xin
 胁工作记	xie gong zuo ji
@@ -4906,15 +4528,10 @@ use_preset_vocabulary: true
 信长协奏曲	xin chang xie zou qu
 信长之枪	xin chang zhi qiang
 信蜂	xin feng
-新海诚短篇动画	xin hai cheng duan pian dong hua
-心湖城的故事之乐高好朋友系列	xin hu cheng de gu shi zhi le gao hao peng you xi lie
 新机动战记高达	xin ji dong zhan ji gao da
-新机动战记高达无尽的华尔兹	xin ji dong zhan ji gao da wu jin de hua er zi
 心经	xin jing
-新科动漫次元爱次方	xin ke dong man ci yuan ai ci fang
 新科学猩侠	xin ke xue xing xia
 心理测量者	xin li ce liang zhe
-心理测量者新编集版	xin li ce liang zhe xin bian ji ban
 新恋爱白书	xin lian ai bai shu
 心连情结	xin lian qing jie
 心灵感应少女兰	xin ling gan ying shao nv lan
@@ -4924,7 +4541,6 @@ use_preset_vocabulary: true
 心灵之窗	xin ling zhi chuang
 新鲁宾逊漂流记	xin lu bin xun piao liu ji
 心轮	xin lun
-新妈妈好帮手婴幼儿早教篇	xin ma ma hao bang shou ying you er zao jiao pian
 新猫和老鼠	xin mao he lao shu
 新媒体与动漫产业发展论坛	xin mei ti yu dong man chan ye fa zhan lun tan
 新没头脑和不高兴	xin mei tou nao he bu gao xing
@@ -4935,15 +4551,11 @@ use_preset_vocabulary: true
 信任危机	xin ren wei ji
 信任晰	xin ren xi
 新世纪福音战士	xin shi ji fu yin zhan shi
-新世纪福音战士剧场版	xin shi ji fu yin zhan shi ju chang ban
 新天地无用	xin tian di wu yong
 新天宇布袋戏之龙啸九烽	xin tian yu bu dai xi zhi long xiao jiu feng
 心跳光之美少女	xin tiao guang zhi mei shao nv
 心跳回忆	xin tiao hui yi
 心之彼端	xin zhi bi duan
-星宝宝儿童故事	xing bao bao er tong gu shi
-星达丘快乐学园	xing da qiu kuai le xue yuan
-星达兴动画系列之秘密基地	xing da xing dong hua xi lie zhi mi mi ji di
 行带	xing dai
 星方天使	xing fang tian shi
 星方武侠	xing fang wu xia
@@ -5375,43 +4987,23 @@ use_preset_vocabulary: true
 樱兰高校男公关部	ying lan gao xiao nan gong guan bu
 樱兰高中男公关部	ying lan gao zhong nan gong guan bu
 樱桃小丸子	ying tao xiao wan zi
-樱桃小丸子第期	ying tao xiao wan zi di qi
-樱桃小丸子动画	ying tao xiao wan zi dong hua
-樱桃小丸子周年	ying tao xiao wan zi zhou nian
-樱桃小丸子周年小时	ying tao xiao wan zi zhou nian xiao shi
 莹通信	ying tong xin
 鹦鹉女神	ying wu nv shen
-影响孩子一生的情商故事	ying xiang hai zi yi sheng de qing shang gu shi
 英雄	ying xiong
 英雄奥特曼	ying xiong ao te man
 英雄别闹	ying xiong bie nao
-英雄传说空之轨迹	ying xiong chuan shuo kong zhi gui ji
 英雄工厂	ying xiong gong chang
 英雄工厂中文配音	ying xiong gong chang zhong wen pei yin
 英雄故事会	ying xiong gu shi hui
 英雄集结	ying xiong ji jie
-英雄联盟爆笑视频	ying xiong lian meng bao xiao shi pin
-英雄联盟大电影	ying xiong lian meng da dian ying
-英雄联盟的一千种死法	ying xiong lian meng de yi qian zhong si fa
-英雄联盟的种死法	ying xiong lian meng de zhong si fa
-英雄联盟动画版	ying xiong lian meng dong hua ban
-英雄联盟计	ying xiong lian meng ji
-英雄联盟三十六计	ying xiong lian meng san shi liu ji
-英雄联盟宣传集锦	ying xiong lian meng xuan chuan ji jin
-英雄联盟之三十六计	ying xiong lian meng zhi san shi liu ji
 英雄年代	ying xiong nian dai
 英雄骑士传	ying xiong qi shi zhuan
 英雄时代	ying xiong shi dai
 英雄世纪	ying xiong shi ji
 莹庄的宠物女孩	ying zhuang de chong wu nv hai
-樱子小姐的脚下埋着尸体	ying zi xiao jie de jiao xia mai zhe shi ti
-樱子小姐脚下埋着尸体	ying zi xiao jie jiao xia mai zhe shi ti
-永不消失的彩虹	yong bu xiao shi de cai hong
 永不消逝的彩虹	yong bu xiao shi de cai hong
 永不终结的地球	yong bu zhong jie de di qiu
 勇闯未来之城	yong chuang wei lai zhi cheng
-永春白鹤拳之五色羽传奇	yong chun bai he quan zhi wu se yu chuan qi
-用动漫跟孩子聊十个问题	yong dong man gen hai zi liao shi ge wen ti
 勇敢者日记迪小龙	yong gan zhe ri ji di xiao long
 勇敢做自己	yong gan zuo zi ji
 用好莱坞的方式打开动漫	yong hao lai wu de fang shi da kai dong man
@@ -5454,24 +5046,16 @@ use_preset_vocabulary: true
 尤达编年史	you da bian nian shi
 邮递员派特叔叔	you di yuan pai te shu shu
 有顶天家族	you ding tian jia zu
-幼儿安全教育动画	you er an quan jiao yu dong hua
-幼儿成长故事大全	you er cheng zhang gu shi da quan
 尤尔达	you er da
 幽甫贝	you fu bei
 幽幻怪社	you huan guai she
 游魂	you hun
 游击神兵	you ji shen bing
-游击神兵网络版	you ji shen bing wang luo ban
 悠久之翼	you jiu zhi yi
-幽默动画说文解字	you mo dong hua shuo wen jie zi
-幽默太师动画杂志	you mo tai shi dong hua za zhi
 有那么一首歌	you na me yi shou ge
 有你的小镇	you ni de xiao zhen
 友情就是魔法	you qing jiu shi mo fa
 有求必应	you qiu bi ying
-有趣的动画	you qu de dong hua
-尤热舞也要宅	you re wu ye yao zhai
-忧伤的二之宫君	you shang de er zhi gong jun
 有神么	you shen me
 有恃无恐	you shi wu kong
 犹太长老的灵猫	you tai zhang lao de ling mao
@@ -5479,7 +5063,6 @@ use_preset_vocabulary: true
 游戏表演	you xi biao yan
 游戏大爆炸	you xi da bao zha
 悠嘻猴	you xi hou
-悠嘻猴动画片	you xi hou dong hua pian
 游戏人生	you xi ren sheng
 游戏王	you xi wang
 游戏王剧场版	you xi wang ju chang ban
@@ -5492,7 +5075,6 @@ use_preset_vocabulary: true
 游子吟	you zi yin
 鹬蚌相争	yu bang xiang zheng
 鱼肚白	yu du bai
-育儿动画系列	yu er dong hua xi lie
 渔歌子	yu ge zi
 愚公移山	yu gong yi shan
 雨孩	yu hai
@@ -5610,19 +5192,14 @@ use_preset_vocabulary: true
 云端的兔子	yun duan de tu zi
 云朵宝贝	yun duo bao bei
 云黑斋的野心	yun hei zhai de ye xin
-云龙传奇之九龙战记	yun long chuan qi zhi jiu long zhan ji
 云南女人	yun nan nv ren
 云奇飞行日记	yun qi fei xing ri ji
 孕期瑜伽	yun qi yu jia
 云之彼端约定的地方	yun zhi bi duan yue ding de di fang
 杂诗	za shi
 在苍色世界的中心	zai cang se shi jie de zhong xin
-在地下城寻求邂逅是否搞错了什么	zai di xia cheng xun qiu xie hou shi fou gao cuo le shen me
-再见	zai jian
 再见的礼物	zai jian de li wu
 再见绝望先生	zai jian jue wang xian sheng
-再见绝望先生番外地	zai jian jue wang xian sheng fan wai di
-再见绝望先生狱	zai jian jue wang xian sheng yu
 再见我的爱人	zai jian wo de ai ren
 再见萤火虫	zai jian ying huo chong
 再见雨天	zai jian yu tian
@@ -5630,39 +5207,23 @@ use_preset_vocabulary: true
 在盛夏等待	zai sheng xia deng dai
 再生之日	zai sheng zhi ri
 在生之手	zai sheng zhi shou
-宰相刘罗锅	zai xiang liu luo guo
 再造人卡夏	zai zao ren ka xia
 再造人卡辛	zai zao ren ka xin
-咱们裸熊	zan men luo xiong
 暂停键	zan ting jian
 藏獒多吉	zang ao duo ji
-早安恋味蛋糕店	zao an lian wei dan gao dian
 凿壁偷光	zao bi tou guang
 早发白帝城	zao fa bai di cheng
 泽伽佩因	ze jia pei yin
 择天记	ze tian ji
-择天记版小剧场	ze tian ji ban xiao ju chang
-择天记精华版	ze tian ji jing hua ban
-择天记之初入尘世	ze tian ji zhi chu ru chen shi
 赠汪伦	zeng wang lun
 增血鬼果林	zeng xue gui guo lin
 诈欺游戏	zha qi you xi
-宅男也觉得帅气的萌男	zhai nan ye jue de shuai qi de meng nan
-宅男最爱十大女生装扮	zhai nan zui ai shi da nv sheng zhuang ban
-宅天下第一舞道会	zhai tian xia di yi wu dao hui
-宅天下第一舞道会选手视频	zhai tian xia di yi wu dao hui xuan shou shi pin
-宅物瞎测评	zhai wu xia ce ping
 战场的女武神	zhan chang de nv wu shen
 战场女武神	zhan chang nv wu shen
 斩赤红之瞳	zhan chi hong zhi tong
 战刀骑士	zhan dao qi shi
-战斗吧灵兽	zhan dou ba ling shou
-战斗机甲萨芬格尔	zhan dou ji jia sa fen ge er
-战斗司书	zhan dou si shu
 战斗陀螺	zhan dou tuo luo
 战斗王	zhan dou wang
-战斗妖精少女	zhan dou yao jing shao nv
-战斗妖精雪风	zhan dou yao jing xue feng
 战斗之魂	zhan dou zhi hun
 斩服少女	zhan fu shao nv
 斩鬼者觉悟	zhan gui zhe jue wu
@@ -5699,9 +5260,6 @@ use_preset_vocabulary: true
 仗剑	zhang jian
 蟑螂娘	zhang lang niang
 长了腿的芒果	zhang le tui de mang guo
-张小盒动画	zhang xiao he dong hua
-张小盒动画系列	zhang xiao he dong hua xi lie
-张小盒实验动画	zhang xiao he shi yan dong hua
 章鱼的爱情	zhang yu de ai qing
 章鱼哥	zhang yu ge
 章鱼奇遇记	zhang yu qi yu ji
@@ -5725,11 +5283,8 @@ use_preset_vocabulary: true
 真假李逵	zhen jia li kui
 真恋姬无双	zhen lian ji wu shuang
 真魔神	zhen mo shen
-真魔神突击篇	zhen mo shen tu ji pian
 枕男子	zhen nan zi
 真三一万能侠	zhen san yi wan neng xia
-真三一万能侠地球	zhen san yi wan neng xia di qiu
-真三一万能侠地球最后之日	zhen san yi wan neng xia di qiu zui hou zhi ri
 真实梦境	zhen shi meng jing
 真实之泪	zhen shi zhi lei
 侦探歌剧	zhen tan ge ju
@@ -5738,9 +5293,7 @@ use_preset_vocabulary: true
 侦探们的镇魂歌	zhen tan men de zhen hun ge
 侦探杏事件簿	zhen tan xing shi jian bu
 侦探学院	zhen tan xue yuan
-侦探学园动画	zhen tan xue yuan dong hua
 真田十勇士	zhen tian shi yong shi
-真无敌铁金刚冲击篇	zhen wu di tie jin gang chong ji pian
 珍想闯世界	zhen xiang chuang shi jie
 真夜中的侦探	zhen ye zhong de zhen tan
 真月潭月姬	zhen yue tan yue ji
@@ -5749,19 +5302,15 @@ use_preset_vocabulary: true
 争宠	zheng chong
 拯救大明星	zheng jiu da ming xing
 拯救德尔托拉	zheng jiu de er tuo la
-拯救地球麦圈可可在行动	zheng jiu di qiu mai quan ke ke zai xing dong
 拯救王子	zheng jiu wang zi
 拯救侏罗纪	zheng jiu zhu luo ji
 蒸汽男孩	zheng qi nan hai
 郑人买履	zheng ren mai lv
 正义红师	zheng yi hong shi
 正义联盟	zheng yi lian meng
-正义联盟剧场版	zheng yi lian meng ju chang ban
 正义小兔警	zheng yi xiao tu jing
 争执	zheng zhi
-郑州赛区宅天下第一舞道会	zheng zhou sai qu zhai tian xia di yi wu dao hui
 争逐	zheng zhu
-直白标题机器人动画	zhi bai biao ti ji qi ren dong hua
 至宠物屋	zhi chong wu wu
 致单身的你	zhi dan shen de ni
 直笛与双背带书包	zhi di yu shuang bei dai shu bao
@@ -5772,9 +5321,7 @@ use_preset_vocabulary: true
 智慧岛	zhi hui dao
 智慧尖儿	zhi hui jian er
 智慧子弹车	zhi hui zi dan che
-之积木世界的童话故事	zhi ji mu shi jie de tong hua gu shi
 指尖的流沙	zhi jian de liu sha
-至今最感人的动画	zhi jin zui gan ren de dong hua
 之卡罗的心灵世界	zhi ka luo de xin ling shi jie
 智力数学大篷车	zhi li shu xue da peng che
 指令宝贝	zhi ling bao bei
@@ -5819,28 +5366,12 @@ use_preset_vocabulary: true
 中餐速成	zhong can su cheng
 钟辰乐音乐之旅	zhong chen le yin yue zhi lv
 钟虫宝宝	zhong chong bao bao
-中二病也要谈恋爱	zhong er bing ye yao tan lian ai
-中二少年的吐槽大会	zhong er shao nian de tu cao da hui
 忠狗	zhong gou
-中国唱诗班之元日	zhong guo chang shi ban zhi yuan ri
 中国超级盛典	zhong guo chao ji sheng dian
 中国成语故事	zhong guo cheng yu gu shi
 中国大赏	zhong guo da shang
-中国动画最不缺什么	zhong guo dong hua zui bu que shen me
-中国动漫春节联欢晚会	zhong guo dong man chun jie lian huan wan hui
-中国古代大家故事	zhong guo gu dai da jia gu shi
-中国古代神话故事	zhong guo gu dai shen hua gu shi
-中国古代寓言	zhong guo gu dai yu yan
-中国古代寓言故事	zhong guo gu dai yu yan gu shi
-中国国际动漫节	zhong guo guo ji dong man jie
-中国好绘本动画	zhong guo hao hui ben dong hua
-中国好声音动画版	zhong guo hao sheng yin dong hua ban
 中国近现代文学	zhong guo jin xian dai wen xue
 中国经典名著	zhong guo jing dian ming zhu
-中国经典名著动画	zhong guo jing dian ming zhu dong hua
-中国经典童话故事	zhong guo jing dian tong hua gu shi
-中国惊奇先生	zhong guo jing qi xian sheng
-中国民俗动画	zhong guo min su dong hua
 中国民俗故事	zhong guo min su gu shi
 中国名人故事	zhong guo ming ren gu shi
 中国男孩洪战辉	zhong guo nan hai hong zhan hui
@@ -5848,21 +5379,13 @@ use_preset_vocabulary: true
 中国新童星	zhong guo xin tong xing
 中国姓氏文化	zhong guo xing shi wen hua
 中国熊猫	zhong guo xiong mao
-中国悠悠联盟冠军挑战赛	zhong guo you you lian meng guan jun tiao zhan sai
 中国诸子百家	zhong guo zhu zi bai jia
 中华传统美德故事	zhong hua chuan tong mei de gu shi
 中华传统文化故事	zhong hua chuan tong wen hua gu shi
 中华大讲坛	zhong hua da jiang tan
 中华德育故事	zhong hua de yu gu shi
-中华德育故事第八部	zhong hua de yu gu shi di ba bu
-中华德育故事第九部	zhong hua de yu gu shi di jiu bu
-中华德育故事第六部	zhong hua de yu gu shi di liu bu
-中华德育故事第七部	zhong hua de yu gu shi di qi bu
-中华德育故事第五部	zhong hua de yu gu shi di wu bu
 中华弟子规	zhong hua di zi gui
-中华弟子规之孝孝龙奇幻记	zhong hua di zi gui zhi xiao xiao long qi huan ji
 中华古诗	zhong hua gu shi
-中华经典儿歌大全	zhong hua jing dian er ge da quan
 中华美德	zhong hua mei de
 中华勤学故事	zhong hua qin xue gu shi
 中华上下五千年	zhong hua shang xia wu qian nian
@@ -5873,10 +5396,8 @@ use_preset_vocabulary: true
 中华鲟历险记	zhong hua xun li xian ji
 中华一番	zhong hua yi fan
 终极大冒险	zhong ji da mao xian
-终极大冒险宣传视频	zhong ji da mao xian xuan chuan shi pin
 终极蜘蛛侠	zhong ji zhi zhu xia
 终结的炽天使	zhong jie de chi tian shi
-终结的炽天使特典	zhong jie de chi tian shi te dian
 重金摇滚双面人	zhong jin yao gun shuang mian ren
 中秋节儿歌	zhong qiu jie er ge
 众神的恶作剧	zhong shen de e zuo ju
@@ -5968,32 +5489,13 @@ use_preset_vocabulary: true
 最强魔幻陀螺	zui qiang mo huan tuo luo
 最强男神夜斗	zui qiang nan shen ye dou
 最强银河究级	zui qiang yin he jiu ji
-最强银河究极战斗之魂	zui qiang yin he jiu ji zhan dou zhi hun
 最强战击队	zui qiang zhan ji dui
 最强战士迷你特工队	zui qiang zhan shi mi ni te gong dui
-最强战士迷你特工队之英雄的诞生	zui qiang zhan shi mi ni te gong dui zhi ying xiong de dan sheng
 最强战士之迷你特工队	zui qiang zhan shi zhi mi ni te gong dui
 最强中学	zui qiang zhong xue
-最热门动画歌曲	zui re men dong hua ge qu
 最热血动漫大盘点	zui re xue dong man da pan dian
-最弱无败神装机龙巴哈姆特	zui ruo wu bai shen zhuang ji long ba ha mu te
-最希望真人化的十大动漫	zui xi wang zhen ren hua de shi da dong man
-最想表白的男神	zui xiang biao bai de nan shen
-最想加入的二次元团体	zui xiang jia ru de er ci yuan tuan ti
-最想加入的十大教派	zui xiang jia ru de shi da jiao pai
-最新弟子规	zui xin di zi gui
-最性感魔鬼身材	zui xing gan mo gui shen cai
-最游记	zui you ji
-最游记给落选者的镇魂歌	zui you ji gei luo xuan zhe de zhen hun ge
-最游记外传	zui you ji wai zhuan
-最游记外传第二卷散华之章	zui you ji wai zhuan di er juan san hua zhi zhang
-最游记外传第三卷萌芽之章	zui you ji wai zhuan di san juan meng ya zhi zhang
-最游记外传第一卷樱云之章	zui you ji wai zhuan di yi juan ying yun zhi zhang
-最游记外传迷蝶之章	zui you ji wai zhuan mi die zhi zhang
-最诱人十大社团	zui you ren shi da she tuan
 最有想象力的故事	zui you xiang xiang li de gu shi
 罪与罚与赎的少女	zui yu fa yu shu de shao nv
-最治愈动漫歌曲集锦	zui zhi yu dong man ge qu ji jin
 最终兵器彼女	zui zhong bing qi bi nv
 最终兵器魔神少女	zui zhong bing qi mo shen shao nv
 最终幻想	zui zhong huan xiang
@@ -6005,10 +5507,8 @@ use_preset_vocabulary: true
 最终进化	zui zhong jin hua
 最终决战	zui zhong jue zhan
 最终流放	zui zhong liu fang
-最终流放银翼之法姆	zui zhong liu fang yin yi zhi fa mu
 最终试验鲸鱼	zui zhong shi yan jing yu
 佐罗	zuo luo
-佐罗传奇动画版	zuo luo chuan qi dong hua ban
 佐罗的传说	zuo luo de chuan shuo
 左目侦探	zuo mu zhen tan
 做片子	zuo pian zi
@@ -9271,9 +8771,6 @@ use_preset_vocabulary: true
 和谐人家之幸福不拒绝眼泪	he xie ren jia zhi xing fu bu ju jue yan lei
 和驯鹿一起奔跑	he xun lu yi qi ben pao
 何以笙箫默	he yi sheng xiao mo
-何以笙箫默番外篇	he yi sheng xiao mo fan wai pian
-何以笙箫默精编版	he yi sheng xiao mo jing bian ban
-何以笙箫默精华版	he yi sheng xiao mo jing hua ban
 河域魔爱	he yu mo ai
 合租男女	he zu nan nv
 合租女人	he zu nv ren
@@ -10874,33 +10371,17 @@ use_preset_vocabulary: true
 老板这点事	lao ban zhe dian shi
 老板之死	lao ban zhi si
 老兵	lao bing
-老兵电影版	lao bing dian ying ban
-老兵精华版	lao bing jing hua ban
-老处女日记	lao chu nv ri ji
 老大	lao da
 老大的幸福	lao da de xing fu
 老大的幸福生活	lao da de xing fu sheng huo
 老大是咱妈	lao da shi zan ma
-老旦是一棵树	lao dan shi yi ke shu
-老爹的非城勿扰	lao die de fei cheng wu rao
-老洞	lao dong
-老洞怪潭	lao dong guai tan
 老房有喜	lao fang you xi
-老公不出墙	lao gong bu chu qiang
-老公的春天	lao gong de chun tian
 老公万岁	lao gong wan sui
 老虎远征队	lao hu yuan zheng dui
-老家门口唱大戏	lao jia men kou chang da xi
 老九门	lao jiu men
-老妈的三国时代	lao ma de san guo shi dai
-老马家的幸福往事	lao ma jia de xing fu wang shi
 老妈与奶爸	lao ma yu nai ba
-老美你怎么看	lao mei ni zen me kan
-老美一分钟	lao mei yi fen zhong
-老米家的婚事	lao mi jia de hun shi
 老娘舅	lao niang jiu
 老娘泪	lao niang lei
-老牛家的战争	lao niu jia de zhan zheng
 老农民	lao nong min
 老炮儿	lao pao er
 老婆我爱你	lao po wo ai ni
@@ -10908,7 +10389,6 @@ use_preset_vocabulary: true
 老千	lao qian
 老人的故事	lao ren de gu shi
 老三届	lao san jie
-老少爷们打鬼子	lao shao ye men da gui zi
 老师错了	lao shi cuo le
 老师晚上好	lao shi wan shang hao
 老师真伟大	lao shi zhen wei da
@@ -10919,9 +10399,6 @@ use_preset_vocabulary: true
 老严有女不愁嫁	lao yan you nv bu chou jia
 姥爷的抗战	lao ye de kang zhan
 老友狗狗	lao you gou gou
-老友记第八季	lao you ji di ba ji
-老友记第九季	lao you ji di jiu ji
-老友记第十季	lao you ji di shi ji
 老有所依	lao you suo yi
 乐朝天下要闻	le chao tian xia yao wen
 乐动青春	le dong qing chun
@@ -11205,7 +10682,6 @@ use_preset_vocabulary: true
 零号特工	ling hao te gong
 零花	ling hua
 灵魂摆渡	ling hun bai du
-灵魂摆渡精华版	ling hun bai du jing hua ban
 灵魂伴侣	ling hun ban lv
 灵魂工程	ling hun gong cheng
 灵魂交换	ling hun jiao huan
@@ -11427,10 +10903,8 @@ use_preset_vocabulary: true
 孖宝太子	ma bao tai zi
 抹布女孩	ma bu nv hai
 抹布女也有春天	ma bu nv ye you chun tian
-抹布女也有春天精华版	ma bu nv ye you chun tian jing hua ban
 马场大亨	ma chang da heng
 马达加斯加大冒险	ma da jia si jia da mao xian
-马达加斯加狐猴	ma da jia si jia hu hou
 马大姐新传	ma da jie xin zhuan
 马大帅	ma da shuai
 马道悲情	ma dao bei qing
@@ -11439,7 +10913,6 @@ use_preset_vocabulary: true
 马迭尔旅馆的枪声	ma die er lv guan de qiang sheng
 马丁	ma ding
 麻豆宿舍	ma dou su she
-麻豆宿舍栏目剧	ma dou su she lan mu ju
 麻烦男	ma fan nan
 马鬼	ma gui
 马警长的故事	ma jing zhang de gu shi
@@ -12774,8 +12247,6 @@ use_preset_vocabulary: true
 亲爱的敌人	qin ai de di ren
 亲爱的恩东啊	qin ai de en dong a
 亲爱的翻译官	qin ai de fan yi guan
-亲爱的翻译官独家幕后花絮	qin ai de fan yi guan du jia mu hou hua xu
-亲爱的翻译官精华舔屏版	qin ai de fan yi guan jing hua tian ping ban
 亲爱的鬼先生	qin ai de gui xian sheng
 亲爱的回家	qin ai de hui jia
 亲爱的看招	qin ai de kan zhao
@@ -13424,7 +12895,6 @@ use_preset_vocabulary: true
 闪闪的红星	shan shan de hong xing
 闪闪发亮	shan shan fa liang
 杉杉来了	shan shan lai le
-杉杉来了精华版	shan shan lai le jing hua ban
 山水有相逢	shan shui you xiang feng
 山田显义物语	shan tian xian yi wu yu
 闪耀的罗曼史	shan yao de luo man shi
@@ -13618,7 +13088,6 @@ use_preset_vocabulary: true
 神奇的血液世界	shen qi de xue ye shi jie
 神枪	shen qiang
 神枪狙击	shen qiang ju ji
-神枪狙击精华版	shen qiang ju ji jing hua ban
 神枪手	shen qiang shou
 神枪之倒刺	shen qiang zhi dao ci
 沈清的回归	shen qing de hui gui
@@ -14492,11 +13961,6 @@ use_preset_vocabulary: true
 天狼星	tian lang xing
 天亮请睁眼	tian liang qing zheng yan
 天龙八部	tian long ba bu
-天龙八部胡军版	tian long ba bu hu jun ban
-天龙八部黄日华版	tian long ba bu huang ri hua ban
-天龙八部精华版	tian long ba bu jing hua ban
-天龙八部刘亦菲版	tian long ba bu liu yi fei ban
-天龙八部钟汉良版	tian long ba bu zhong han liang ban
 天龙传奇	tian long chuan qi
 天龙诀	tian long jue
 天龙奇侠	tian long qi xia
@@ -15223,50 +14687,33 @@ use_preset_vocabulary: true
 卧底海豚帮	wo di hai tun bang
 卧底警花	wo di jing hua
 卧底双绝	wo di shuang jue
-我非贪官情妇	wo fei tan guan qing fu
 我非英雄	wo fei ying xiong
 我该怎么办	wo gai zen me ban
 我跟你说	wo gen ni shuo
 我诡计多端的爱情	wo gui ji duo duan de ai qing
 我还不想睡	wo hai bu xiang shui
 我好幸福	wo hao xing fu
-我和北极熊一家	wo he bei ji xiong yi jia
 我和春天有个约会	wo he chun tian you ge yue hui
-我和动物的生活	wo he dong wu de sheng huo
-我和黑熊一家	wo he hei xiong yi jia
-我和老妈一起嫁	wo he lao ma yi qi jia
-我和她的传奇情仇	wo he ta de chuan qi qing chou
-我和我的传奇奶奶	wo he wo de chuan qi nai nai
 我和我的父亲	wo he wo de fu qin
-我和我的他们	wo he wo de ta men
-我和我的小姨	wo he wo de xiao yi
-我和我的兄弟恩	wo he wo de xiong di en
 我和我的祖国	wo he wo de zu guo
-我和雪狼家族	wo he xue lang jia zu
-我和丈母娘的十年战争	wo he zhang mu niang de shi nian zhan zheng
-我很好俊平	wo hen hao jun ping
 我很幸福	wo hen xing fu
 卧虎藏龙	wo hu cang long
 卧虎行动	wo hu xing dong
 我怀了你的孩子	wo huai le ni de hai zi
-我怀了你的孩子精华版	wo huai le ni de hai zi jing hua ban
 我会想你的	wo hui xiang ni de
 我家不打烊	wo jia bu da yang
 我家厨房	wo jia chu fang
 我家的春秋冬夏	wo jia de chun qiu dong xia
-我家的恶魔与天使	wo jia de e mo yu tian shi
 我家的故事	wo jia de gu shi
 我家的历史	wo jia de li shi
 我家的天使	wo jia de tian shi
 我家孩子初成长	wo jia hai zi chu cheng zhang
-我家孩子初长成	wo jia hai zi chu zhang cheng
 我家四个宝	wo jia si ge bao
 我家有个大模头	wo jia you ge da mo tou
 我家有个赵大咪	wo jia you ge zhao da mi
 我家有喜	wo jia you xi
 我将逝去	wo jiang shi qu
 我叫郝聪明	wo jiao hao cong ming
-我叫郝聪明之笨蛋爱上两个你	wo jiao hao cong ming zhi ben dan ai shang liang ge ni
 我叫金三顺	wo jiao jin san shun
 我叫刘跃进	wo jiao liu yue jin
 我叫王土地	wo jiao wang tu di
@@ -15281,43 +14728,29 @@ use_preset_vocabulary: true
 我老婆这么屌	wo lao po zhe me diao
 我恋爱的一切	wo lian ai de yi qie
 卧龙小诸葛	wo long xiao zhu ge
-我马上要死了	wo ma shang yao si le
-我们办人事	wo men ban ren shi
 我们成为星星	wo men cheng wei xing xing
-我们的爱情有点疯狂	wo men de ai qing you dian feng kuang
 我们的八十年代	wo men de ba shi nian dai
 我们的纯真年代	wo men de chun zhen nian dai
 我们的电玩史	wo men de dian wan shi
-我们的队伍向太阳	wo men de dui wu xiang tai yang
-我们的法兰西岁月	wo men de fa lan xi sui yue
 我们的饭店	wo men de fan dian
 我们的父辈	wo men de fu bei
 我们的父亲	wo men de fu qin
-我们的孩子足够坚强吗	wo men de hai zi zu gou jian qiang ma
 我们的家	wo men de jia
 我们的教科书	wo men de jiao ke shu
 我们的快乐人生	wo men de kuai le ren sheng
-我们的生活比蜜甜	wo men de sheng huo bi mi tian
 我们的食物	wo men de shi wu
 我们的天空	wo men de tian kong
 我们的眼睛	wo men de yan jing
-我们的勇气未满都市	wo men de yong qi wei man du shi
 我们的知青年代	wo men de zhi qing nian dai
 我们等你	wo men deng ni
-我们都是超能力者	wo men dou shi chao neng li zhe
 我们都是好朋友	wo men dou shi hao peng you
 我们队伍向太阳	wo men dui wu xiang tai yang
 我们发财了	wo men fa cai le
 我们复婚吧	wo men fu hun ba
 我们共同的朋友	wo men gong tong de peng you
 我们还能在一起吗	wo men hai neng zai yi qi ma
-我们几种幸福的问题	wo men ji zhong xing fu de wen ti
 我们家的女人	wo men jia de nv ren
-我们家的女人们	wo men jia de nv ren men
-我们家的微幸福生活	wo men jia de wei xing fu sheng huo
-我们见到了迷途的小鸟	wo men jian dao le mi tu de xiao niao
 我们结婚吧	wo men jie hun ba
-我们可以结婚吗	wo men ke yi jie hun ma
 我们可以相爱吗	wo men ke yi xiang ai ma
 我们俩的婚姻	wo men lia de hun yin
 我们入戏了	wo men ru xi le
@@ -15327,37 +14760,24 @@ use_preset_vocabulary: true
 我们为什么不能在一起	wo men wei shen me bu neng zai yi qi
 我们无处安放的青春	wo men wu chu an fang de qing chun
 我们像葵花	wo men xiang kui hua
-我们幸福的几个质疑	wo men xing fu de ji ge zhi yi
 我们要冒险	wo men yao mao xian
 我们一定行	wo men yi ding xing
-我们应对离别的姿态	wo men ying dui li bie de zi tai
-我们在哪个宇宙	wo men zai na ge yu zhou
 我们这拨人	wo men zhe bo ren
 我们这一班	wo men zhe yi ban
 我们这一代	wo men zhe yi dai
 我们真的爱过吗	wo men zhen de ai guo ma
 我们真的需要月亮吗	wo men zhen de xu yao yue liang ma
-我们坠入爱河的时间	wo men zhui ru ai he de shi jian
 我男人的女人	wo nan ren de nv ren
-蜗牛	wo niu
 我女儿瑞英	wo nv er rui ying
 我女儿是花子	wo nv er shi hua zi
 我女儿是瑞英	wo nv er shi rui ying
 我怕恋爱	wo pa lian ai
 我跑	wo pao
-我亲爱的冒牌老公	wo qin ai de mao pai lao gong
-我亲爱的小冤家	wo qin ai de xiao yuan jia
 我亲爱的祖国	wo qin ai de zu guo
-我全部的爱	wo quan bu de ai
-我人生的春天	wo ren sheng de chun tian
-我人生的甘雨	wo ren sheng de gan yu
-我人生最后的绯闻	wo ren sheng zui hou de fei wen
-我生命中的橄榄树	wo sheng ming zhong de gan lan shu
 我是传奇	wo shi chuan qi
 我是传说	wo shi chuan shuo
 我是大侦探	wo shi da zhen tan
 我是杜拉拉	wo shi du la la
-我师父系黄飞鸿	wo shi fu xi huang fei hong
 我是机器人	wo shi ji qi ren
 我是警察	wo shi jing cha
 我是老板	wo shi lao ban
@@ -15368,11 +14788,6 @@ use_preset_vocabulary: true
 我是农民	wo shi nong min
 我是太阳	wo shi tai yang
 我是特种兵	wo shi te zhong bing
-我是特种兵之国之利刃	wo shi te zhong bing zhi guo zhi li ren
-我是特种兵之火凤凰	wo shi te zhong bing zhi huo feng huang
-我是特种兵之惊雷行动	wo shi te zhong bing zhi jing lei xing dong
-我是特种兵之利刃出鞘	wo shi te zhong bing zhi li ren chu qiao
-我是特种兵之霹雳火	wo shi te zhong bing zhi pi li huo
 我是乡巴佬	wo shi xiang ba lao
 我是业主	wo shi ye zhu
 我是一个兵	wo shi yi ge bing
@@ -15381,15 +14796,10 @@ use_preset_vocabulary: true
 我是赵传奇	wo shi zhao chuan qi
 我是真的	wo shi zhen de
 我是主妇	wo shi zhu fu
-我讨厌的侦探	wo tao yan de zhen tan
-我外母唔系人	wo wai mu wu xi ren
 我为车狂	wo wei che kuang
-我为儿孙当北漂	wo wei er sun dang bei piao
 我为宫狂	wo wei gong kuang
 我为钱狂	wo wei qian kuang
-我为什么没有男女朋友	wo wei shen me mei you nan nv peng you
 我想嫁给你	wo xiang jia gei ni
-我心爱的密探	wo xin ai de mi tan
 我心灿烂	wo xin can lan
 我心荡漾	wo xin dang yang
 我心飞翔	wo xin fei xiang
@@ -15400,20 +14810,15 @@ use_preset_vocabulary: true
 我心永远	wo xin yong yuan
 我心中的天使	wo xin zhong de tian shi
 我心中的星光	wo xin zhong de xing guang
-我要变成硬柿子	wo yao bian cheng ying shi zi
-我要成为超级巨星	wo yao cheng wei chao ji ju xing
-我要当八路	wo yao dang ba lu
 我要当八路军	wo yao dang ba lu jun
 我要当空姐	wo yao dang kong jie
 我要活下去	wo yao huo xia qu
-我要结婚	wo yao jie hun
 我要结婚的理由	wo yao jie hun de li you
 我要你幸福	wo yao ni xing fu
 我要一个家	wo yao yi ge jia
 沃野飘香	wo ye piao xiang
 我也是花	wo ye shi hua
 我也要去	wo ye yao qu
-我爷爷和奶奶的故事	wo ye ye he nai nai de gu shi
 我爷爷和我奶奶的故事	wo ye ye he wo nai nai de gu shi
 我爷爷我爸爸	wo ye ye wo ba ba
 我一个人住	wo yi ge ren zhu
@@ -15423,8 +14828,6 @@ use_preset_vocabulary: true
 我在北京挺好的	wo zai bei jing ting hao de
 我在等你回家	wo zai deng ni hui jia
 我在活着	wo zai huo zhe
-我在考古系所看到的那些诡异事	wo zai kao gu xi suo kan dao de na xie gui yi shi
-我在垦丁天气晴	wo zai ken ding tian qi qing
 我在丽江等你	wo zai li jiang deng ni
 我在你左右	wo zai ni zuo you
 我在锡林郭勒等你	wo zai xi lin guo le deng ni
@@ -15436,24 +14839,17 @@ use_preset_vocabulary: true
 我租了一个情人	wo zu le yi ge qing ren
 我最爱的人	wo zui ai de ren
 我最闪耀	wo zui shan yao
-我最喜欢你	wo zui xi huan ni
-无比可爱的动物	wu bi ke ai de dong wu
-吴必胜奉顺英	wu bi sheng feng shun ying
-午餐的敦子	wu can de dun zi
 武昌首义	wu chang shou yi
 吴承恩与西游记	wu cheng en yu xi you ji
 无处藏身	wu chu cang shen
 无刺玫瑰	wu ci mei gui
 武当	wu dang
 武当张三丰	wu dang zhang san feng
-舞蹈娃娃	wu dao wa wa
-舞蹈学院	wu dao xue yuan
 无敌的降落伞要员	wu di de jiang luo san yao yuan
 无敌降落伞要员	wu di jiang luo san yao yuan
 无敌三脚猫	wu di san jiao mao
 无敌珊宝妹	wu di shan bao mei
 无敌铁桥三	wu di tie qiao san
-无敌铁桥三定制版	wu di tie qiao san ding zhi ban
 无敌县令	wu di xian ling
 屋顶上的绿宝石	wu ding shang de lv bao shi
 舞动奇迹	wu dong qi ji
@@ -17036,7 +16432,6 @@ use_preset_vocabulary: true
 鹰隼大队	ying sun da dui
 樱桃	ying tao
 樱桃红	ying tao hong
-樱桃红之袖珍妈妈	ying tao hong zhi xiu zhen ma ma
 樱桃正红	ying tao zheng hong
 英雄重生	ying xiong chong sheng
 英雄刀少年	ying xiong dao shao nian
@@ -17044,7 +16439,6 @@ use_preset_vocabulary: true
 英雄贵姓	ying xiong gui xing
 英雄虎胆	ying xiong hu dan
 英雄祭	ying xiong ji
-英雄戟之影子战士	ying xiong ji zhi ying zi zhan shi
 英雄泪	ying xiong lei
 英雄联盟	ying xiong lian meng
 英雄联盟四级考试	ying xiong lian meng si ji kao shi
@@ -23902,7 +23296,6 @@ use_preset_vocabulary: true
 不死的传说	bu si de chuan shuo
 不死的灵魂	bu si de ling hun
 不死帝皇	bu si di huang
-不死东京喰种	bu si dong jing can zhong
 不死毒	bu si du
 不死都市传说	bu si du shi chuan shuo
 不死毒医	bu si du yi
@@ -24892,111 +24285,7 @@ use_preset_vocabulary: true
 茶婚	cha hun
 插件无敌	cha jian wu di
 查理九世	cha li jiu shi
-查理九世番外蝴蝶学院	cha li jiu shi fan wai hu die xue yuan
-查理九世怪物大师问	cha li jiu shi guai wu da shi wen
-查理九世精灵王你在哪	cha li jiu shi jing ling wang ni zai na
-查理九世绝地反击	cha li jiu shi jue di fan ji
-查理九世双月星空	cha li jiu shi shuang yue xing kong
-查理九世续	cha li jiu shi xu
-查理九世之	cha li jiu shi zhi
-查理九世之爱丽丝的梦境	cha li jiu shi zhi ai li si de meng jing
-查理九世之暗夜中伯爵	cha li jiu shi zhi an ye zhong bo jue
-查理九世之宝石之瞳	cha li jiu shi zhi bao shi zhi tong
-查理九世之被遗弃的新娘	cha li jiu shi zhi bei yi qi de xin niang
-查理九世之彼岸花开	cha li jiu shi zhi bi an hua kai
-查理九世之冰之花	cha li jiu shi zhi bing zhi hua
-查理九世之布偶的悲伤	cha li jiu shi zhi bu ou de bei shang
-查理九世之苍苍芒芒	cha li jiu shi zhi cang cang mang mang
-查理九世之次元	cha li jiu shi zhi ci yuan
-查理九世之灯塔的离歌	cha li jiu shi zhi deng ta de li ge
-查理九世之巅峰中的希望	cha li jiu shi zhi dian feng zhong de xi wang
-查理九世之动画世界的晰	cha li jiu shi zhi dong hua shi jie de xi
-查理九世之赌约	cha li jiu shi zhi du yue
-查理九世之对决生死之战	cha li jiu shi zhi dui jue sheng si zhi zhan
-查理九世之噩梦邀请函	cha li jiu shi zhi e meng yao qing han
-查理九世之感谢诅咒	cha li jiu shi zhi gan xie zu zhou
-查理九世之古灵岛的声音	cha li jiu shi zhi gu ling dao de sheng yin
-查理九世之鬼城	cha li jiu shi zhi gui cheng
-查理九世之鬼灵晚会	cha li jiu shi zhi gui ling wan hui
-查理九世之海公主的女儿	cha li jiu shi zhi hai gong zhu de nv er
-查理九世之黑暗中的公主	cha li jiu shi zhi hei an zhong de gong zhu
-查理九世之黑化的温柔上	cha li jiu shi zhi hei hua de wen rou shang
-查理九世之黑色的龙王	cha li jiu shi zhi hei se de long wang
-查理九世之黑色童话	cha li jiu shi zhi hei se tong hua
-查理九世之红嫁衣的诅咒	cha li jiu shi zhi hong jia yi de zu zhou
-查理九世之红渊之谜	cha li jiu shi zhi hong yuan zhi mi
-查理九世之记忆重生	cha li jiu shi zhi ji yi chong sheng
-查理九世之惊魂乐园	cha li jiu shi zhi jing hun le yuan
-查理九世之玖家	cha li jiu shi zhi jiu jia
-查理九世之傀儡木偶	cha li jiu shi zhi kui lei mu ou
-查理九世之来自彼方	cha li jiu shi zhi lai zi bi fang
-查理九世之蓝色天际	cha li jiu shi zhi lan se tian ji
-查理九世之蓝星大冒险	cha li jiu shi zhi lan xing da mao xian
-查理九世之泪断珠痕	cha li jiu shi zhi lei duan zhu hen
-查理九世之另个自己	cha li jiu shi zhi ling ge zi ji
-查理九世之灵魂的承诺	cha li jiu shi zhi ling hun de cheng nuo
-查理九世之冒险史记	cha li jiu shi zhi mao xian shi ji
-查理九世之没有神的世界	cha li jiu shi zhi mei you shen de shi jie
-查理九世之梦幻魂花	cha li jiu shi zhi meng huan hun hua
-查理九世之梦幻水雾	cha li jiu shi zhi meng huan shui wu
-查理九世之梦色齿轮	cha li jiu shi zhi meng se chi lun
-查理九世之梦魇黑暗	cha li jiu shi zhi meng yan hei an
-查理九世之魔法大陆	cha li jiu shi zhi mo fa da lu
-查理九世之魔法学园	cha li jiu shi zhi mo fa xue yuan
-查理九世之魔女卡提	cha li jiu shi zhi mo nv ka ti
-查理九世之魔王觉醒	cha li jiu shi zhi mo wang jue xing
-查理九世之魔族魂	cha li jiu shi zhi mo zu hun
-查理九世之娜璐奈俞识	cha li jiu shi zhi na lu nai yu shi
-查理九世之奇异之旅	cha li jiu shi zhi qi yi zhi lv
-查理九世之蔷薇少女	cha li jiu shi zhi qiang wei shao nv
-查理九世之倾星	cha li jiu shi zhi qing xing
-查理九世之人皮做的洋娃娃	cha li jiu shi zhi ren pi zuo de yang wa wa
-查理九世之人柱爱丽丝	cha li jiu shi zhi ren zhu ai li si
-查理九世之杀心冤魂	cha li jiu shi zhi sha xin yuan hun
-查理九世之善恶灵魂	cha li jiu shi zhi shan e ling hun
-查理九世之神锋使录	cha li jiu shi zhi shen feng shi lu
-查理九世之身临其境	cha li jiu shi zhi shen lin qi jing
-查理九世之神兽大战	cha li jiu shi zhi shen shou da zhan
-查理九世之世界彼方	cha li jiu shi zhi shi jie bi fang
-查理九世之失忆宇宙	cha li jiu shi zhi shi yi yu zhou
-查理九世之霜缘雪露	cha li jiu shi zhi shuang yuan xue lu
-查理九世之水晶中的记忆碎片	cha li jiu shi zhi shui jing zhong de ji yi sui pian
-查理九世之死亡催泪弹	cha li jiu shi zhi si wang cui lei dan
-查理九世之死亡之旅	cha li jiu shi zhi si wang zhi lv
-查理九世之太平洋海王子	cha li jiu shi zhi tai ping yang hai wang zi
-查理九世之唐妹	cha li jiu shi zhi tang mei
-查理九世之天堂崩溃	cha li jiu shi zhi tian tang beng kui
-查理九世之王道吾属	cha li jiu shi zhi wang dao wu shu
-查理九世之我是冥王我怕谁	cha li jiu shi zhi wo shi ming wang wo pa shui
-查理九世之西双版纳离别之地	cha li jiu shi zhi xi shuang ban na li bie zhi di
-查理九世之吸血鬼公主	cha li jiu shi zhi xi xue gui gong zhu
-查理九世之吸血鬼公主同人	cha li jiu shi zhi xi xue gui gong zhu tong ren
-查理九世之吸血鬼之夜	cha li jiu shi zhi xi xue gui zhi ye
-查理九世之笑笑笑	cha li jiu shi zhi xiao xiao xiao
-查理九世之星际梭影	cha li jiu shi zhi xing ji suo ying
-查理九世之雪花绽放	cha li jiu shi zhi xue hua zhan fang
-查理九世之血祭	cha li jiu shi zhi xue ji
-查理九世之血泪诅咒	cha li jiu shi zhi xue lei zu zhou
-查理九世之血色玫瑰	cha li jiu shi zhi xue se mei gui
-查理九世之雪影镰刀	cha li jiu shi zhi xue ying lian dao
-查理九世之血之泪	cha li jiu shi zhi xue zhi lei
-查理九世之夜的传说	cha li jiu shi zhi ye de chuan shuo
-查理九世之夜来香庄园	cha li jiu shi zhi ye lai xiang zhuang yuan
-查理九世之异界法典	cha li jiu shi zhi yi jie fa dian
-查理九世之异境穿越	cha li jiu shi zhi yi jing chuan yue
-查理九世之依旧耀眼	cha li jiu shi zhi yi jiu yao yan
-查理九世之异能世界	cha li jiu shi zhi yi neng shi jie
-查理九世之异色蝴蝶	cha li jiu shi zhi yi se hu die
-查理九世之游戏梦工厂	cha li jiu shi zhi you xi meng gong chang
-查理九世之愚人之旅	cha li jiu shi zhi yu ren zhi lv
-查理九世之约定的旅程	cha li jiu shi zhi yue ding de lv cheng
-查理九世之月灵石	cha li jiu shi zhi yue ling shi
-查理九世之在一起	cha li jiu shi zhi zai yi qi
-查理九世之只是幻想而已	cha li jiu shi zhi zhi shi huan xiang er yi
-查理九世之紫蝶迷恋	cha li jiu shi zhi zi die mi lian
-查理九世之诅咒印记	cha li jiu shi zhi zu zhou yin ji
 茶凉泪下	cha liang lei xia
-刹那的华丽血族之复仇完美双生花	cha na de hua li xue zu zhi fu chou wan mei shuang sheng hua
 刹那芳华	cha na fang hua
 刹那锋芒	cha na feng mang
 茶聘	cha pin
@@ -25027,19 +24316,10 @@ use_preset_vocabulary: true
 缠爱冷少欺上身	chan ai leng shao qi shang shen
 缠爱契约妻	chan ai qi yue qi
 缠爱契约情人	chan ai qi yue qing ren
-缠爱前妻不得宠	chan ai qian qi bu de chong
-缠爱司令的小逃妻	chan ai si ling de xiao tao qi
-缠爱吸血王子	chan ai xi xue wang zi
-缠缠仙缘明王恋	chan chan xian yuan ming wang lian
-缠宠别乱来	chan chong bie luan lai
 禅盗	chan dao
 禅刀天剑	chan dao tian jian
 缠定冷情太子	chan ding leng qing tai zi
 颤抖吧	chan dou ba
-颤抖吧机甲男	chan dou ba ji jia nan
-颤抖吧生化人	chan dou ba sheng hua ren
-颤抖吧王爷	chan dou ba wang ye
-颤抖吧妖王	chan dou ba yao wang
 产房里的鬼影	chan fang li de gui ying
 缠欢	chan huan
 忏悔我的青春	chan hui wo de qing chun
@@ -25052,29 +24332,20 @@ use_preset_vocabulary: true
 婵娟误	chan juan wu
 蝉龙变	chan long bian
 禅龙引	chan long yin
-谄媚女经理与温情男上司	chan mei nv jing li yu wen qing nan shang si
 缠绵百合情	chan mian bai he qing
 缠绵不休	chan mian bu xiu
-缠绵不休撒旦的假温柔	chan mian bu xiu sa dan de jia wen rou
-缠绵不休之放空爱	chan mian bu xiu zhi fang kong ai
 缠绵不止	chan mian bu zhi
 缠绵的爱情游戏	chan mian de ai qing you xi
 缠绵婚情	chan mian hun qing
-缠绵婚情将错就爱你	chan mian hun qing jiang cuo jiu ai ni
 缠绵绝爱	chan mian jue ai
-缠绵绝爱首席的契约妻	chan mian jue ai shou xi de qi yue qi
 缠绵心动	chan mian xin dong
 缠绵游戏	chan mian you xi
-缠绵游戏他爹太腹黑	chan mian you xi ta die tai fu hei
 缠绵至死	chan mian zhi si
 禅魔	chan mo
 缠情霸爱	chan qing ba ai
 缠情独爱	chan qing du ai
-缠情独爱甜妻宠上天	chan qing du ai tian qi chong shang tian
 缠情恶主上	chan qing e zhu shang
-缠情恶主上奴妃求扑倒	chan qing e zhu shang nu fei qiu pu dao
 缠情冷少	chan qing leng shao
-缠情冷少契约妻难娶	chan qing leng shao qi yue qi nan qu
 缠情密爱	chan qing mi ai
 缠情诱爱	chan qing you ai
 缠绕	chan rao
@@ -25084,7 +24355,6 @@ use_preset_vocabulary: true
 缠上冷吻陛下	chan shang leng wen bi xia
 缠上惹火娇妻	chan shang re huo jiao qi
 缠上蛇蝎尤物	chan shang she xie you wu
-缠上蛇蝎尤物娘子你好毒	chan shang she xie you wu niang zi ni hao du
 缠上桃花妻	chan shang tao hua qi
 缠上小娇妻	chan shang xiao jiao qi
 缠上小蛮妻	chan shang xiao man qi
@@ -25098,7 +24368,6 @@ use_preset_vocabulary: true
 缠与脱	chan yu tuo
 缠枝莲	chan zhi lian
 馋嘴丫鬟	chan zui ya huan
-馋嘴丫鬟凤舞天下	chan zui ya huan feng wu tian xia
 偿爱玫瑰有毒	chang ai mei gui you du
 长安不见使人愁	chang an bu jian shi ren chou
 长安长安	chang an chang an
@@ -25108,7 +24377,6 @@ use_preset_vocabulary: true
 长安古意	chang an gu yi
 长安烬	chang an jin
 长安泪	chang an lei
-长安乱妖孽丛生	chang an luan yao nie cong sheng
 长安美人香	chang an mei ren xiang
 长安梦	chang an meng
 长安曲	chang an qu
@@ -25117,16 +24385,13 @@ use_preset_vocabulary: true
 长安烟云	chang an yan yun
 长安月末晓	chang an yue mo xiao
 长安月下	chang an yue xia
-长安诏君本帝王	chang an zhao jun ben di wang
 唱罢宫阙	chang ba gong que
 长白山下好种田	chang bai shan xia hao zhong tian
 长阪坡刘备	chang ban po liu bei
 昶变天下	chang bian tian xia
 尝遍天下美男	chang bian tian xia mei nan
-尝遍天下美男多情宠妃	chang bian tian xia mei nan duo qing chong fei
 长春迷失	chang chun mi shi
 长发及腰	chang fa ji yao
-长发老公佣兵妻	chang fa lao gong yong bing qi
 长风傲雪	chang feng ao xue
 长风北望	chang feng bei wang
 长风绝	chang feng jue
@@ -25139,11 +24404,9 @@ use_preset_vocabulary: true
 长河惊涛	chang he jing tao
 长河没晓天	chang he mei xiao tian
 长河神剑	chang he shen jian
-长恨歌绝恋大金	chang hen ge jue lian da jin
 怅恨皇妃	chang hen huang fei
 长欢	chang huan
 长剑歌	chang jian ge
-长江三峡远古人类之谜	chang jiang san xia yuan gu ren lei zhi mi
 长姐	chang jie
 长姐难为	chang jie nan wei
 长镜头	chang jing tou
@@ -25707,8 +24970,6 @@ use_preset_vocabulary: true
 城市猎豹	cheng shi lie bao
 城市猎鬼人	cheng shi lie gui ren
 城市猎魔人	cheng shi lie mo ren
-城市猎人传奇	cheng shi lie ren chuan qi
-城市猎人之花都纵横	cheng shi lie ren zhi hua dou zong heng
 城市灵异档案	cheng shi ling yi dang an
 城市痞王	cheng shi pi wang
 城市食心魔	cheng shi shi xin mo
@@ -31772,14 +31033,8 @@ use_preset_vocabulary: true
 东汉发家史	dong han fa jia shi
 东汉佳人	dong han jia ren
 东汉末	dong han mo
-东汉末年立志传	dong han mo nian li zhi zhuan
-东汉末年之霸者天下	dong han mo nian zhi ba zhe tian xia
-东汉末年之青锋怒	dong han mo nian zhi qing feng nu
-东汉之群雄逐鹿	dong han zhi qun xiong zhu lu
-东汉之枭雄凤皇	dong han zhi xiao xiong feng huang
 东河轶事	dong he yi shi
 东护城	dong hu cheng
-动画犬夜叉之奈何不洛	dong hua quan ye cha zhi nai he bu luo
 东皇布控	dong huang bu kong
 东荒大世界	dong huang da shi jie
 东皇剑	dong huang jian
@@ -31789,40 +31044,7 @@ use_preset_vocabulary: true
 东江情缘	dong jiang qing yuan
 东晋权臣	dong jin quan chen
 东晋之初	dong jin zhi chu
-东京暗鸦之不存在的人	dong jing an ya zhi bu cun zai de ren
-东京暗鸦之千年	dong jing an ya zhi qian nian
-东京暗鸦之守护	dong jing an ya zhi shou hu
 东京不平静	dong jing bu ping jing
-东京喰种金木归来	dong jing can zhong jin mu gui lai
-东京喰种里的独眼	dong jing can zhong li de du yan
-东京喰种异端歌	dong jing can zhong yi duan ge
-东京喰种之艾特养食记	dong jing can zhong zhi ai te yang shi ji
-东京喰种之传奇系统	dong jing can zhong zhi chuan qi xi tong
-东京喰种之光暗交织	dong jing can zhong zhi guang an jiao zhi
-东京喰种之黑白双翅	dong jing can zhong zhi hei bai shuang chi
-东京喰种之黑色行动	dong jing can zhong zhi hei se xing dong
-东京喰种之蝴蝶	dong jing can zhong zhi hu die
-东京喰种之金木研	dong jing can zhong zhi jin mu yan
-东京喰种之绝世邮	dong jing can zhong zhi jue shi you
-东京喰种之梦	dong jing can zhong zhi meng
-东京喰种之迷茫	dong jing can zhong zhi mi mang
-东京喰种之你要买酱油吗	dong jing can zhong zhi ni yao mai jiang you ma
-东京喰种之虐杀	dong jing can zhong zhi nue sha
-东京喰种之破茧成蝶	dong jing can zhong zhi po jian cheng die
-东京喰种之青龙	dong jing can zhong zhi qing long
-东京喰种之神之进化	dong jing can zhong zhi shen zhi jin hua
-东京喰种之无限鬼父	dong jing can zhong zhi wu xian gui fu
-东京喰种之邪君	dong jing can zhong zhi xie jun
-东京喰种之邪王	dong jing can zhong zhi xie wang
-东京喰种之虚无	dong jing can zhong zhi xu wu
-东京喰种之玄魁	dong jing can zhong zhi xuan kui
-东京喰种之夜枪	dong jing can zhong zhi ye qiang
-东京喰种之夜死神	dong jing can zhong zhi ye si shen
-东京喰种之只为千支	dong jing can zhong zhi zhi wei qian zhi
-东京喰种之最强赫子	dong jing can zhong zhi zui qiang he zi
-东京喰种之最强啃种	dong jing can zhong zhi zui qiang ken zhong
-东京喰种之最渣啃种	dong jing can zhong zhi zui zha ken zhong
-东京喰族	dong jing can zu
 东京寄生兽	dong jing ji sheng shou
 东京留学日记	dong jing liu xue ri ji
 东京乱	dong jing luan
@@ -36567,7 +35789,6 @@ use_preset_vocabulary: true
 俺爹	an die
 俺爹俺娘	an die an niang
 安定医院	an ding yi yuan
-暗动画	an dong hua
 安东寇班	an dong kou ban
 安东尼和克利奥帕格拉	an dong ni he ke li ao pa ge la
 安东尼娅家族	an dong ni ya jia zu
@@ -37692,7 +36913,6 @@ use_preset_vocabulary: true
 宝贵的秘密	bao gui de mi mi
 包裹	bao guo
 包裹男人	bao guo nan ren
-保国寺系列动画之竹林七贤	bao guo si xi lie dong hua zhi zhu lin qi xian
 报恨冬日	bao hen dong ri
 保护费	bao hu fei
 保护和服务	bao hu he fu wu
@@ -40371,8 +39591,6 @@ use_preset_vocabulary: true
 成记茶楼	cheng ji cha lou
 成绩单	cheng ji dan
 成吉思汉传	cheng ji si han zhuan
-成吉思汗的两匹骏马	cheng ji si han de liang pi jun ma
-成吉思汗的意愿	cheng ji si han de yi yuan
 惩戒者	cheng jie zhe
 乘客	cheng ke
 成昆铁路	cheng kun tie lu
@@ -40380,7 +39598,6 @@ use_preset_vocabulary: true
 乘列车前行	cheng lie che qian xing
 成龙的传奇	cheng long de chuan qi
 成龙的特技	cheng long de te ji
-成龙功夫精华天下无敌	cheng long gong fu jing hua tian xia wu di
 城门谣	cheng men yao
 成名背后	cheng ming bei hou
 成名记	cheng ming ji
@@ -40432,11 +39649,6 @@ use_preset_vocabulary: true
 城市里的孩子	cheng shi li de hai zi
 城市里的老鼠	cheng shi li de lao shu
 城市丽人	cheng shi li ren
-城市猎人剧场版爱与宿命的连发枪	cheng shi lie ren ju chang ban ai yu su ming de lian fa qiang
-城市猎人剧场版百万美金的阴谋	cheng shi lie ren ju chang ban bai wan mei jin de yin mou
-城市猎人剧场版海滩城市之战	cheng shi lie ren ju chang ban hai tan cheng shi zhi zhan
-城市猎人特别篇保镖密令	cheng shi lie ren te bie pian bao biao mi ling
-城市猎人特别篇再见我的爱人	cheng shi lie ren te bie pian zai jian wo de ai ren
 城市梦想家	cheng shi meng xiang jia
 城市名片	cheng shi ming pian
 城市牧歌	cheng shi mu ge
@@ -43018,7 +42230,6 @@ use_preset_vocabulary: true
 地洞	di dong
 地动天摇	di dong tian yao
 第二次爱你	di er ci ai ni
-第二次爱你另类结局版	di er ci ai ni ling lei jie ju ban
 第二次初恋	di er ci chu lian
 第二次呼吸	di er ci hu xi
 第二次机会	di er ci ji hui
@@ -43034,8 +42245,6 @@ use_preset_vocabulary: true
 第二号	di er hao
 第二回合	di er hui he
 第二辑	di er ji
-第二届彩虹行动视频	di er jie cai hong xing dong shi pin
-第二届九分钟电影	di er jie jiu fen zhong dian ying
 第二镜	di er jing
 第二口气	di er kou qi
 第二块血迹	di er kuai xue ji
@@ -43047,10 +42256,8 @@ use_preset_vocabulary: true
 第二扇窗	di er shan chuang
 第二生命	di er sheng ming
 第二十二条军规	di er shi er tiao jun gui
-第二十五届帝国	di er shi wu jie di guo
 第二写真部	di er xie zhen bu
 第二张脸	di er zhang lian
-第二章杀人考察	di er zhang sha ren kao cha
 第二阵风	di er zhen feng
 第二指令	di er zhi ling
 蒂凡尼的早餐	di fan ni de zao can
@@ -43116,10 +42323,8 @@ use_preset_vocabulary: true
 第六根神经	di liu gen shen jing
 第六号刘海	di liu hao liu hai
 第六计	di liu ji
-第六届金鹏奖形象宣称片	di liu jie jin peng jiang xing xiang xuan cheng pian
 第六日	di liu ri
 第六天雨	di liu tian yu
-第六章忘却录音	di liu zhang wang que lu yin
 地面之	di mian zhi
 地面之下	di mian zhi xia
 地魔上身	di mo shang shen
@@ -43135,14 +42340,12 @@ use_preset_vocabulary: true
 第七成员	di qi cheng yuan
 帝企鹅日记	di qi e ri ji
 第七封印	di qi feng yin
-第七封印瑞典版	di qi feng yin rui dian ban
 第七感	di qi gan
 第七个被害者	di qi ge bei hai zhe
 第七个目标	di qi ge mu biao
 第七个早晨	di qi ge zao chen
 第七谎言	di qi huang yan
 第七阶	di qi jie
-第七届金扫帚颁奖典礼	di qi jie jin sao zhou ban jiang dian li
 第七聚会	di qi ju hui
 第七卷轴	di qi juan zhou
 第七码	di qi ma
@@ -43150,8 +42353,6 @@ use_preset_vocabulary: true
 第七十七府	di qi shi qi fu
 第七天	di qi tian
 第七天堂	di qi tian tang
-第七章杀人考察	di qi zhang sha ren kao cha
-第七子降魔之战	di qi zi xiang mo zhi zhan
 弟切草	di qie cao
 狄青三取珍珠旗	di qing san qu zhen zhu qi
 地球保卫战	di qiu bao wei zhan
@@ -43218,7 +42419,6 @@ use_preset_vocabulary: true
 第三个愿望	di san ge yuan wang
 第三谎言	di san huang yan
 第三极	di san ji
-第三届北京国际电影节开幕式	di san jie bei jing guo ji dian ying jie kai mu shi
 第三颗钉子	di san ke ding zi
 第三颗星	di san ke xing
 第三类接触	di san lei jie chu
@@ -43243,7 +42443,6 @@ use_preset_vocabulary: true
 第十大道和狼	di shi da dao he lang
 的士大佬	di shi da lao
 第十二次列车	di shi er ci lie che
-第十二届中韩歌会	di shi er jie zhong han ge hui
 第十二夜	di shi er ye
 第十二夜俄罗斯版	di shi er ye e luo si ban
 第十个弹孔	di shi ge dan kong
@@ -43251,9 +42450,7 @@ use_preset_vocabulary: true
 第十个夏天	di shi ge xia tian
 第十九层空间	di shi jiu ceng kong jian
 第十九个妻子	di shi jiu ge qi zi
-第十六届上海国际电影节	di shi liu jie shang hai guo ji dian ying jie
 第十六区	di shi liu qu
-迪士尼公主奇幻旅程之向梦想飞翔	di shi ni gong zhu qi huan lv cheng zhi xiang meng xiang fei xiang
 迪士尼乐园	di shi ni le yuan
 的士判官	di shi pan guan
 的士情缘	di shi qing yuan
@@ -43273,7 +42470,6 @@ use_preset_vocabulary: true
 第十一个妈妈	di shi yi ge ma ma
 第十一个受害人	di shi yi ge shou hai ren
 第十一个小时	di shi yi ge xiao shi
-第十一届中韩歌会	di shi yi jie zhong han ge hui
 第十一名前锋	di shi yi ming qian feng
 第十一年	di shi yi nian
 滴水不漏	di shui bu lou
@@ -43291,8 +42487,6 @@ use_preset_vocabulary: true
 第四怪谈之轮回	di si guai tan zhi lun hui
 第四怪谈之小说	di si guai tan zhi xiao shuo
 第四阶段	di si jie duan
-第四届金鹏奖	di si jie jin peng jiang
-第四届金扫帚奖颁奖典礼	di si jie jin sao zhou jiang ban jiang dian li
 迪斯科	di si ke
 第四课时推理领域	di si ke shi tui li ling yu
 迪斯科舞星	di si ke wu xing
@@ -43345,7 +42539,6 @@ use_preset_vocabulary: true
 第五个季节	di wu ge ji jie
 第五惑星	di wu huo xing
 第五街	di wu jie
-第五届金鹏奖参赛作品	di wu jie jin peng jiang can sai zuo pin
 第五位病人	di wu wei bing ren
 第五元素	di wu yuan su
 第五章矛盾螺旋	di wu zhang mao dun luo xuan
@@ -43483,7 +42676,6 @@ use_preset_vocabulary: true
 地狱魔王	di yu mo wang
 地狱奶奶	di yu nai nai
 地狱男爵	di yu nan jue
-地狱男爵动画版	di yu nan jue dong hua ban
 地狱七日	di yu qi ri
 地狱骑士	di yu qi shi
 地狱曲折	di yu qu zhe
@@ -43917,10 +43109,6 @@ use_preset_vocabulary: true
 东海道四谷怪谈	dong hai dao si gu guai tan
 东海战	dong hai zhan
 洞和木塞	dong he mu sai
-动画关于爱	dong hua guan yu ai
-动画师	dong hua shi
-动画师生存手册	dong hua shi sheng cun shou ce
-动画秀	dong hua xiu
 动机	dong ji
 动机不明	dong ji bu ming
 东极岛日记	dong ji dao ri ji
@@ -47159,11 +46347,8 @@ use_preset_vocabulary: true
 隔离日	ge li ri
 葛丽丝费德事件	ge li si fei de shi jian
 歌利亚	ge li ya
-歌莉娅女装求婚大作战	ge li ya nv zhuang qiu hun da zuo zhan
-歌莉娅求婚大作战	ge li ya qiu hun da zuo zhan
 哥俩好	ge lia hao
 格列佛游记	ge lie fo you ji
-格列佛游记动画版	ge lie fo you ji dong hua ban
 格列柯传	ge lie ke zhuan
 格林白雪公主	ge lin bai xue gong zhu
 格林伯格	ge lin bo ge
@@ -48806,7 +47991,6 @@ use_preset_vocabulary: true
 海街日记	hai jie ri ji
 海军别动队	hai jun bie dong dui
 海军悍妇	hai jun han fu
-海军陆战队的故事	hai jun lu zhan dui de gu shi
 海军陆战队员	hai jun lu zhan dui yuan
 海军上将	hai jun shang jiang
 海军上将牌香烟	hai jun shang jiang pai xiang yan
@@ -48815,7 +47999,6 @@ use_preset_vocabulary: true
 海军突击队	hai jun tu ji dui
 海军最强的部队	hai jun zui qiang de bu dui
 骇客	hai ke
-骇客帝国动画版超越极限	hai ke di guo dong hua ban chao yue ji xian
 骇客交锋	hai ke jiao feng
 骇客军团故事	hai ke jun tuan gu shi
 骇客追缉令	hai ke zhui ji ling
@@ -49704,7 +48887,6 @@ use_preset_vocabulary: true
 黑咖啡	hei ka fei
 黑客悲情	hei ke bei qing
 黑客帝国	hei ke di guo
-黑客帝国动画版	hei ke di guo dong hua ban
 黑客风暴	hei ke feng bao
 黑客红蜘蛛	hei ke hong zhi zhu
 黑客狙击	hei ke ju ji
@@ -50679,7 +49861,6 @@ use_preset_vocabulary: true
 花季	hua ji
 花祭	hua ji
 滑稽表演的幕后	hua ji biao yan de mu hou
-滑稽动画	hua ji dong hua
 滑稽农场	hua ji nong chang
 滑稽女郎	hua ji nv lang
 滑稽人物	hua ji ren wu
@@ -56688,9 +55869,7 @@ use_preset_vocabulary: true
 老父如子	lao fu ru zi
 老妇杀手	lao fu sha shou
 老妇与鸽子	lao fu yu ge zi
-老夫子动画大电影	lao fu zi dong hua da dian ying
 老夫子奇趣录	lao fu zi qi qu lu
-老夫子之小水虎传奇	lao fu zi zhi xiao shui hu chuan qi
 老港正传	lao gang zheng zhuan
 老哥帮帮忙	lao ge bang bang mang
 老公不及格	lao gong bu ji ge
@@ -61521,10 +60700,6 @@ use_preset_vocabulary: true
 末世西游	mo shi xi you
 末世殖民地	mo shi zhi min di
 魔兽世界	mo shou shi jie
-魔兽世界电影	mo shou shi jie dian ying
-魔兽世界电影降世魔君	mo shou shi jie dian ying jiang shi mo jun
-魔兽世界电影上古之战	mo shou shi jie dian ying shang gu zhi zhan
-魔兽世界电影斯塔文的传说	mo shou shi jie dian ying si ta wen de chuan shuo
 魔兽战场	mo shou zhan chang
 魔术大师	mo shu da shi
 魔术大王	mo shu da wang
@@ -61981,7 +61156,6 @@ use_preset_vocabulary: true
 奶爸乐	nai ba le
 奶爸难当	nai ba nan dang
 奈岛逸事	nai dao yi shi
-奶滴动画	nai di dong hua
 奈河	nai he
 奈莱特瓦河战役	nai lai te wa he zhan yi
 奶酪店	nai lao dian
@@ -62642,7 +61816,6 @@ use_preset_vocabulary: true
 念书的孩子	nian shu de hai zi
 粘土	nian tu
 黏土	nian tu
-粘土猫版全面突袭	nian tu mao ban quan mian tu xi
 粘液	nian ye
 年夜饭	nian ye fan
 年溢客家	nian yi ke jia
@@ -64226,12 +63399,10 @@ use_preset_vocabulary: true
 七金刚	qi jin gang
 七金尸	qi jin shi
 骑警	qi jing
-骑警拍档之卢克与露西	qi jing pai dang zhi lu ke yu lu xi
 奇警夏基	qi jing xia ji
 齐聚一堂	qi ju yi tang
 契卡	qi ka
 弃考	qi kao
-奇客和冲的动画大电影	qi ke he chong de dong hua da dian ying
 奇可和丽塔	qi ke he li ta
 七寇伏尸记	qi kou fu shi ji
 齐勒维	qi le wei
@@ -71736,7 +70907,6 @@ use_preset_vocabulary: true
 太空营救	tai kong ying jiu
 太空勇狗队	tai kong yong gou dui
 太空游侠	tai kong you xia
-太空游侠动画版	tai kong you xia dong hua ban
 太空运输	tai kong yun shu
 太空站	tai kong zhan
 太空战士	tai kong zhan shi
@@ -74380,7 +73550,6 @@ use_preset_vocabulary: true
 伟大的导演们	wei da de dao yan men
 伟大的荒凉	wei da de huang liang
 伟大的卡鲁索	wei da de ka lu suo
-伟大的历史动画	wei da de li shi dong hua
 伟大的梦想	wei da de meng xiang
 伟大的帕森斯	wei da de pa sen si
 伟大的起点	wei da de qi dian
@@ -77737,7 +76906,6 @@ use_preset_vocabulary: true
 鲜花与少年	xian hua yu shao nian
 鲜花之日	xian hua zhi ri
 先婚后友	xian hun hou you
-仙剑奇侠传五全剧情动画	xian jian qi xia zhuan wu quan ju qing dong hua
 险角	xian jiao
 线结	xian jie
 现金	xian jin
@@ -82082,7 +81250,6 @@ use_preset_vocabulary: true
 异教徒皇后	yi jiao tu huang hou
 异教徒与盗贼	yi jiao tu yu dao zei
 异教徒之恋	yi jiao tu zhi lian
-一届毕业生	yi jie bi ye sheng
 艺界人生	yi jie ren sheng
 医尽女人心	yi jin nv ren xin
 异境	yi jing
@@ -86510,26 +85677,20 @@ use_preset_vocabulary: true
 中国功夫	zhong guo gong fu
 中国功夫少女组	zhong guo gong fu shao nv zu
 中国姑娘	zhong guo gu niang
-中国广播电视台微视频展播	zhong guo guang bo dian shi tai wei shi pin zhan bo
 中国国家森林公园	zhong guo guo jia sen lin gong yuan
 中国海	zhong guo hai
 中国好导游	zhong guo hao dao you
-中国好声音之为你转身	zhong guo hao sheng yin zhi wei ni zhuan shen
 中国好演员	zhong guo hao yan yuan
 中国合伙人	zhong guo he huo ren
 中国合租人	zhong guo he zu ren
 中国基长	zhong guo ji chang
 中国跤	zhong guo jiao
-中国教会被袭记	zhong guo jiao hui bei xi ji
-中国警方在行动	zhong guo jing fang zai xing dong
 中国咖啡	zhong guo ka fei
 中国蓝	zhong guo lan
 中国佬	zhong guo lao
-中国离婚报告	zhong guo li hun bao gao
 中国龙	zhong guo long
 中国轮盘	zhong guo lun pan
 中国妈妈	zhong guo ma ma
-中国美术学院动画桃花源	zhong guo mei shu xue yuan dong hua tao hua yuan
 中国门	zhong guo men
 中国民间艺术	zhong guo min jian yi shu
 中国女兵	zhong guo nv bing
