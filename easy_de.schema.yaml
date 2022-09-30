@@ -44,7 +44,7 @@ punctuator:
   full_shape:
   half_shape:
     "!": {commit: "!"}
-    "\"": {pair: ["„", "“"]}
+    "\"": {pair: ["„", "\""]}
     "#": "#"
     "$": "$"
     "%": "%"
