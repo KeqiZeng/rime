@@ -2,37 +2,19 @@
 patch:
   app_options: {}
   style:
-    horizontal: true
     candidate_list_layout: linear # stacked | linear
     text_orientation: horizontal
     inline_preedit: true
-    color_scheme: panda
+    color_scheme: mocha
+    color_scheme_dark: mocha
   preset_color_schemes:
-    nightelf:
-      name: NightElf
+    panda:
+      name: Panda
       author: Ketch
       corner_radius: 5
       font_face: PingFangSC
       font_point: 20
-      label_font_point: 20
-      back_color: '0x666666'
-      text_color: '0x7BC0E5'
-      hilited_text_color: '0xF8B696'
-      hilited_back_color: '0x323232'
-      hilited_candidate_text_color: '0x88D3A8'
-      hilited_candidate_back_color: '0x323232'
-      hilited_candidate_label_color: '0x88D3A8'
-      hilited_comment_text_color: '0x88D3A8'
-      candidate_text_color: '0xC9C9C9'
-      label_color: '0xC9C9C9'
-      comment_text_color: '0xC9C9C9'
-
-    panda:
-      name: Panda
-      author: ketch
-      corner_radius: 5
-      font_face: PingFangSC
-      font_point: 20
+      label_font_face: PingFangSC
       label_font_point: 20
       back_color: '0xF1F1F1'
       text_color: '0x2E2E2E'
@@ -45,3 +27,25 @@ patch:
       candidate_text_color: '0x2E2E2E'
       label_color: '0x2E2E2E'
       comment_text_color: '0x2E2E2E'
+    mocha:
+      name: "mocha"
+      font_face: "PingFangSC-Regular"
+      font_point: 20.0
+      candidate_list_layout: linear
+      text_orientation: horizontal
+      inline_preedit: true
+      corner_radius: 8.0
+      border_height: 1.0
+      border_width: 1.0
+      color_space: display_p3
+      back_color: 0x2E1E1E
+      border_color: 0xC1E8F7
+      candidate_text_color: 0xF4D6CD
+      comment_text_color: 0xB29993
+      label_color: 0xFEBEB4
+      hilited_candidate_back_color: 0xAFE2F9
+      hilited_candidate_text_color: 0x2E1E1E
+      hilited_comment_text_color: 0x5A4745
+      hilited_candidate_label_color: 0xFEBEB4
+      text_color: 0xF4D6CD
+      hilited_text_color: 0xF4D6CD
