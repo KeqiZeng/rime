@@ -13,9 +13,9 @@ patch:
       author: Ketch
       corner_radius: 5
       font_face: PingFangSC
-      font_point: 20
+      font_point: 18
       label_font_face: PingFangSC
-      label_font_point: 20
+      label_font_point: 18
       back_color: '0xF1F1F1'
       text_color: '0x2E2E2E'
       hilited_text_color: '0xEAEAEA'
@@ -30,7 +30,7 @@ patch:
     mocha:
       name: "mocha"
       font_face: "PingFangSC-Regular"
-      font_point: 20.0
+      font_point: 18.0
       candidate_list_layout: linear
       text_orientation: horizontal
       inline_preedit: true
