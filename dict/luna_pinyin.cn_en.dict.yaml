@@ -1,8 +1,5 @@
 # Rime dictionary
 # encoding: utf-8
-#
-#
-# 不加入u开头的编码，提供纯净的拆字输入法体验
 
 ---
 name: luna_pinyin.cn_en
@@ -35,7 +32,7 @@ API	api
 APS	aps
 ATM	atm
 AutoCAD	autocad
-B站	bzhan
+B站	b zhan
 Bug	bug
 BetterTouchTool	btt
 Bluetooth	bluetooth

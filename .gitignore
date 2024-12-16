@@ -1,4 +1,5 @@
 .DS_Store
+.vscode/
 installation.yaml
 user.yaml
 build/

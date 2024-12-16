@@ -8,23 +8,23 @@ vocabulary: essay-zh-hans
 use_preset_vocabulary: true
 
 import_tables:
-  - luna_pinyin_simp
-  - THUOCL_IT
-  - sogou_automobile
-  - sogou_ai
-  - sogou_electronics
-  - sogou_mechanical
-  - sogou_economy
-  - sogou_law
-  - sogou_new_words
-  - sogou_shenghuo
-  - sogou_chengyusuyu
-  - sogou_entertainment
-  - sogou_place
-  - luna_pinyin.name
-  - luna_pinyin.medical
-  - luna_pinyin.poetry
-  - custom_supplement
-  - luna_pinyin.cn_en
-  - luna_pinyin.emoji
-  - luna_pinyin.kaomoji
+  - dict/luna_pinyin_simp
+  - dict/THUOCL_IT
+  - dict/sogou_automobile
+  - dict/sogou_ai
+  - dict/sogou_electronics
+  - dict/sogou_mechanical
+  - dict/sogou_economy
+  - dict/sogou_law
+  - dict/sogou_new_words
+  - dict/sogou_shenghuo
+  - dict/sogou_chengyusuyu
+  - dict/sogou_entertainment
+  - dict/sogou_place
+  - dict/luna_pinyin.name
+  - dict/luna_pinyin.medical
+  - dict/luna_pinyin.poetry
+  - dict/luna_pinyin.cn_en
+  - dict/luna_pinyin.emoji
+  - dict/luna_pinyin.kaomoji
+  - dict/custom_supplement

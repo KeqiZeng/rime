@@ -1,0 +1,58 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: custom_supplement
+version: "1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+⓪	ling
+①	yi
+②	er
+③	san
+④	si
+⑤	wu
+⑥	liu
+⑦	qi
+⑧	ba
+⑨	jiu
+⑩	shi
++	jia
+-	jian
+×	cheng
+÷	chu
+°	du
+α	alpha
+β	beta
+γ	gamma
+θ	theta
+σ	sigma
+π	pi
+∠	jiao
+、	dian
+·	dian
+|	shu
+艹	cao
+卧槽	wo cao
+鬼灭之刃	gui mie zhi ren
+石神千空	shi shen qian kong
+流浪地球	liu lang di qiu
+觉醒年代	jue xing nian dai
+国际邀请赛	guo ji yao qing sai
+绝绝子	jue jue zi
+一键三联	yi jian san lian
+勐腊	meng la
+勐仑	meng lun
+勐醒	meng xing
+新冠	xin guan
+新冠肺炎	xin guan fei yan
+小鹤双拼	xiao he shuang pin
+表情包	biao qing bao
+自造词	zi zao ci
+知网	zhi wang
+中国知网	zhong guo zhi wang
+爷青结	ye qing jie
+爷青回	ye qing hui
+收束	shou shu
+哔哩哔哩	bilibili
