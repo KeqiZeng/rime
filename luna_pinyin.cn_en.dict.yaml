@@ -35,6 +35,7 @@ API	api
 APS	aps
 ATM	atm
 AutoCAD	autocad
+B站	bzhan
 Bug	bug
 BetterTouchTool	btt
 Bluetooth	bluetooth
@@ -184,6 +185,7 @@ Proxy	proxy
 ProMotion	promotion
 PyCharm	pycharm
 Python	python
+QQ空间	qqkongjian
 RAM	ram
 Rime	rime
 RMB	rmb
@@ -214,12 +216,14 @@ TED	ted
 Telegram	telegram
 Touch ID	touch id
 Turbo	turbo
+UU加速器	uu jia su qi
 U盘	you pan
+up主	up zhu
 UDP	udp
 Unix	unix
 URL	url
 Vim	vim
-Volkswagen	volkswagen
+Nvim	nvim
 Volkswagen	vw
 VLC	vlc
 VMware	vmware
@@ -243,4 +247,6 @@ WPS	wps
 Xbox	xbox
 Xcode	xcode
 X-Ray	xray
+X光	x guang
+X射线	x she xian
 YouTube	you tube
